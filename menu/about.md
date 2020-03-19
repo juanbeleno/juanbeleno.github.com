@@ -1,18 +1,6 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Juan Sebastián Beleño Díaz
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
-
-### Getting Started
-
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
-
-### Example Content
-
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+Soy ingeniero de sistemas de la Universidad Industrial de Santander (Colombia). Hice una maestría en ciencias de la computación en la Universidad de Campinas (Brasil). Tengo 3 años de experiencia en desarrollo de software: escritorio, web y móviles (Android y iOS). Después de la maestría, decidí hacer una transición hacia la ciencia de datos. Entonces trabajé en [1DOC3](https://www.1doc3.com/) como ingeniero de datos y ahora estoy trabajando como científico de datos. En esta empresa, adquirí experiencia en PLN (Procesamiento de Lenguaje Natural) y bases de conocimiento (grafos y ontologias médicas) usando machine learning tradicional y deep learning aplicado a la clasificación, regresión sistemas de recomendación, enlace de entidades con texto, pre-diagnóstico de enfermedades, etc.
