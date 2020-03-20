@@ -1,10 +1,10 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+  disqus_shortname: ''
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-1'
+google-ID: ''
 
 menu:
 - {name: 'Acerca de mí', path: 'menu', url: 'about.html'}
@@ -23,10 +23,10 @@ social:
 # Customize site text
 pagination:
   next_page: 'Nuevas'
-  previous_page: 'Viejas'
+  previous_page: 'Antiguas'
 
 sharing_button_prompt: '¡Siéntete libre de compartir!'
 
-related_posts: 'También te podría interesar:'
+related_posts: 'También te puede interesar:'
 
 post_date_prefix: 'Escrito en'
