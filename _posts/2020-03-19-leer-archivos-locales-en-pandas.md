@@ -1,25 +1,25 @@
 ---
 layout: post
-title: "Leer archivos desde una URL con pandas"
+title: "Leer archivos locales con pandas"
 author: "Juan Beleño"
 categories: journal
 tags: [pandas,spanish]
 ---
 
-En el siguiente código creamos un DataFrame a partir de un archivo en la nube usando la URL. Un DataFrame es una estructura de datos en pandas que se representa usando filas y columnas (parecido a Excel). La URL es de un conjunto de datos llamado [iris dataset](https://archive.ics.uci.edu/ml/datasets/iris) que contiene datos de 3 tipos de flores, donde cada registro tiene el largo del [sépalo](https://es.wikipedia.org/wiki/S%C3%A9palo), el ancho del sépalo, el largo del [pétalo](https://es.wikipedia.org/wiki/P%C3%A9talo), el acho del pétalo y el nombre del tipo de flor.
+En el siguiente código creamos un DataFrame a partir de un archivo local en nuestra máquina. Un DataFrame es una estructura de datos en pandas que se representa usando filas y columnas (parecido a Excel). Para esta publicación voy a usar un conjunto de datos llamado [iris dataset](https://archive.ics.uci.edu/ml/datasets/iris) que contiene datos de 3 tipos de flores, donde cada registro tiene el largo del [sépalo](https://es.wikipedia.org/wiki/S%C3%A9palo), el ancho del sépalo, el largo del [pétalo](https://es.wikipedia.org/wiki/P%C3%A9talo), el acho del pétalo y el nombre del tipo de flor. El archivo está disponible [aquí](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data)
 
 ```python
 import pandas as pd
 
-url_iris = 'https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data'
+ruta_archivo_iris = '/Users/Juan/Downloads/iris.data'
 nombres_columnas = ['largo_sepalo', 'ancho_sepalo', 'largo_petalo', 'ancho_petalo', 'tipo_flor']
-datos = pd.read_csv(url_iris, sep=',', header=None, names=nombres_columnas)
+datos = pd.read_csv(ruta_archivo_iris, sep=',', header=None, names=nombres_columnas)
 ```
 
 ## Parametros
 Hay 4 parametros usados en el ejemplo:
 
-**filepath_or_buffer:** Es la URL de los datos.
+**filepath_or_buffer:** Es la ruta absoluta del archivo en nuestro sistema operativo.
 
 **sep:** Es el separador entre un dato y el otro. Valores comunes para este campo son la coma `,`, el punto y coma `;` y el tab `\t`.
 
