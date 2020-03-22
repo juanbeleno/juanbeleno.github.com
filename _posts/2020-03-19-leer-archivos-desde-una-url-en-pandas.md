@@ -6,7 +6,7 @@ categories: journal
 tags: [pandas,spanish]
 ---
 
-En el siguiente código creamos un DataFrame a partir de un archivo en la nube usando la URL. Un DataFrame es una estructura de datos en pandas que se representa usando filas y columnas (parecido a Excel). La URL es de un conjunto de datos llamado [iris dataset](https://archive.ics.uci.edu/ml/datasets/iris) que contiene datos de 3 tipos de flores, donde cada registro tiene el largo del [sépalo](https://es.wikipedia.org/wiki/S%C3%A9palo), el ancho del sépalo, el largo del [pétalo](https://es.wikipedia.org/wiki/P%C3%A9talo), el acho del pétalo y el nombre del tipo de flor.
+En el siguiente código, creamos un DataFrame a partir de un archivo en la nube usando la URL. Un DataFrame es una estructura de datos en pandas que se representa usando filas y columnas (parecido a Excel). La URL es de un conjunto de datos llamado [iris dataset](https://archive.ics.uci.edu/ml/datasets/iris) que contiene datos de 3 tipos de flores, donde cada registro tiene el largo del [sépalo](https://es.wikipedia.org/wiki/S%C3%A9palo), el ancho del sépalo, el largo del [pétalo](https://es.wikipedia.org/wiki/P%C3%A9talo), el acho del pétalo y el nombre del tipo de flor.
 
 ```python
 import pandas as pd
