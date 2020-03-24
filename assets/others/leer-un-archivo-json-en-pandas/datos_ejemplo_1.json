@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Juan",
+        "altura": 1.76,
+        "peso": 65
+    },
+    {
+        "nombre": "Lina",
+        "altura": 1.65,
+        "peso": 68
+    },
+    {
+        "nombre": "Katherine",
+        "altura": 1.68,
+        "peso": 67
+    }
+]
