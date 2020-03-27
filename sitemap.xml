@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://juanbeleno.github.io/journal/obtener-y-limpiar-datos-con-pandas.html</loc>
+      <lastmod>2020-03-27</lastmod>
+   </url>
+   <url>
+      <loc>https://juanbeleno.github.io/journal/leer-archivos-desde-una-url-en-pandas.html</loc>
+      <lastmod>2020-03-27</lastmod>
+   </url>
+   <url>
+      <loc>https://juanbeleno.github.io/journal/leer-archivos-locales-en-pandas.html</loc>
+      <lastmod>2020-03-27</lastmod>
+   </url>
+   <url>
+      <loc>https://juanbeleno.github.io/journal/leer-archivos-de-excel-en-pandas.html</loc>
+      <lastmod>2020-03-27</lastmod>
+   </url>
+   <url>
+      <loc>https://juanbeleno.github.io/journal/leer-archivos-json-en-pandas.html</loc>
+      <lastmod>2020-03-27</lastmod>
+   </url>
+   <url>
+      <loc>https://juanbeleno.github.io/journal/leer-archivos-xml-en-pandas.html</loc>
+      <lastmod>2020-03-27</lastmod>
+   </url>
+</urlset> 
