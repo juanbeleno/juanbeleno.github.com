@@ -41,4 +41,4 @@ Generalmente, antes de escribir código, abro el archivo en texto plano para sab
 
 Puedes consultar la [documentación oficial](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html){:target="_blank"} para saber que otros parámetros te pueden ser útiles.
 
-**Nota:** Estoy usando `pandas 1.0.3`
+**Nota:** Estoy usando `pandas 1.0.3` y `pyhton 3.7`
