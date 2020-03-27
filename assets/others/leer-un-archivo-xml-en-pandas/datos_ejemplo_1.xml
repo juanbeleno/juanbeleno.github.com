@@ -1,0 +1,14 @@
+<datos>
+    <paciente nombre="Juan">
+        <sexo_biologico>Masculino</sexo_biologico>
+        <edad>16</edad>
+    </paciente>
+    <paciente nombre="Maria">
+        <sexo_biologico>Femenino</sexo_biologico>
+        <edad>24</edad>
+    </paciente>
+    <paciente nombre="Ariel">
+        <sexo_biologico>Masculino</sexo_biologico>
+        <edad>37</edad>
+    </paciente>
+</datos>

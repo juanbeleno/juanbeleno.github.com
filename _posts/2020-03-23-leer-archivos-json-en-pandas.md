@@ -88,4 +88,4 @@ datos = pd.DataFrame(lista_de_diccionarios)
 ```
 
 
-**Nota:** Estoy usando `pandas 1.0.3`
+**Nota:** Estoy usando `pandas 1.0.3`, `pyhton 3.7` y un `Mackbook Pro 2015`, entonces posiblemente te toque cambiar las rutas absolutas de los archivos según tu sistema operativo.
