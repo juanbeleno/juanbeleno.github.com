@@ -25,7 +25,7 @@ Antes de escribir código, quiero mostrarles la estructura del XML porque el có
 </datos>
 ```
 
-En el siguiente código, creamos un DataFrame a partir de un archivo de XML que tiene el contenido anteriormente mostrado. Un DataFrame es una estructura de datos en pandas que se representa usando filas y columnas (parecido a Excel).
+En el siguiente código, creamos un DataFrame a partir de un archivo de XML que tiene el contenido anteriormente mostrado.
 
 ```python
 import pandas as pd

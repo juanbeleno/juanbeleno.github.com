@@ -10,7 +10,7 @@ image: obtener-y-limpiar-datos-con-pandas/panda.jpeg
 Aquí voy a compilar publicaciones que sirvan para obtener y/o limpiar datos usando la librería de python pandas.
 
 ## Obtención de datos
-Para comenzar a trabajar con datos, primero se necesitan datos. Aquí te muestro como obtenerlos.
+Generalmente, cuando trabajamos con python, usamos una librería llamada [pandas](https://pandas.pydata.org/) para convertir los datos de diversos formatos en un DataFrame. DataFrame es una estructura de datos en pandas que se representa usando filas y columnas (parecido a Excel). Aquí te muestro como convertir diversos formatos de datos a un DataFrame.
 
 * [Leer archivos desde una URL con pandas](./leer-archivos-desde-una-url-en-pandas.html){:target="_blank"}
 * [Leer archivos locales con pandas](./leer-archivos-locales-en-pandas.html){:target="_blank"}

@@ -6,7 +6,7 @@ categories: journal
 tags: [pandas,spanish]
 ---
 
-En el siguiente código, creamos un DataFrame a partir de un archivo local en nuestra máquina. Un DataFrame es una estructura de datos en pandas que se representa usando filas y columnas (parecido a Excel).
+En el siguiente código, creamos un DataFrame a partir de un archivo local en nuestra máquina.
 
 ```python
 import pandas as pd
