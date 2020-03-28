@@ -17,7 +17,7 @@ datos = pd.read_json(ruta_archivo_json, orient='records')
 
 El archivo JSON tiene datos inventados por mi y está disponible [aquí](../assets/others/leer-un-archivo-json-en-pandas/datos_ejemplo_1.json){:target="_blank"}. A continuación se muestra el contenido del archivo JSON.
 
-```
+```json
 [
     {
         "nombre": "Juan",
@@ -52,7 +52,7 @@ Generalmente, antes de escribir código, abro el archivo JSON para saber la estr
 
 Fácil, leer el archivo JSON convertirlo a un diccionario o lista y trabajar con tipos de datos de python. Encontrar o construir una lista de diccionarios y pasarla como parametro a `pd.DataFrame()`. Por ejemplo, considere el siguiente archivo de JSON disponible [aquí](../assets/others/leer-un-archivo-json-en-pandas/datos_ejemplo_2.json){:target="_blank"}
 
-```
+```json
 {
     "datos": [
         {

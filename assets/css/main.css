@@ -20,7 +20,7 @@
 body {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
   font-size: 18px;
-  color: #515151;
+  color: #333333;
   line-height: 1.75rem;
 }
 
@@ -111,7 +111,7 @@ hr {
 .masthead-title a {
   font-size: 2rem;
   text-decoration: none;
-  color: #505050;
+  color: #333333;
 }
 
 .masthead-subtitle {
@@ -143,18 +143,42 @@ hr {
 }
 
 .posts {
-  margin-bottom: 5rem;
+  margin-bottom: 2.5rem;
   padding: 0px;
   list-style: none;
 }
 
+.posts>p {
+  color: #738a94;
+  margin: 0.75rem 0;
+}
+
+.post-card {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 0.3rem;
+  margin-bottom: 0.5rem;
+}
+
 .post-date {
   display: block;
-  margin-top:3px;
-  margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: #888888;
   font-family: 'Quattrocento Sans', sans-serif;
   font-size:0.8rem;
+}
+
+.post-author {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 600;
+  line-height: 0.5rem;
+  text-transform: uppercase;
+}
+
+.img-profile {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
 }
 
 @media (max-width: 30rem) {
@@ -218,7 +242,7 @@ hr {
 }
 
 .footer a {
-  color: #999;
+  color: #555;
   padding: 10px;
   text-decoration: none;
 }
@@ -241,7 +265,7 @@ hr {
 }
 
 .menu-content a {
-  color: #999;
+  color: #555555;
   font-size: 1rem;
   padding-right: 10px;
 }
@@ -251,7 +275,7 @@ hr {
 }
 
 .social-icons a {
-  color: #999;
+  color: #555;
   font-size: 1rem;
 }
 

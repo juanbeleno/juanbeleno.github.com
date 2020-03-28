@@ -14,8 +14,15 @@ title: Home
   </div>
   {% endif %}
   <p>
-    {{ post.content | strip_html | truncate: 350 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
-    <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+    {{ post.content | strip_html | truncate: 190 }} <a href="{{ site.github.url }}{{ post.url }}">Leer Más</a>
+    <div>
+      <img class="img-profile" src='/assets/img/profile.jpeg' />
+      <div class="post-card">
+        <span class="post-author">{{post.author}}</span>
+        <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+      </div>
+    </div>
+    
   </p>
 </div>
 {% endfor %}

@@ -8,7 +8,7 @@ tags: [pandas,spanish]
 
 Antes de escribir código, quiero mostrarles la estructura del XML porque el código va a varias según la estructura del XML con el que estémos trabajando. El archivo XML tiene datos inventados por mi y están disponibles [aquí](../assets/others/leer-un-archivo-xml-en-pandas/datos_ejemplo_1.xml){:target="_blank"}. El contenido del archivo XML se presenta a continuación.
 
-```
+```xml
 <datos>
     <paciente nombre="Juan">
         <sexo_biologico>Masculino</sexo_biologico>
