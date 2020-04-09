@@ -18,10 +18,10 @@
 */
 
 body {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: 'Martel', "PT Serif", Georgia, "Times New Roman", serif;
   font-size: 18px;
-  color: #333333;
-  line-height: 1.75rem;
+  color: #292929;
+  line-height: 1.8;
 }
 
 @media (max-width: 30em) {
@@ -35,7 +35,7 @@ body {
 }
 
 h1{
-  font-size: 2rem;
+  font-size: 2.3rem;
 }
 
 h1 a {
@@ -43,13 +43,13 @@ h1 a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Quattrocento Sans", sans-serif;
-  color: #333;
+  font-family: 'Martel', "Quattrocento Sans", sans-serif;
+  color: #292929;
 }
 
 a {
   text-decoration: underline;
-  color: #333;
+  color: #292929;
 }
 
 a:hover {
@@ -82,7 +82,7 @@ hr {
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 615px;
+  width: 680px;
 }
 
 /*48em*/
@@ -101,7 +101,7 @@ hr {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   margin-bottom: 4rem;
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: 'Martel', "Quattrocento Sans", sans-serif;
 }
 
 .masthead a:hover {
@@ -111,7 +111,7 @@ hr {
 .masthead-title a {
   font-size: 2rem;
   text-decoration: none;
-  color: #333333;
+  color: #292929;
 }
 
 .masthead-subtitle {
@@ -163,7 +163,7 @@ hr {
 .post-date {
   display: block;
   color: #888888;
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: 'Martel', 'Quattrocento Sans', sans-serif;
   font-size:0.8rem;
 }
 
@@ -173,6 +173,10 @@ hr {
   font-weight: 600;
   line-height: 0.5rem;
   text-transform: uppercase;
+}
+
+.post-img {
+  margin-top: 2rem;
 }
 
 .img-profile {
@@ -206,7 +210,7 @@ hr {
 
 .pagination {
   overflow: hidden;
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: 'Martel', 'Quattrocento Sans', sans-serif;
   text-align: center;
 }
 
@@ -242,13 +246,13 @@ hr {
 }
 
 .footer a {
-  color: #555;
+  color: #292929;
   padding: 10px;
   text-decoration: none;
 }
 
 .footer a:hover {
-  color: #333;
+  color: #292929;
 }
 
 /*
@@ -265,7 +269,7 @@ hr {
 }
 
 .menu-content a {
-  color: #555555;
+  color: #292929;
   font-size: 1rem;
   padding-right: 10px;
 }
@@ -275,7 +279,7 @@ hr {
 }
 
 .social-icons a {
-  color: #555;
+  color: #292929;
   font-size: 1rem;
 }
 
