@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba20ce091f895cf984711c1e70977a78",
+    "revision": "abf77b65a5ed3e2ff4ffaea336457214",
     "url": "/curubagram/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/curubagram/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "1bf11996840a4736a18d",
+    "revision": "94076e26947134e0aab4",
     "url": "/curubagram/static/css/main.fea170d7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/curubagram/static/js/2.340ee679.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1bf11996840a4736a18d",
-    "url": "/curubagram/static/js/main.0121c0e6.chunk.js"
+    "revision": "94076e26947134e0aab4",
+    "url": "/curubagram/static/js/main.d47755f4.chunk.js"
   },
   {
     "revision": "89b236f9769c020bd7af",
