@@ -30,7 +30,7 @@ Na coluna de exemplos, aparecem sublinhadas as partes do texto que tem os padrõ
 | Operador de disjunção |  /cachorro\|gato/ | 1) Eu gosto dos <ins>gato</ins>s <br/> 2) Os <ins>cachorros</ins>s são bonitinhos|
 | Operador de parênteses |  /co(vid\|ronavírus\|rona vírus\|v-2)/ | 1) Existe uma pandemia de <ins>coronavírus</ins> no Brasil <br/> 2) O vírus sars-cov-2 produz o <ins>covid-19</ins> |
 
-Em geral, as expressões regulares funcionam como [algoritmos gulosos](https://pt.wikipedia.org/wiki/Algoritmo_guloso){:target="_blank"}, isso quer dizer que as expressões regulares pegam a maior cadeia de caracteres que tem os padrões especificados. A gente pode ver isso no exeplo 2 de Operador de parêntese, onde tem 2 textos que com o padrão da expressão regular: cov-2 y covid-19; No entanto, só aparece sublinhado um deles: covid-19. Há Existem algumas exceções desta regla tipo *? o +?
+Em geral, as expressões regulares funcionam como [algoritmos gulosos](https://pt.wikipedia.org/wiki/Algoritmo_guloso){:target="_blank"}, isso quer dizer que as expressões regulares pegam a maior cadeia de caracteres que tem os padrões especificados. A gente pode ver isso no exemplo 2 de Operador de parêntese, onde tem 2 textos que com o padrão da expressão regular: cov-2 y covid-19; No entanto, só aparece sublinhado um deles: covid-19. Há algumas exceções desta regla tipo *? o +?
 
 ## Operadores para contar em expressões regulares
 

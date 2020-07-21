@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/curubagram/static/css/main.fea170d7.chunk.css",
+    "main.js": "/curubagram/static/js/main.0121c0e6.chunk.js",
+    "main.js.map": "/curubagram/static/js/main.0121c0e6.chunk.js.map",
+    "runtime-main.js": "/curubagram/static/js/runtime-main.23f0c5ae.js",
+    "runtime-main.js.map": "/curubagram/static/js/runtime-main.23f0c5ae.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/curubagram/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.340ee679.chunk.js": "/curubagram/static/js/2.340ee679.chunk.js",
+    "static/js/2.340ee679.chunk.js.map": "/curubagram/static/js/2.340ee679.chunk.js.map",
+    "index.html": "/curubagram/index.html",
+    "precache-manifest.cc55c509fde60c71d79d64d49dd6138c.js": "/curubagram/precache-manifest.cc55c509fde60c71d79d64d49dd6138c.js",
+    "service-worker.js": "/curubagram/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/curubagram/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.fea170d7.chunk.css.map": "/curubagram/static/css/main.fea170d7.chunk.css.map",
+    "static/js/2.340ee679.chunk.js.LICENSE.txt": "/curubagram/static/js/2.340ee679.chunk.js.LICENSE.txt",
+    "static/media/feather.png": "/curubagram/static/media/feather.b7a1b523.png",
+    "static/media/tick.png": "/curubagram/static/media/tick.14662814.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23f0c5ae.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.340ee679.chunk.js",
+    "static/css/main.fea170d7.chunk.css",
+    "static/js/main.0121c0e6.chunk.js"
+  ]
+}
