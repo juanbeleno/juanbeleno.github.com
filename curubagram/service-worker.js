@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/curubagram/precache-manifest.c7c9d7795059f83ab0186870930f78eb.js"
+  "/curubagram/precache-manifest.13c30c96af82abae654b284b6ab4f9d2.js"
 );
 
 self.addEventListener('message', (event) => {
