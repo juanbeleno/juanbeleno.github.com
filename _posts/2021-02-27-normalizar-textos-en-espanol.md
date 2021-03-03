@@ -48,3 +48,5 @@ se convertiría en
 ```
 hola mi nombre es juan beleno tengo 00 anos y mido 0,00cm estudie en la unicamp
 ```
+
+**Nota:** No me gusta quitar las *stop words* en la normalización porque ya que al parecer esto [perjudica la predicción de modelos de clasificación de texto](https://twitter.com/lousylinguist/status/1068285983483822085){:target="_blank"}
