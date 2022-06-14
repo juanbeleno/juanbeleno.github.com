@@ -762,5 +762,47 @@
         "tags": ["combo", "on2", "360", "follow double turn", "Juan Vásquez"],
         "level": 3,
         "orientation": "portrait"
+    },
+    {
+        "id": "601ca99",
+        "filepath": "salsa/partnerwork/on2/601ca99.gif",
+        "tags": ["combo", "on2", "follow double turn", "Juan Vásquez"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "e993215",
+        "filepath": "salsa/partnerwork/on2/e993215.gif",
+        "tags": ["combo", "on2", "flick", "follow turn", "Juan Vásquez"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "ecb7937",
+        "filepath": "salsa/partnerwork/on2/ecb7937.gif",
+        "tags": ["combo", "on2", "follow turn", "Juan Vásquez"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "efa6e44",
+        "filepath": "salsa/partnerwork/on2/efa6e44.gif",
+        "tags": ["combo", "on2", "360", "follow triple turn", "Juan Vásquez"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "683e725",
+        "filepath": "salsa/partnerwork/on2/683e725.gif",
+        "tags": ["combo", "on2", "follow turn", "open", "Juan Vásquez"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "d0e2dbb",
+        "filepath": "salsa/partnerwork/on2/d0e2dbb.gif",
+        "tags": ["combo", "on2", "follow double turn", "copa", "Juan Vásquez"],
+        "level": 4,
+        "orientation": "portrait"
     }
 ]
