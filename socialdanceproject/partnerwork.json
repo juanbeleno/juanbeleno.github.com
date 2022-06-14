@@ -804,5 +804,26 @@
         "tags": ["combo", "on2", "follow double turn", "copa", "Juan Vásquez"],
         "level": 4,
         "orientation": "portrait"
+    },
+    {
+        "id": "12f0de3",
+        "filepath": "salsa/partnerwork/on2/12f0de3.gif",
+        "tags": ["combo", "on2", "follow turn", "Sebastian Aguilar"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "a2e33d3",
+        "filepath": "salsa/partnerwork/on2/a2e33d3.gif",
+        "tags": ["combo", "on2", "follow turn", "flick", "Sebastian Aguilar"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "775bc5c",
+        "filepath": "salsa/partnerwork/on2/775bc5c.gif",
+        "tags": ["combo", "on2", "follow double turn", "Sebastian Aguilar"],
+        "level": 3,
+        "orientation": "portrait"
     }
 ]
