@@ -867,5 +867,96 @@
         "tags": ["combo", "on2", "follow turn", "Juan Vásquez"],
         "level": 4,
         "orientation": "portrait"
+    },
+    {
+        "id": "b4182bf",
+        "filepath": "salsa/partnerwork/on2/b4182bf.gif",
+        "tags": ["combo", "on2", "copa", "lead turn", "follow triple turn", "Alex Barreto"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "8b7471f",
+        "filepath": "salsa/partnerwork/on2/8b7471f.gif",
+        "tags": ["combo", "on2", "lead turn", "follow double turn", "Alex Barreto"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "2a7541b",
+        "filepath": "salsa/partnerwork/on2/2a7541b.gif",
+        "tags": ["combo", "on2", "lead double turn", "Alex Barreto"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "e794a80",
+        "filepath": "salsa/partnerwork/on2/e794a80.gif",
+        "tags": ["combo", "on2", "lead triple turn", "Alex Barreto"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "91dfde1",
+        "filepath": "salsa/partnerwork/on2/91dfde1.gif",
+        "tags": ["combo", "on2", "copa", "follow hammerlock", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "d30f79c",
+        "filepath": "salsa/partnerwork/on2/d30f79c.gif",
+        "tags": ["combo", "on2", "follow hammerlock", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "95e815d",
+        "filepath": "salsa/partnerwork/on2/95e815d.gif",
+        "tags": ["combo", "on2", "follow turn", "follow hammerlock", "Alex Barreto"],
+        "level": 3,
+        "orientation": "landscape"
+    },
+    {
+        "id": "9e071a3",
+        "filepath": "salsa/partnerwork/on2/9e071a3.gif",
+        "tags": ["combo", "on2", "follow turn", "follow hammerlock", "Nico Carreño"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "e1a864f",
+        "filepath": "salsa/partnerwork/on2/e1a864f.gif",
+        "tags": ["combo", "on2", "ilusión", "follow double turn", "Nico Carreño"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "56ad4d4",
+        "filepath": "salsa/partnerwork/on2/56ad4d4.gif",
+        "tags": ["combo", "on2", "ilusión", "follow double turn", "Nico Carreño"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "fa75579",
+        "filepath": "salsa/partnerwork/on2/fa75579.gif",
+        "tags": ["combo", "on2", "follow hammerlock", "follow turn", "Nico Carreño"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "c28aca2",
+        "filepath": "salsa/partnerwork/on2/c28aca2.gif",
+        "tags": ["combo", "on2", "follow hammerlock", "follow triple turn", "Nico Carreño"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "c9ca442",
+        "filepath": "salsa/partnerwork/on2/c9ca442.gif",
+        "tags": ["combo", "on2", "follow hammerlock", "follow turn", "Nico Carreño"],
+        "level": 3,
+        "orientation": "portrait"
     }
 ]
