@@ -631,8 +631,8 @@
         "orientation": "landscape"
     },
     {
-        "id": "8ee51ca",
-        "filepath": "salsa/partnerwork/on2/8ee51ca.gif",
+        "id": "08a3529",
+        "filepath": "salsa/partnerwork/on2/08a3529.gif",
         "tags": ["step", "on2", "follow hammerlock", "follow turn", "open", "Juan Vásquez"],
         "level": 2,
         "orientation": "landscape"
@@ -824,6 +824,48 @@
         "filepath": "salsa/partnerwork/on2/775bc5c.gif",
         "tags": ["combo", "on2", "follow double turn", "Sebastian Aguilar"],
         "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "8bd7954",
+        "filepath": "salsa/partnerwork/on2/8bd7954.gif",
+        "tags": ["combo", "on2", "follow double turn", "ilusión", "flick", "Alex Barreto"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "05a8ea5",
+        "filepath": "salsa/partnerwork/on2/05a8ea5.gif",
+        "tags": ["combo", "on2", "follow double turn", "follow hammerlock", "Juan Vásquez"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "f38cfe2",
+        "filepath": "salsa/partnerwork/on2/f38cfe2.gif",
+        "tags": ["combo", "on2", "follow turn", "Juan Vásquez"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "0ca9277",
+        "filepath": "salsa/partnerwork/on2/0ca9277.gif",
+        "tags": ["combo", "on2", "follow turn", "flick", "Juan Vásquez"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "114d4ee",
+        "filepath": "salsa/partnerwork/on2/114d4ee.gif",
+        "tags": ["combo", "on2", "follow double turn", "Juan Vásquez"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "008451a",
+        "filepath": "salsa/partnerwork/on2/008451a.gif",
+        "tags": ["combo", "on2", "follow turn", "Juan Vásquez"],
+        "level": 4,
         "orientation": "portrait"
     }
 ]
