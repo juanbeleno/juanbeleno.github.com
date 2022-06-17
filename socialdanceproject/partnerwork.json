@@ -1091,5 +1091,61 @@
         "tags": ["step", "on2", "follow double turn", "follow hammerlock", "herradura", "Juan Vásquez"],
         "level": 4,
         "orientation": "portrait"
+    },
+    {
+        "id": "0159a99",
+        "filepath": "salsa/partnerwork/on1/0159a99.gif",
+        "tags": ["combo", "on1", "follow double turn", "candado", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "ae1e719",
+        "filepath": "salsa/partnerwork/on1/ae1e719.gif",
+        "tags": ["combo", "on1", "follow hammerlock", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "fd93751",
+        "filepath": "salsa/partnerwork/on1/fd93751.gif",
+        "tags": ["combo", "on1", "follow triple turn", "follow hammerlock", "copa", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "a929eb3",
+        "filepath": "salsa/partnerwork/on1/a929eb3.gif",
+        "tags": ["combo", "on1", "follow triple turn", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "74cbd2c",
+        "filepath": "salsa/partnerwork/on1/74cbd2c.gif",
+        "tags": ["step", "on1", "follow hammerlock", "follow double turn", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "69e5697",
+        "filepath": "salsa/partnerwork/on1/69e5697.gif",
+        "tags": ["step", "on1", "follow hammerlock", "follow double turn", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "708a77d",
+        "filepath": "salsa/partnerwork/on1/708a77d.gif",
+        "tags": ["step", "on1", "follow turn", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "f76b2ea",
+        "filepath": "salsa/partnerwork/on1/f76b2ea.gif",
+        "tags": ["step", "on1", "follow turn", "cambré", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
     }
 ]
