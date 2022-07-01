@@ -1147,5 +1147,75 @@
         "tags": ["step", "on1", "follow turn", "cambré", "Andrés Leiton"],
         "level": 3,
         "orientation": "portrait"
+    },
+    {
+        "id": "2659fc5",
+        "filepath": "bachata/partnerwork/moderna/2659fc5.gif",
+        "tags": ["combo", "bachata moderna", "lead turn", "lead hammerlock", "Andrés Molano"],
+        "level": 2,
+        "orientation": "landscape"
+    },
+    {
+        "id": "717b2f3",
+        "filepath": "bachata/partnerwork/sensual/717b2f3.gif",
+        "tags": ["combo", "bachata sensual", "Andrés Molano"],
+        "level": 2,
+        "orientation": "landscape"
+    },
+    {
+        "id": "94940e5",
+        "filepath": "bachata/partnerwork/sensual/94940e5.gif",
+        "tags": ["step", "bachata sensual", "Andrés Molano"],
+        "level": 2,
+        "orientation": "landscape"
+    },
+    {
+        "id": "c1aa04b",
+        "filepath": "bachata/partnerwork/moderna/c1aa04b.gif",
+        "tags": ["step", "bachata moderna", "follow turn", "Andrés Molano"],
+        "level": 2,
+        "orientation": "landscape"
+    },
+    {
+        "id": "572e207",
+        "filepath": "bachata/partnerwork/sensual/572e207.gif",
+        "tags": ["step", "bachata sensual", "follow turn", "Andrés Molano"],
+        "level": 3,
+        "orientation": "landscape"
+    },
+    {
+        "id": "d094700",
+        "filepath": "bachata/partnerwork/sensual/d094700.gif",
+        "tags": ["step", "bachata sensual", "follow turn", "Andrés Molano"],
+        "level": 3,
+        "orientation": "landscape"
+    },
+    {
+        "id": "04f1241",
+        "filepath": "bachata/partnerwork/sensual/04f1241.gif",
+        "tags": ["step", "bachata sensual", "follow turn", "Andrés Molano"],
+        "level": 2,
+        "orientation": "landscape"
+    },
+    {
+        "id": "5c8f5ac",
+        "filepath": "bachata/partnerwork/moderna/5c8f5ac.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "lead turn", "Andrés Molano"],
+        "level": 3,
+        "orientation": "landscape"
+    },
+    {
+        "id": "26e7458",
+        "filepath": "bachata/partnerwork/sensual/26e7458.gif",
+        "tags": ["combo", "bachata sensual", "follow turn", "lead turn", "Andrés Molano"],
+        "level": 2,
+        "orientation": "landscape"
+    },
+    {
+        "id": "26e7458",
+        "filepath": "bachata/partnerwork/sensual/26e7458.gif",
+        "tags": ["combo", "bachata sensual", "follow turn", "lead turn", "Andrés Molano"],
+        "level": 2,
+        "orientation": "landscape"
     }
 ]
