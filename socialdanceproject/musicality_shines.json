@@ -6,6 +6,7 @@
         "level": 3,
         "orientation": "portrait",
         "notation": "1 3 5 7",
+        "movement_accent": "1 3 5 7",
         "source": "https://www.instagram.com/p/CdxKkkuLAaH/"
     },
     {
@@ -15,6 +16,7 @@
         "level": 2,
         "orientation": "portrait",
         "notation": "1 3 5 7",
+        "movement_accent": "1 3 5 7",
         "source": "https://www.instagram.com/p/CdxKkkuLAaH/"
     },
     {
@@ -24,6 +26,7 @@
         "level": 2,
         "orientation": "portrait",
         "notation": "1 3 5 7",
+        "movement_accent": "1 3 5 7",
         "source": "https://www.instagram.com/p/CdxKkkuLAaH/"
     },
     {
@@ -33,6 +36,7 @@
         "level": 1,
         "orientation": "portrait",
         "notation": "2 4 6 8",
+        "movement_accent": "2 4 6 8",
         "source": "https://www.instagram.com/p/CdxKkkuLAaH/"
     },
     {
@@ -42,6 +46,7 @@
         "level": 1,
         "orientation": "portrait",
         "notation": "2 4 6 8",
+        "movement_accent": "2 4 6 8",
         "source": "https://www.instagram.com/p/CdxKkkuLAaH/"
     },
     {
@@ -51,6 +56,7 @@
         "level": 1,
         "orientation": "portrait",
         "notation": "2 4 6 8",
+        "movement_accent": "2 4 6 8",
         "source": "https://www.instagram.com/p/CdxKkkuLAaH/"
     },
     {
@@ -60,15 +66,17 @@
         "level": 4,
         "orientation": "portrait",
         "notation": "8 8+ 1 2 3 4 5 6 7 8 8+ 1 2",
+        "movement_accent": "2 4 6 8",
         "source": "https://www.instagram.com/p/CdxKkkuLAaH/"
     },
     {
         "id": "0ba3444",
         "filepath": "salsa/shines/on2/0ba3444.gif",
         "tags": ["Anichi Perez", "on2", "clave 2-3"],
-        "level": 1,
+        "level": 2,
         "orientation": "portrait",
         "notation": "2 3 5 6+ 8",
+        "movement_accent": "2 3 5 6+ 8",
         "source": "https://www.instagram.com/p/CdxKkkuLAaH/"
     },
     {
@@ -78,6 +86,27 @@
         "level": 3,
         "orientation": "portrait",
         "notation": "2 3 5 5+ 6 6+ 8",
+        "movement_accent": "2 3 5 6+ 8",
+        "source": "https://www.instagram.com/p/CdxKkkuLAaH/"
+    },
+    {
+        "id": "7f65e6f",
+        "filepath": "salsa/shines/on2/7f65e6f.gif",
+        "tags": ["Anichi Perez", "on2", "son", "bass"],
+        "level": 3,
+        "orientation": "portrait",
+        "notation": "8 2 3 4 6 7 8",
+        "movement_accent": "8 4 8",
+        "source": "https://www.instagram.com/p/CdxKkkuLAaH/"
+    },
+    {
+        "id": "e24728e",
+        "filepath": "salsa/shines/on2/e24728e.gif",
+        "tags": ["Anichi Perez", "on2", "son", "bass", "clave 2-3"],
+        "level": 3,
+        "orientation": "portrait",
+        "notation": "2 3 5 6+ 8",
+        "movement_accent": "8 4 8",
         "source": "https://www.instagram.com/p/CdxKkkuLAaH/"
     }
 ]
