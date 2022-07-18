@@ -112,7 +112,7 @@
     {
         "id": "9aeb776",
         "filepath": "salsa/shines/on2/9aeb776.gif",
-        "tags": ["Anichi Perez", "on2", "chorus", "La Negra Tomasa", "clave 2-3"],
+        "tags": ["Anichi Perez", "on2", "chorus", "La Negra Tomasa"],
         "level": 4,
         "orientation": "portrait",
         "notation": "6 6+ 7 8 3 4 5 7 7+ 8 1 4 5 6",
@@ -122,11 +122,31 @@
     {
         "id": "462deb6",
         "filepath": "salsa/shines/on2/462deb6.gif",
-        "tags": ["Anichi Perez", "on2", "chorus", "La Negra Tomasa", "clave 2-3"],
+        "tags": ["Anichi Perez", "on2", "chorus", "La Negra Tomasa"],
         "level": 4,
         "orientation": "portrait",
         "notation": "7 7+ 8 1 4 5 6 7 7+ 8 1 4 5 6",
         "movement_accent": "7 7+ 8 1 4 5 6 7 7+ 8 1 4 5 6",
+        "source": "https://www.instagram.com/p/CdxKkkuLAaH/"
+    },
+    {
+        "id": "ae02adb",
+        "filepath": "salsa/shines/on2/ae02adb.gif",
+        "tags": ["Anichi Perez", "on2", "cuban tres", "tumbao"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "8 2 3 4 5 6 7 8 1 3 4 5 5+ 6 6+ 7 7+ 8",
+        "movement_accent": "8 2 3 4 5 6 7 8 1 3 4 5 5+ 6 6+ 7 7+ 8",
+        "source": "https://www.instagram.com/p/CdxKkkuLAaH/"
+    },
+    {
+        "id": "6300f9a",
+        "filepath": "salsa/shines/on2/6300f9a.gif",
+        "tags": ["Anichi Perez", "on2", "cuban tres", "tumbao"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "8 2 3 4 5 6 7 8 1 3 4 5 5+ 6 6+ 7 7+ 8",
+        "movement_accent": "8 2 3 4 5 6 7 8 1 3 4 5 5+ 6 6+ 7 7+ 8",
         "source": "https://www.instagram.com/p/CdxKkkuLAaH/"
     }
 ]
