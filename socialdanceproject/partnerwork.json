@@ -1406,5 +1406,61 @@
         "tags": ["combo", "bachata sensual", "Fredy Ospina"],
         "level": 4,
         "orientation": "portrait"
+    },
+    {
+        "id": "9bfbd88",
+        "filepath": "bachata/partnerwork/sensual/9bfbd88.gif",
+        "tags": ["combo", "bachata sensual", "flick", "follow turn", "Fredy Ospina"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "98fa340",
+        "filepath": "bachata/partnerwork/sensual/98fa340.gif",
+        "tags": ["combo", "bachata sensual", "Fredy Ospina"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "a0dd46a",
+        "filepath": "bachata/partnerwork/moderna/a0dd46a.gif",
+        "tags": ["combo", "bachata moderna", "double flick", "follow turn", "lead turn", "Fredy Ospina"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "db0fd04",
+        "filepath": "bachata/partnerwork/moderna/db0fd04.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "lead turn", "Fredy Ospina"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "a42badd",
+        "filepath": "bachata/partnerwork/moderna/a42badd.gif",
+        "tags": ["combo", "bachata moderna", "follow double turn", "lead turn", "Fredy Ospina"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "d161c0f",
+        "filepath": "bachata/partnerwork/moderna/d161c0f.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "lead turn", "Fredy Ospina"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "c58f5c9",
+        "filepath": "bachata/partnerwork/sensual/c58f5c9.gif",
+        "tags": ["combo", "bachata sensual", "Fredy Ospina"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "d1b25b1",
+        "filepath": "bachata/partnerwork/sensual/d1b25b1.gif",
+        "tags": ["combo", "bachata sensual", "Fredy Ospina"],
+        "level": 3,
+        "orientation": "portrait"
     }
 ]
