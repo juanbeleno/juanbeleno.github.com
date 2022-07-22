@@ -1462,5 +1462,82 @@
         "tags": ["combo", "bachata sensual", "Fredy Ospina"],
         "level": 3,
         "orientation": "portrait"
+    },
+    {
+        "id": "914252e",
+        "filepath": "bachata/partnerwork/sensual/914252e.gif",
+        "tags": ["combo", "bachata sensual", "flick", "Unknown"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "363e288",
+        "filepath": "bachata/partnerwork/moderna/363e288.gif",
+        "tags": ["combo", "bachata moderna", "flick", "follow hammerlock", "twist", "Sebastian Ossa"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "d89633f",
+        "filepath": "bachata/partnerwork/moderna/d89633f.gif",
+        "tags": ["combo", "bachata moderna", "Sebastian Ossa"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "daafb1c",
+        "filepath": "bachata/partnerwork/moderna/daafb1c.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "flick", "Sebastian Ossa"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "8d1cae4",
+        "filepath": "bachata/partnerwork/moderna/8d1cae4.gif",
+        "tags": ["combo", "bachata moderna", "twist", "Sebastian Ossa"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "bbe489d",
+        "filepath": "bachata/partnerwork/moderna/bbe489d.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "lead turn", "Sebastian Ossa"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "418e3d4",
+        "filepath": "bachata/partnerwork/moderna/418e3d4.gif",
+        "tags": ["combo", "bachata moderna", "lead turn", "lead hammerlock", "Fredy Ospina"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "c5a858f",
+        "filepath": "bachata/partnerwork/moderna/c5a858f.gif",
+        "tags": ["combo", "bachata moderna", "lead turn", "follow turn", "Fredy Ospina"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "0a14ad9",
+        "filepath": "bachata/partnerwork/moderna/0a14ad9.gif",
+        "tags": ["combo", "bachata moderna", "lead turn", "follow turn", "follow hammerlock", "Fredy Ospina"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "ceb3a33",
+        "filepath": "bachata/partnerwork/moderna/ceb3a33.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "follow hammerlock", "flick", "Fredy Ospina"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "ceb3a33",
+        "filepath": "bachata/partnerwork/moderna/ceb3a33.gif",
+        "tags": ["combo", "bachata moderna", "Fredy Ospina"],
+        "level": 3,
+        "orientation": "portrait"
     }
 ]
