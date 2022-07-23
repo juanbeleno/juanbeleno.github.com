@@ -838,35 +838,35 @@
         "filepath": "salsa/partnerwork/on2/05a8ea5.gif",
         "tags": ["combo", "on2", "follow double turn", "follow hammerlock", "Juan Vásquez"],
         "level": 4,
-        "orientation": "portrait"
+        "orientation": "landscape"
     },
     {
         "id": "f38cfe2",
         "filepath": "salsa/partnerwork/on2/f38cfe2.gif",
         "tags": ["combo", "on2", "follow turn", "Juan Vásquez"],
         "level": 3,
-        "orientation": "portrait"
+        "orientation": "landscape"
     },
     {
         "id": "0ca9277",
         "filepath": "salsa/partnerwork/on2/0ca9277.gif",
         "tags": ["combo", "on2", "follow turn", "flick", "Juan Vásquez"],
         "level": 4,
-        "orientation": "portrait"
+        "orientation": "landscape"
     },
     {
         "id": "114d4ee",
         "filepath": "salsa/partnerwork/on2/114d4ee.gif",
         "tags": ["combo", "on2", "follow double turn", "Juan Vásquez"],
         "level": 4,
-        "orientation": "portrait"
+        "orientation": "landscape"
     },
     {
         "id": "008451a",
         "filepath": "salsa/partnerwork/on2/008451a.gif",
         "tags": ["combo", "on2", "follow turn", "Juan Vásquez"],
         "level": 4,
-        "orientation": "portrait"
+        "orientation": "landscape"
     },
     {
         "id": "b4182bf",
@@ -887,14 +887,14 @@
         "filepath": "salsa/partnerwork/on2/2a7541b.gif",
         "tags": ["combo", "on2", "lead double turn", "Alex Barreto"],
         "level": 4,
-        "orientation": "portrait"
+        "orientation": "landscape"
     },
     {
         "id": "e794a80",
         "filepath": "salsa/partnerwork/on2/e794a80.gif",
         "tags": ["combo", "on2", "lead triple turn", "Alex Barreto"],
         "level": 3,
-        "orientation": "portrait"
+        "orientation": "landscape"
     },
     {
         "id": "91dfde1",
@@ -1235,7 +1235,7 @@
     {
         "id": "e69370d",
         "filepath": "bachata/partnerwork/sensual/e69370d.gif",
-        "tags": ["combo", "bachata sensual", "wave", "candado", "Andrés Molano"],
+        "tags": ["combo", "bachata sensual", "body roll", "candado", "Andrés Molano"],
         "level": 2,
         "orientation": "landscape"
     },
@@ -1361,14 +1361,14 @@
     {
         "id": "bfd11f7",
         "filepath": "bachata/partnerwork/sensual/bfd11f7.gif",
-        "tags": ["combo", "bachata sensual", "wave", "Fredy Ospina"],
+        "tags": ["combo", "bachata sensual", "body roll", "Fredy Ospina"],
         "level": 3,
         "orientation": "portrait"
     },
     {
         "id": "c866183",
         "filepath": "bachata/partnerwork/sensual/c866183.gif",
-        "tags": ["combo", "bachata sensual", "wave", "Fredy Ospina"],
+        "tags": ["combo", "bachata sensual", "body roll", "Fredy Ospina"],
         "level": 3,
         "orientation": "portrait"
     },
@@ -1538,6 +1538,34 @@
         "filepath": "bachata/partnerwork/moderna/ceb3a33.gif",
         "tags": ["combo", "bachata moderna", "Fredy Ospina"],
         "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "811f7cb",
+        "filepath": "bachata/partnerwork/moderna/811f7cb.gif",
+        "tags": ["combo", "bachata moderna", "flick", "lead hammerlock", "Andrés Silva"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "cd9e533",
+        "filepath": "bachata/partnerwork/moderna/cd9e533.gif",
+        "tags": ["combo", "bachata moderna", "body roll", "follow double turn", "Andrés Silva"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "1a084b5",
+        "filepath": "bachata/partnerwork/sensual/1a084b5.gif",
+        "tags": ["combo", "bachata sensual", "Andrés Silva"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "7d657b9",
+        "filepath": "bachata/partnerwork/sensual/7d657b9.gif",
+        "tags": ["combo", "bachata sensual", "flick", "Andrés Silva"],
+        "level": 4,
         "orientation": "portrait"
     }
 ]
