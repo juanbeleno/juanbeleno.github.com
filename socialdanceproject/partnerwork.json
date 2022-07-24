@@ -1609,5 +1609,145 @@
         "tags": ["combo", "bachata moderna", "follow turn", "flick", "follow hammerlock", "Fredy Ospina"],
         "level": 4,
         "orientation": "portrait"
+    },
+    {
+        "id": "97d01f1",
+        "filepath": "bachata/partnerwork/sensual/97d01f1.gif",
+        "tags": ["combo", "bachata sensual", "Iván Hernández"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "6707d56",
+        "filepath": "bachata/partnerwork/moderna/6707d56.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "Iván Hernández"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "4bc7968",
+        "filepath": "bachata/partnerwork/moderna/4bc7968.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "lead turn", "flick", "Iván Hernández"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "dd470a2",
+        "filepath": "bachata/partnerwork/sensual/dd470a2.gif",
+        "tags": ["combo", "bachata sensual",  "desbaratación", "Iván Hernández"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "17f95d3",
+        "filepath": "bachata/partnerwork/moderna/17f95d3.gif",
+        "tags": ["combo", "bachata moderna", "Iván Hernández"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "c2c1d2a",
+        "filepath": "bachata/partnerwork/moderna/c2c1d2a.gif",
+        "tags": ["combo", "bachata moderna", "Iván Hernández"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "ce9a405",
+        "filepath": "bachata/partnerwork/sensual/ce9a405.gif",
+        "tags": ["combo", "bachata sensual", "Iván Hernández"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "a246af6",
+        "filepath": "bachata/partnerwork/sensual/a246af6.gif",
+        "tags": ["combo", "bachata sensual", "Iván Hernández"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "e62a43e",
+        "filepath": "bachata/partnerwork/sensual/e62a43e.gif",
+        "tags": ["combo", "bachata sensual", "desbaratación", "Iván Hernández"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "1c9b87f",
+        "filepath": "bachata/partnerwork/sensual/1c9b87f.gif",
+        "tags": ["combo", "bachata sensual", "peinada",  "Iván Hernández"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "a1faf49",
+        "filepath": "bachata/partnerwork/moderna/a1faf49.gif",
+        "tags": ["combo", "bachata moderna", "follow hammerlock", "flick", "Iván Hernández"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "cd4a231",
+        "filepath": "bachata/partnerwork/moderna/cd4a231.gif",
+        "tags": ["combo", "bachata moderna", "lead turn", "traspie", "Iván Hernández"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "6e72f10",
+        "filepath": "bachata/partnerwork/moderna/6e72f10.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "traspie", "Iván Hernández"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "2e7306a",
+        "filepath": "bachata/partnerwork/sensual/2e7306a.gif",
+        "tags": ["combo", "bachata sensual", "candado", "Iván Hernández"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "3a2cbc7",
+        "filepath": "bachata/partnerwork/moderna/3a2cbc7.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "lead turn", "flick", "Iván Hernández"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "7b8f2d7",
+        "filepath": "bachata/partnerwork/moderna/7b8f2d7.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "Iván Hernández"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "999f5f3",
+        "filepath": "bachata/partnerwork/moderna/999f5f3.gif",
+        "tags": ["combo", "bachata moderna", "flick", "follow turn", "twist", "Iván Hernández"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "11fb8b9",
+        "filepath": "bachata/partnerwork/moderna/11fb8b9.gif",
+        "tags": ["combo", "bachata moderna", "twist", "Johan Ochoa"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "d7ebb75",
+        "filepath": "bachata/partnerwork/tradicional/d7ebb75.gif",
+        "tags": ["combo", "bachata tradicional", "bonao step", "Johan Ochoa"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "cd18c47",
+        "filepath": "bachata/partnerwork/moderna/cd18c47.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "Johan Ochoa", "Valentina Zuluaga"],
+        "level": 3,
+        "orientation": "portrait"
     }
 ]
