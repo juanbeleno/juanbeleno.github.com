@@ -1749,5 +1749,152 @@
         "tags": ["combo", "bachata moderna", "follow turn", "Johan Ochoa", "Valentina Zuluaga"],
         "level": 3,
         "orientation": "portrait"
+    },
+    {
+        "id": "4aa5172",
+        "filepath": "salsa/partnerwork/on2/4aa5172.gif",
+        "tags": ["combo", "on2", "follow triple turn", "Juan Vásquez", "Alejandra Garzón"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "bfe3a94",
+        "filepath": "salsa/partnerwork/on2/bfe3a94.gif",
+        "tags": ["combo", "on2", "follow turn", "Juan Vásquez", "Alejandra Garzón"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "91a533e",
+        "filepath": "salsa/partnerwork/on2/91a533e.gif",
+        "tags": ["combo", "on2", "follow double turn", "follow hammerlock", "Juan Vásquez", "Alejandra Garzón"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "c73c892",
+        "filepath": "salsa/partnerwork/on2/c73c892.gif",
+        "tags": ["combo", "on2", "follow turn", "Juan Vásquez"],
+        "level": 3,
+        "orientation": "landscape"
+    },
+    {
+        "id": "d8a7303",
+        "filepath": "salsa/partnerwork/on2/d8a7303.gif",
+        "tags": ["combo", "on2", "follow double turn", "lead turn", "flick", "follow hammerlock", "Juan Vásquez"],
+        "level": 4,
+        "orientation": "landscape"
+    },
+    {
+        "id": "ff7f8d7",
+        "filepath": "salsa/partnerwork/on2/ff7f8d7.gif",
+        "tags": ["combo", "on2", "follow hammerlock", "lead turn", "follow turn", "Juan Vásquez"],
+        "level": 3,
+        "orientation": "landscape"
+    },
+    {
+        "id": "f5628af",
+        "filepath": "salsa/partnerwork/on2/f5628af.gif",
+        "tags": ["combo", "on2", "lead turn", "follow triple turn", "Juan Vásquez"],
+        "level": 3,
+        "orientation": "landscape"
+    },
+    {
+        "id": "58224ef",
+        "filepath": "salsa/partnerwork/on2/58224ef.gif",
+        "tags": ["combo", "on2", "follow double turn", "Juan Vásquez"],
+        "level": 2,
+        "orientation": "landscape"
+    },
+    {
+        "id": "2d793aa",
+        "filepath": "salsa/partnerwork/on2/2d793aa.gif",
+        "tags": ["combo", "on2", "follow triple turn", "Juan Vásquez"],
+        "level": 4,
+        "orientation": "landscape"
+    },
+    {
+        "id": "8299962",
+        "filepath": "salsa/partnerwork/on2/8299962.gif",
+        "tags": ["combo", "on2", "flick", "lead turn", "Juan Vásquez"],
+        "level": 2,
+        "orientation": "landscape"
+    },
+    {
+        "id": "a41fcde",
+        "filepath": "salsa/partnerwork/on2/a41fcde.gif",
+        "tags": ["combo", "on2", "ilusión", "follow turn", "Juan Vásquez"],
+        "level": 3,
+        "orientation": "landscape"
+    },
+    {
+        "id": "0ab5fab",
+        "filepath": "salsa/partnerwork/on2/0ab5fab.gif",
+        "tags": ["combo", "on2", "follow turn", "contragiro", "Juan Vásquez", "Alejandra Garzón"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "5ed6fa5",
+        "filepath": "salsa/partnerwork/on2/5ed6fa5.gif",
+        "tags": ["combo", "on2", "follow double turn", "Juan Vásquez", "Alejandra Garzón"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "011a86f",
+        "filepath": "salsa/partnerwork/on2/011a86f.gif",
+        "tags": ["combo", "on2", "follow turn", "lead turn", "flick", "Juan Vásquez", "Alejandra Garzón"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "088e0c4",
+        "filepath": "salsa/partnerwork/on2/088e0c4.gif",
+        "tags": ["combo", "on2", "follow turn", "lead turn", "Juan Vásquez", "Alejandra Garzón"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "432e836",
+        "filepath": "salsa/partnerwork/on2/432e836.gif",
+        "tags": ["combo", "on2", "follow turn", "Juan Vásquez", "Alejandra Garzón"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "432e836",
+        "filepath": "salsa/partnerwork/on2/432e836.gif",
+        "tags": ["combo", "on2", "follow turn", "Juan Vásquez", "Alejandra Garzón"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "90867a5",
+        "filepath": "salsa/partnerwork/on2/90867a5.gif",
+        "tags": ["combo", "on2", "360", "Juan Vásquez", "Alejandra Garzón"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "50f9554",
+        "filepath": "salsa/partnerwork/on2/50f9554.gif",
+        "tags": ["combo", "on2", "follow turn", "Juan Vásquez", "Alejandra Garzón"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "9853063",
+        "filepath": "salsa/partnerwork/on2/9853063.gif",
+        "tags": ["combo", "changüi", "follow turn", "Juan Vásquez", "Alejandra Garzón"],
+        "level": 1,
+        "orientation": "portrait"
+    },
+    {
+        "id": "f610059",
+        "filepath": "salsa/partnerwork/on2/f610059.gif",
+        "tags": ["combo", "changüi", "follow double turn", "Juan Vásquez", "Alejandra Garzón"],
+        "level": 2,
+        "orientation": "portrait"
     }
 ]
