@@ -1952,5 +1952,110 @@
         "tags": ["combo", "on1", "follow hammerlock", "follow turn", "Andrés Leiton", "Daniela Peña"],
         "level": 3,
         "orientation": "portrait"
+    },
+    {
+        "id": "57dff52",
+        "filepath": "salsa/partnerwork/on1/57dff52.gif",
+        "tags": ["combo", "on1", "lead hammerlock", "double flick", "follow hammerlock", "follow turn", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "d8daba1",
+        "filepath": "salsa/partnerwork/on1/d8daba1.gif",
+        "tags": ["combo", "on1", "follow turn", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "9c2912a",
+        "filepath": "salsa/partnerwork/on1/9c2912a.gif",
+        "tags": ["combo", "on1", "follow turn", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "d126447",
+        "filepath": "salsa/partnerwork/on1/d126447.gif",
+        "tags": ["combo", "on1", "follow turn", "Andrés Leiton", "Daniela Peña"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "41f5cd3",
+        "filepath": "salsa/partnerwork/on1/41f5cd3.gif",
+        "tags": ["combo", "on1", "follow turn", "follow hammerlock", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "61d4096",
+        "filepath": "salsa/partnerwork/on1/61d4096.gif",
+        "tags": ["combo", "on1", "follow turn", "follow hammerlock", "change of direction", "Andrés Leiton", "Daniela Peña"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "a23a475",
+        "filepath": "salsa/partnerwork/on1/a23a475.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "7321eb8",
+        "filepath": "salsa/partnerwork/on1/7321eb8.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "Andrés Leiton", "Daniela Peña"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "210fb38",
+        "filepath": "salsa/partnerwork/on1/210fb38.gif",
+        "tags": ["combo", "on1", "follow turn", "cambré", "follow hammerlock", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "534e50b",
+        "filepath": "salsa/partnerwork/on1/534e50b.gif",
+        "tags": ["combo", "on1", "follow turn", "cambré", "follow hammerlock", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "3173e11",
+        "filepath": "salsa/partnerwork/on1/3173e11.gif",
+        "tags": ["combo", "on1", "follow turn", "cambré", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "5d2839f",
+        "filepath": "salsa/partnerwork/on1/5d2839f.gif",
+        "tags": ["combo", "on1", "double flick", "follow turn", "lead turn", "follow hammerlock", "Andrés Leiton", "Daniela Peña"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "6581e3d",
+        "filepath": "salsa/partnerwork/on1/6581e3d.gif",
+        "tags": ["combo", "on1", "flick", "follow turn", "lead turn", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "8063fd5",
+        "filepath": "salsa/partnerwork/on1/8063fd5.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "follow hammerlock", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "4b5a523",
+        "filepath": "salsa/partnerwork/on1/4b5a523.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "ilusión", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
     }
 ]
