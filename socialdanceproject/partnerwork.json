@@ -2057,5 +2057,145 @@
         "tags": ["combo", "on1", "follow turn", "lead turn", "ilusión", "Andrés Leiton", "Daniela Peña"],
         "level": 3,
         "orientation": "portrait"
+    },
+    {
+        "id": "dfef221",
+        "filepath": "salsa/partnerwork/on1/dfef221.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "flick", "follow hammerlock", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "62cbfae",
+        "filepath": "salsa/partnerwork/on1/62cbfae.gif",
+        "tags": ["combo", "on1", "flick", "follow hammerlock", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "9a1e62a",
+        "filepath": "salsa/partnerwork/on1/9a1e62a.gif",
+        "tags": ["combo", "on1", "lead turn", "follow turn", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "6db76e5",
+        "filepath": "salsa/partnerwork/on1/6db76e5.gif",
+        "tags": ["combo", "on1", "follow turn", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "62669c5",
+        "filepath": "salsa/partnerwork/on1/62669c5.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "follow hammerlock", "flick", "Andrés Leiton", "Daniela Peña"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "c89ceea",
+        "filepath": "salsa/partnerwork/on1/c89ceea.gif",
+        "tags": ["combo", "on1", "360", "lead styling", "follow styling", "Andrés Leiton", "Daniela Peña"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "078a0ce",
+        "filepath": "salsa/partnerwork/on1/078a0ce.gif",
+        "tags": ["combo", "on1", "lead styling", "Andrés Leiton", "Daniela Peña"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "186e58e",
+        "filepath": "salsa/partnerwork/on1/186e58e.gif",
+        "tags": ["combo", "on1", "lead styling", "follow styling", "Andrés Leiton", "Daniela Peña"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "eb15d70",
+        "filepath": "salsa/partnerwork/on1/eb15d70.gif",
+        "tags": ["combo", "on1", "follow triple turn", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "265e293",
+        "filepath": "salsa/partnerwork/on1/265e293.gif",
+        "tags": ["combo", "on1", "herradura", "lead styling", "Andrés Leiton", "Daniela Peña"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "3867621",
+        "filepath": "salsa/partnerwork/on1/3867621.gif",
+        "tags": ["combo", "on1", "mano a mano", "follow turn", "Andrés Leiton", "Daniela Peña"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "ba6aed0",
+        "filepath": "salsa/partnerwork/on1/ba6aed0.gif",
+        "tags": ["combo", "on1", "flick", "follow double turn", "Andrés Leiton", "Daniela Peña"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "6a13843",
+        "filepath": "salsa/partnerwork/on1/6a13843.gif",
+        "tags": ["combo", "on1", "follow hammerlock", "follow double turn", "Andrés Leiton", "Daniela Peña"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "817df3f",
+        "filepath": "salsa/partnerwork/on1/817df3f.gif",
+        "tags": ["combo", "on1", "follow hammerlock", "follow turn", "lead turn", "Andrés Leiton", "Daniela Peña"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "df75306",
+        "filepath": "salsa/partnerwork/on1/df75306.gif",
+        "tags": ["combo", "on1", "lead turn", "flick", "follow turn", "lead spin", "Andrés Leiton", "Daniela Peña"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "4ed7984",
+        "filepath": "salsa/partnerwork/on1/4ed7984.gif",
+        "tags": ["combo", "on1", "follow styling", "follow turn", "follow hammerlock", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "fac1e12",
+        "filepath": "salsa/partnerwork/on1/fac1e12.gif",
+        "tags": ["combo", "on1", "follow turn", "follow hammerlock", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "4f5c0b7",
+        "filepath": "salsa/partnerwork/on1/4f5c0b7.gif",
+        "tags": ["combo", "on1", "follow turn", "follow hammerlock", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "bb4c5f9",
+        "filepath": "salsa/partnerwork/on1/bb4c5f9.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "flick", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "533ab64",
+        "filepath": "salsa/partnerwork/on1/533ab64.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "follow double hammerlock", "Andrés Leiton", "Daniela Peña"],
+        "level": 4,
+        "orientation": "portrait"
     }
 ]
