@@ -2239,5 +2239,138 @@
         "tags": ["combo", "on1", "flick", "lead turn", "Andrés Leiton", "Daniela Peña"],
         "level": 4,
         "orientation": "portrait"
+    },
+    {
+        "id": "6223576",
+        "filepath": "salsa/partnerwork/on1/6223576.gif",
+        "tags": ["combo", "on1", "follow double turn", "Jermmy Largacha", "Daniela Montoya"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "298167e",
+        "filepath": "salsa/partnerwork/on1/298167e.gif",
+        "tags": ["combo", "on1", "copa", "follow turn", "Jermmy Largacha", "Daniela Montoya"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "f6268de",
+        "filepath": "salsa/partnerwork/on1/f6268de.gif",
+        "tags": ["combo", "on1", "follow double turn", "lead turn", "Jermmy Largacha", "Daniela Montoya"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "4c843aa",
+        "filepath": "salsa/partnerwork/on1/4c843aa.gif",
+        "tags": ["combo", "on1", "carabalí", "Jermmy Largacha", "Daniela Montoya"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "d567921",
+        "filepath": "salsa/partnerwork/on1/d567921.gif",
+        "tags": ["combo", "on1", "follow double turn", "lead turn", "Jermmy Largacha", "Daniela Mantilla"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "cbb18f2",
+        "filepath": "salsa/partnerwork/on1/cbb18f2.gif",
+        "tags": ["combo", "on1", "follow double spin", "copa", "Jermmy Largacha", "Daniela Mantilla"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "aca8104",
+        "filepath": "salsa/partnerwork/on1/aca8104.gif",
+        "tags": ["combo", "on1", "follow double turn", "follow spin", "Jermmy Largacha", "Daniela Mantilla"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "05d0573",
+        "filepath": "salsa/partnerwork/on1/05d0573.gif",
+        "tags": ["combo", "on1", "follow double turn", "Jermmy Largacha"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "2a5a5ae",
+        "filepath": "salsa/partnerwork/on1/2a5a5ae.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "follow hammerlock", "Jermmy Largacha"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "c1db991",
+        "filepath": "salsa/partnerwork/on1/c1db991.gif",
+        "tags": ["combo", "on1", "copa", "lead turn", "follow hammerlock", "360", "Jermmy Largacha"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "d631879",
+        "filepath": "salsa/partnerwork/on1/d631879.gif",
+        "tags": ["combo", "on1", "lead styling", "follow styling", "ilusión", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "8f63db8",
+        "filepath": "salsa/partnerwork/on1/8f63db8.gif",
+        "tags": ["combo", "on1", "copa", "follow turn", "Andrés Leiton"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "9d19f47",
+        "filepath": "salsa/partnerwork/on1/9d19f47.gif",
+        "tags": ["combo", "on1", "flick", "follow turn", "lead turn", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "116ffb2",
+        "filepath": "salsa/partnerwork/on1/116ffb2.gif",
+        "tags": ["combo", "on1", "follow turn", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "8bbd2b5",
+        "filepath": "salsa/partnerwork/on1/8bbd2b5.gif",
+        "tags": ["combo", "on1", "lead turn", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "958d11a",
+        "filepath": "salsa/partnerwork/on1/958d11a.gif",
+        "tags": ["combo", "on1", "follow turn", "follow hammerlock", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "31b333c",
+        "filepath": "salsa/partnerwork/on1/31b333c.gif",
+        "tags": ["combo", "on1", "follow turn", "flick", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "54d335b",
+        "filepath": "salsa/partnerwork/on1/54d335b.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "Andrés Leiton"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "e932167",
+        "filepath": "salsa/partnerwork/on1/e932167.gif",
+        "tags": ["combo", "on1", "follow double turn", "Andrés Leiton"],
+        "level": 4,
+        "orientation": "portrait"
     }
 ]
