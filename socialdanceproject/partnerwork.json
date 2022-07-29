@@ -2372,5 +2372,110 @@
         "tags": ["combo", "on1", "follow double turn", "Andrés Leiton"],
         "level": 4,
         "orientation": "landscape"
+    },
+    {
+        "id": "097a180",
+        "filepath": "salsa/partnerwork/on1/097a180.gif",
+        "tags": ["combo", "on1", "follow double turn", "flick", "Cristian Betancourt", "Karyna Ruiz"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "5370908",
+        "filepath": "salsa/partnerwork/on1/5370908.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "Cristian Betancourt", "Karyna Ruiz"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "30dce47",
+        "filepath": "salsa/partnerwork/on1/30dce47.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "flick", "Cristian Betancourt", "Karyna Ruiz"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "a155df8",
+        "filepath": "salsa/partnerwork/on1/a155df8.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "copa", "Cristian Betancourt", "Karyna Ruiz"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "f26d078",
+        "filepath": "salsa/partnerwork/on1/f26d078.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "follow hammerlock", "Cristian Betancourt", "Karyna Ruiz"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "9bf4ff2",
+        "filepath": "salsa/partnerwork/on1/9bf4ff2.gif",
+        "tags": ["combo", "on1", "follow turn", "mambo", "follow hammerlock", "Cristian Betancourt", "Karyna Ruiz"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "94341d5",
+        "filepath": "salsa/partnerwork/on1/94341d5.gif",
+        "tags": ["combo", "on1", "follow styling", "360", "Cristian Betancourt", "Karyna Ruiz"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "bdef3e5",
+        "filepath": "salsa/partnerwork/on1/bdef3e5.gif",
+        "tags": ["combo", "on1", "follow turn", "follow styling", "follow hammerlock", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "b03bceb",
+        "filepath": "salsa/partnerwork/on1/b03bceb.gif",
+        "tags": ["combo", "on1", "follow turn", "follow hammerlock", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "dadfe5f",
+        "filepath": "salsa/partnerwork/on1/dadfe5f.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "lead hammerlock", "flick", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "3101749",
+        "filepath": "salsa/partnerwork/on1/3101749.gif",
+        "tags": ["combo", "on1", "follow turn", "follow hammerlock", "flick", "Andrés Leiton", "Daniela Peña"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "c019c92",
+        "filepath": "salsa/partnerwork/on1/c019c92.gif",
+        "tags": ["combo", "on1", "follow double spin", "Andrés Leiton", "Daniela Peña"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "3cd5319",
+        "filepath": "salsa/partnerwork/on1/3cd5319.gif",
+        "tags": ["combo", "on1", "follow turn", "Andrés Leiton", "Daniela Peña"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "0b90dff",
+        "filepath": "salsa/partnerwork/on1/0b90dff.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "double flick", "Andrés Leiton", "Daniela Peña"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "0b90dff",
+        "filepath": "salsa/partnerwork/on1/0b90dff.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "double flick", "Andrés Leiton", "Daniela Peña"],
+        "level": 4,
+        "orientation": "portrait"
     }
 ]
