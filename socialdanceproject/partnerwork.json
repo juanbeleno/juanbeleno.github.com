@@ -2472,10 +2472,66 @@
         "orientation": "portrait"
     },
     {
-        "id": "0b90dff",
-        "filepath": "salsa/partnerwork/on1/0b90dff.gif",
-        "tags": ["combo", "on1", "follow turn", "lead turn", "double flick", "Andrés Leiton", "Daniela Peña"],
+        "id": "4f38c4d",
+        "filepath": "salsa/partnerwork/on1/4f38c4d.gif",
+        "tags": ["combo", "on1", "copa", "follow turn", "block", "follow hammerlock", "360", "Jermmy Largacha", "Daniela Mantilla"],
         "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "7b93f1c",
+        "filepath": "salsa/partnerwork/on1/7b93f1c.gif",
+        "tags": ["combo", "on1", "follow double turn", "Jermmy Largacha", "Daniela Mantilla"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "ae1cbb7",
+        "filepath": "salsa/partnerwork/on1/ae1cbb7.gif",
+        "tags": ["combo", "on1", "follow hammerlock", "follow turn", "copa", "Pepe el Malo"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "ae1cbb7",
+        "filepath": "salsa/partnerwork/on1/ae1cbb7.gif",
+        "tags": ["combo", "on1", "follow hammerlock", "follow turn", "copa", "Pepe el Malo"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "96e69cf",
+        "filepath": "salsa/partnerwork/on1/96e69cf.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "Pepe el Malo"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "437457a",
+        "filepath": "salsa/partnerwork/on1/437457a.gif",
+        "tags": ["combo", "on1", "follow triple turn", "Pepe el Malo"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "d45eb63",
+        "filepath": "salsa/partnerwork/on1/d45eb63.gif",
+        "tags": ["combo", "on1", "follow double turn", "Pepe el Malo"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "5b198cf",
+        "filepath": "salsa/partnerwork/on1/5b198cf.gif",
+        "tags": ["combo", "on1", "follow hammerlock", "follow turn", "copa", "Pepe el Malo"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "0b20833",
+        "filepath": "salsa/partnerwork/on1/0b20833.gif",
+        "tags": ["combo", "on1", "follow turn", "Pepe el Malo"],
+        "level": 3,
         "orientation": "portrait"
     }
 ]
