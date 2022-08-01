@@ -2533,5 +2533,117 @@
         "tags": ["combo", "on1", "follow turn", "Pepe el Malo"],
         "level": 3,
         "orientation": "portrait"
+    },
+    {
+        "id": "50fe61b",
+        "filepath": "salsa/partnerwork/on2/50fe61b.gif",
+        "tags": ["combo", "on2", "follow double turn", "follow hammerlock", "Andrew Correa", "Valentina Quiceno"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "bbcc944",
+        "filepath": "salsa/partnerwork/on2/bbcc944.gif",
+        "tags": ["combo", "on2", "follow double turn", "lead turn", "Andrew Correa", "Valentina Quiceno", "Medellín On Fire 2022"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "eb46c06",
+        "filepath": "salsa/partnerwork/on2/eb46c06.gif",
+        "tags": ["combo", "on2", "follow double turn", "lead turn", "follow hammerlock", "follow spin", "Andrew Correa", "Valentina Quiceno", "Medellín On Fire 2022"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "4c7b11e",
+        "filepath": "salsa/partnerwork/on2/4c7b11e.gif",
+        "tags": ["combo", "on2", "follow double turn", "flick", "Andrew Correa", "Valentina Quiceno", "Medellín On Fire 2022"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "7e44f15",
+        "filepath": "salsa/partnerwork/on2/7e44f15.gif",
+        "tags": ["combo", "on2", "follow double turn", "follow double spin", "lead double spin", "Andrew Correa", "Valentina Quiceno", "Medellín On Fire 2022"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "1d4ab95",
+        "filepath": "salsa/partnerwork/on1/1d4ab95.gif",
+        "tags": ["combo", "on1", "follow turn", "open break", "Rodrigo Cortazar", "Asya Sonina", "Medellín On Fire 2022"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "0291449",
+        "filepath": "salsa/partnerwork/on1/0291449.gif",
+        "tags": ["combo", "on1", "follow turn", "open break", "juego de manos", "Rodrigo Cortazar", "Asya Sonina", "Medellín On Fire 2022"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "b4d0abc",
+        "filepath": "salsa/partnerwork/on1/b4d0abc.gif",
+        "tags": ["combo", "on1", "follow turn", "open break", "Rodrigo Cortazar", "Asya Sonina", "Medellín On Fire 2022"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "a39268e",
+        "filepath": "salsa/partnerwork/on1/a39268e.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "juego de manos", "Rodrigo Cortazar", "Asya Sonina", "Medellín On Fire 2022"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "9433352",
+        "filepath": "salsa/partnerwork/on2/9433352.gif",
+        "tags": ["combo", "on2", "follow turn", "open break", "Rodrigo Cortazar", "Asya Sonina", "Medellín On Fire 2022"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "d4f4e0e",
+        "filepath": "salsa/partnerwork/on2/d4f4e0e.gif",
+        "tags": ["combo", "on2", "follow turn", "open break", "juego de manos", "Rodrigo Cortazar", "Asya Sonina", "Medellín On Fire 2022"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "a0d08a6",
+        "filepath": "salsa/partnerwork/on2/a0d08a6.gif",
+        "tags": ["combo", "on2", "follow turn", "open break", "Rodrigo Cortazar", "Asya Sonina", "Medellín On Fire 2022"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "69ac282",
+        "filepath": "salsa/partnerwork/on2/69ac282.gif",
+        "tags": ["combo", "on2", "follow turn", "open break", "Rodrigo Cortazar", "Asya Sonina", "Medellín On Fire 2022"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "d67cbf8b",
+        "filepath": "salsa/partnerwork/on1/d67cbf8b.gif",
+        "tags": ["combo", "on1", "360", "Rodrigo Cortazar", "Asya Sonina", "Medellín On Fire 2022"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "53bba06",
+        "filepath": "salsa/partnerwork/on1/53bba06.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "Rodrigo Cortazar", "Asya Sonina", "Medellín On Fire 2022"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "bb870c4",
+        "filepath": "salsa/partnerwork/on1/bb870c4.gif",
+        "tags": ["combo", "on1", "360", "Rodrigo Cortazar", "Asya Sonina", "Medellín On Fire 2022"],
+        "level": 2,
+        "orientation": "portrait"
     }
 ]
