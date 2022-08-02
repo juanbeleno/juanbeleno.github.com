@@ -2645,5 +2645,33 @@
         "tags": ["combo", "on1", "360", "Rodrigo Cortazar", "Asya Sonina", "Medellín On Fire 2022"],
         "level": 2,
         "orientation": "portrait"
+    },
+    {
+        "id": "fed9d14",
+        "filepath": "salsa/partnerwork/on1/fed9d14.gif",
+        "tags": ["combo", "on1", "360", "follow turn", "candado", "Rodrigo Cortazar", "Asya Sonina", "Medellín On Fire 2022"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "510adfb",
+        "filepath": "salsa/partnerwork/on1/510adfb.gif",
+        "tags": ["combo", "on1", "follow turn", "juego de manos", "Rodrigo Cortazar", "Asya Sonina", "Medellín On Fire 2022"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "974e2e5",
+        "filepath": "salsa/partnerwork/on1/974e2e5.gif",
+        "tags": ["combo", "on1", "follow turn", "juego de manos", "follow hammerlock", "Rodrigo Cortazar", "Asya Sonina", "Medellín On Fire 2022"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "43e2c47",
+        "filepath": "salsa/partnerwork/on1/43e2c47.gif",
+        "tags": ["combo", "on1", "follow double turn", "follow hammerlock", "Rodrigo Cortazar", "Asya Sonina", "Medellín On Fire 2022"],
+        "level": 3,
+        "orientation": "portrait"
     }
 ]
