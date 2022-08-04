@@ -2736,5 +2736,68 @@
         "tags": ["combo", "on2", "follow turn", "block", "lead turn", "Vittico La Magia", "Medellín On Fire 2022"],
         "level": 4,
         "orientation": "portrait"
+    },
+    {
+        "id": "40962f6",
+        "filepath": "bachata/partnerwork/moderna/40962f6.gif",
+        "tags": ["combo", "bachata moderna", "double flick", "follow turn", "Estilito"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "543e1b6",
+        "filepath": "bachata/partnerwork/moderna/543e1b6.gif",
+        "tags": ["combo", "bachata moderna", "flick", "follow turn", "Celso Orozco", "Desireé Cruz"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "d8fa9e1",
+        "filepath": "bachata/partnerwork/moderna/d8fa9e1.gif",
+        "tags": ["combo", "bachata moderna", "follow double turn", "Celso Orozco", "Desireé Cruz"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "ec1bece",
+        "filepath": "bachata/partnerwork/sensual/ec1bece.gif",
+        "tags": ["combo", "bachata sensual", "cambré", "body roll", "Celso Orozco", "Desireé Cruz"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "0004a4c",
+        "filepath": "bachata/partnerwork/sensual/0004a4c.gif",
+        "tags": ["combo", "bachata sensual", "slide", "body roll", "Andrés Silva", "Nataly Gonzalez"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "f71a392",
+        "filepath": "bachata/partnerwork/moderna/f71a392.gif",
+        "tags": ["combo", "bachata moderna", "lead turn", "follow turn", "Andrés Silva", "Nataly Gonzalez"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "19792a1",
+        "filepath": "bachata/partnerwork/sensual/19792a1.gif",
+        "tags": ["combo", "bachata sensual", "flick", "follow spin", "body roll", "Andrés Silva", "Nataly Gonzalez"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "ea02d70",
+        "filepath": "bachata/partnerwork/moderna/ea02d70.gif",
+        "tags": ["combo", "bachata moderna", "flick", "follow turn", "Andrés Silva", "Nataly Gonzalez"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "6f6dd20",
+        "filepath": "bachata/partnerwork/moderna/6f6dd20.gif",
+        "tags": ["combo", "bachata moderna", "lead spin", "follow double turn", "Andrés Silva", "Nataly Gonzalez"],
+        "level": 4,
+        "orientation": "portrait"
     }
 ]
