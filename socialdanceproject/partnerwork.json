@@ -1304,8 +1304,8 @@
     },
     {
         "id": "dded67d",
-        "filepath": "bachata/partnerwork/sensual/dded67d.gif",
-        "tags": ["combo", "bachata sensual", "Andrés Molano"],
+        "filepath": "bachata/partnerwork/moderna/dded67d.gif",
+        "tags": ["combo", "bachata moderna", "Andrés Molano"],
         "level": 3,
         "orientation": "landscape"
     },
@@ -2798,6 +2798,34 @@
         "filepath": "bachata/partnerwork/moderna/6f6dd20.gif",
         "tags": ["combo", "bachata moderna", "lead spin", "follow double turn", "Andrés Silva", "Nataly Gonzalez"],
         "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "8ae5833",
+        "filepath": "salsa/partnerwork/on2/8ae5833.gif",
+        "tags": ["combo", "on2", "follow turn", "follow herradura", "Juan Vásquez"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "a7e7227",
+        "filepath": "salsa/partnerwork/on2/a7e7227.gif",
+        "tags": ["combo", "on2", "follow double turn", "copa", "Juan Vásquez"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "4ace1db",
+        "filepath": "salsa/partnerwork/on2/4ace1db.gif",
+        "tags": ["combo", "on2", "follow double turn", "copa", "360", "Juan Vásquez"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "8cfbfb8",
+        "filepath": "salsa/partnerwork/on2/8cfbfb8.gif",
+        "tags": ["combo", "on2", "lead turn", "360", "Juan Vásquez"],
+        "level": 3,
         "orientation": "portrait"
     }
 ]
