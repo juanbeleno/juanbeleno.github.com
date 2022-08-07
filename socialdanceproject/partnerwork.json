@@ -2827,5 +2827,54 @@
         "tags": ["combo", "on2", "lead turn", "360", "Juan Vásquez"],
         "level": 3,
         "orientation": "portrait"
+    },
+    {
+        "id": "2bd60ef",
+        "filepath": "bachata/partnerwork/moderna/2bd60ef.gif",
+        "tags": ["combo", "bachata moderna", "candado", "follow spin", "Deklan Guzman", "Natalia Villanueva"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "85feb0d",
+        "filepath": "bachata/partnerwork/moderna/85feb0d.gif",
+        "tags": ["combo", "bachata moderna", "flick", "follow double spin", "Deklan Guzman", "Natalia Villanueva"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "4c8e4e8",
+        "filepath": "bachata/partnerwork/sensual/4c8e4e8.gif",
+        "tags": ["combo", "bachata sensual", "Deklan Guzman", "Natalia Villanueva"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "b900d96",
+        "filepath": "bachata/partnerwork/moderna/b900d96.gif",
+        "tags": ["combo", "bachata moderna", "follow spin", "lead spin", "lead 4th position (ballet)", "follow 4th position (ballet)",  "Deklan Guzman", "Natalia Villanueva"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "de79734",
+        "filepath": "bachata/partnerwork/moderna/de79734.gif",
+        "tags": ["combo", "bachata moderna", "triple flick", "follow triple spin", "Deklan Guzman", "Natalia Villanueva"],
+        "level": 5,
+        "orientation": "portrait"
+    },
+    {
+        "id": "49c912b",
+        "filepath": "bachata/partnerwork/sensual/49c912b.gif",
+        "tags": ["combo", "bachata sensual", "follow turn", "Deklan Guzman", "Natalia Villanueva"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "dc49f63",
+        "filepath": "bachata/partnerwork/moderna/dc49f63.gif",
+        "tags": ["combo", "bachata moderna", "bachata sensual", "follow double turn", "cambré", "Deklan Guzman", "Natalia Villanueva"],
+        "level": 4,
+        "orientation": "portrait"
     }
 ]
