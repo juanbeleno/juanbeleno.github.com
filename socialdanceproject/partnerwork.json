@@ -2876,5 +2876,26 @@
         "tags": ["combo", "bachata moderna", "bachata sensual", "follow double turn", "cambré", "Deklan Guzman", "Natalia Villanueva"],
         "level": 4,
         "orientation": "portrait"
+    },
+    {
+        "id": "81cd6c8",
+        "filepath": "bachata/partnerwork/sensual/81cd6c8.gif",
+        "tags": ["combo", "bachata sensual", "Jesús Daza", "Gabriela Montes"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "72d6a10",
+        "filepath": "bachata/partnerwork/moderna/72d6a10.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "Jesús Daza", "Gabriela Montes"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "106ebc3",
+        "filepath": "bachata/partnerwork/moderna/106ebc3.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "Jesús Daza", "Gabriela Montes"],
+        "level": 3,
+        "orientation": "portrait"
     }
 ]
