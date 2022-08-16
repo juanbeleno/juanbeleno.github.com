@@ -2962,10 +2962,52 @@
         "orientation": "portrait"
     },
     {
-        "id": "42d0e2c",
-        "filepath": "bachata/partnerwork/sensual/42d0e2c.gif",
-        "tags": ["combo", "bachata sensual", "follow turn", "body roll", "cambré", "Iván Hernández", "Gabriela Montes"],
+        "id": "6463c4f",
+        "filepath": "bachata/partnerwork/sensual/6463c4f.gif",
+        "tags": ["combo", "bachata sensual", "lead spin", "follow turn", "Chris Pasco", "Sindi Obando"],
         "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "3ca4841",
+        "filepath": "bachata/partnerwork/sensual/3ca4841.gif",
+        "tags": ["combo", "bachata sensual", "flick", "follow turn", "Chris Pasco", "Sindi Obando"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "1618d52",
+        "filepath": "bachata/partnerwork/sensual/1618d52.gif",
+        "tags": ["combo", "bachata sensual", "cambré", "Chris Pasco", "Sindi Obando"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "0ad5ddc",
+        "filepath": "bachata/partnerwork/moderna/0ad5ddc.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "flick", "follow hammerlock", "follow spin", "Pepe El Malo"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "891a3d1",
+        "filepath": "bachata/partnerwork/sensual/891a3d1.gif",
+        "tags": ["combo", "bachata sensual", "follow turn", "Pepe El Malo"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "305ce39",
+        "filepath": "bachata/partnerwork/sensual/305ce39.gif",
+        "tags": ["combo", "bachata sensual", "traspie", "Pepe El Malo"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "94ceba3",
+        "filepath": "bachata/partnerwork/moderna/94ceba3.gif",
+        "tags": ["combo", "bachata moderna", "twist", "Pepe El Malo"],
+        "level": 3,
         "orientation": "portrait"
     }
 ]
