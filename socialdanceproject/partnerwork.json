@@ -2927,10 +2927,45 @@
         "orientation": "portrait"
     },
     {
-        "id": "d603425",
-        "filepath": "bachata/partnerwork/sensual/d603425.gif",
-        "tags": ["combo", "bachata sensual", "Chris Pasco", "Sindi Obando"],
-        "level": 2,
+        "id": "a544ca5",
+        "filepath": "bachata/partnerwork/sensual/a544ca5.gif",
+        "tags": ["combo", "bachata sensual", "Unknown"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "35db7a9",
+        "filepath": "bachata/partnerwork/sensual/35db7a9.gif",
+        "tags": ["combo", "bachata sensual", "Unknown"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "5fb6c7d",
+        "filepath": "bachata/partnerwork/sensual/5fb6c7d.gif",
+        "tags": ["combo", "bachata sensual", "follow turn", "Iván Hernández", "Gabriela Montes"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "f1438b3",
+        "filepath": "bachata/partnerwork/sensual/f1438b3.gif",
+        "tags": ["combo", "bachata sensual", "candado", "Iván Hernández", "Gabriela Montes"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "42d0e2c",
+        "filepath": "bachata/partnerwork/sensual/42d0e2c.gif",
+        "tags": ["combo", "bachata sensual", "follow turn", "body roll", "cambré", "Iván Hernández", "Gabriela Montes"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "42d0e2c",
+        "filepath": "bachata/partnerwork/sensual/42d0e2c.gif",
+        "tags": ["combo", "bachata sensual", "follow turn", "body roll", "cambré", "Iván Hernández", "Gabriela Montes"],
+        "level": 4,
         "orientation": "portrait"
     }
 ]
