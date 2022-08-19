@@ -3037,5 +3037,89 @@
         "tags": ["combo", "bachata sensual", "Luis villegas", "YiLu"],
         "level": 4,
         "orientation": "portrait"
+    },
+    {
+        "id": "ab53f43",
+        "filepath": "salsa/partnerwork/on2/ab53f43.gif",
+        "tags": ["combo", "on2", "360", "Juan Vásquez", "Natalia Mejia"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "dfcc507",
+        "filepath": "salsa/partnerwork/on2/dfcc507.gif",
+        "tags": ["combo", "on2", "360", "Juan Vásquez", "Natalia Mejia"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "8836954",
+        "filepath": "salsa/partnerwork/on2/8836954.gif",
+        "tags": ["combo", "on2", "follow double turn", "Juan Vásquez", "Natalia Mejia"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "aa2e7c4",
+        "filepath": "salsa/partnerwork/on2/aa2e7c4.gif",
+        "tags": ["combo", "on2", "follow double turn", "Juan Vásquez", "Natalia Mejia"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "8570f23",
+        "filepath": "salsa/partnerwork/on2/8570f23.gif",
+        "tags": ["combo", "on2", "lead turn", "choreography", "follow double turn", "Juan Vásquez", "Natalia Mejia"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "d98d41e",
+        "filepath": "salsa/partnerwork/on2/d98d41e.gif",
+        "tags": ["combo", "on2", "copa", "choreography", "follow double turn", "Juan Vásquez", "Natalia Mejia"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "0b5077e",
+        "filepath": "salsa/partnerwork/on2/0b5077e.gif",
+        "tags": ["combo", "on2", "follow turn", "Juan Vásquez", "Natalia Mejia"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "f831810",
+        "filepath": "salsa/partnerwork/on2/f831810.gif",
+        "tags": ["combo", "on2", "follow double turn", "360", "Juan Vásquez", "Natalia Mejia"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "4976fcc",
+        "filepath": "salsa/partnerwork/on2/4976fcc.gif",
+        "tags": ["combo", "on2", "follow double turn", "360", "Juan Vásquez", "Natalia Mejia"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "ed9eda8",
+        "filepath": "salsa/partnerwork/on2/ed9eda8.gif",
+        "tags": ["combo", "on2", "follow turn", "follow hammerlock", "Juan Vásquez", "Natalia Mejia"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "519c98b",
+        "filepath": "salsa/partnerwork/on2/519c98b.gif",
+        "tags": ["combo", "on2", "follow turn", "lead turn", "Juan Vásquez", "Natalia Mejia"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "519c98b",
+        "filepath": "salsa/partnerwork/on2/519c98b.gif",
+        "tags": ["combo", "on2", "follow turn", "lead turn", "Juan Vásquez", "Natalia Mejia"],
+        "level": 3,
+        "orientation": "portrait"
     }
 ]
