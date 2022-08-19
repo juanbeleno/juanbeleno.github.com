@@ -3009,5 +3009,33 @@
         "tags": ["combo", "bachata moderna", "twist", "Pepe El Malo"],
         "level": 3,
         "orientation": "portrait"
+    },
+    {
+        "id": "9616ca8",
+        "filepath": "bachata/partnerwork/sensual/9616ca8.gif",
+        "tags": ["combo", "bachata sensual", "bass", "follow turn", "Luis villegas", "YiLu"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "14ca9d9",
+        "filepath": "bachata/partnerwork/sensual/14ca9d9.gif",
+        "tags": ["combo", "bachata sensual", "body roll", "cambré", "Luis villegas", "YiLu"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "17a57ae",
+        "filepath": "bachata/partnerwork/sensual/17a57ae.gif",
+        "tags": ["combo", "bachata sensual", "body roll", "Luis villegas", "YiLu"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "b09c95c",
+        "filepath": "bachata/partnerwork/sensual/b09c95c.gif",
+        "tags": ["combo", "bachata sensual", "Luis villegas", "YiLu"],
+        "level": 4,
+        "orientation": "portrait"
     }
 ]
