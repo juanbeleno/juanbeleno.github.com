@@ -3121,5 +3121,54 @@
         "tags": ["combo", "on2", "follow turn", "lead turn", "Juan Vásquez", "Natalia Mejia"],
         "level": 3,
         "orientation": "portrait"
+    },
+    {
+        "id": "1597032",
+        "filepath": "bachata/partnerwork/sensual/1597032.gif",
+        "tags": ["combo", "bachata sensual", "Kentaro Yoneda"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "cbde4b5",
+        "filepath": "bachata/partnerwork/sensual/cbde4b5.gif",
+        "tags": ["combo", "bachata sensual", "Pepe El Malo"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "804bf16",
+        "filepath": "bachata/partnerwork/moderna/804bf16.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "lead turn", "Fredy Ospina", "Nicole Morris"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "c68c486",
+        "filepath": "bachata/partnerwork/moderna/c68c486.gif",
+        "tags": ["combo", "bachata moderna", "flick", "lead turn", "lead spin", "Fredy Ospina", "Nicole Morris"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "86108c9",
+        "filepath": "bachata/partnerwork/moderna/86108c9.gif",
+        "tags": ["combo", "bachata moderna", "lead turn", "follow turn", "Fredy Ospina", "Nicole Morris"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "8ae7164",
+        "filepath": "bachata/partnerwork/sensual/8ae7164.gif",
+        "tags": ["combo", "bachata sensual", "Fredy Ospina", "Nicole Morris"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "53f8604",
+        "filepath": "bachata/partnerwork/sensual/53f8604.gif",
+        "tags": ["combo", "bachata sensual", "Fredy Ospina", "Nicole Morris"],
+        "level": 3,
+        "orientation": "portrait"
     }
 ]
