@@ -2741,7 +2741,7 @@
         "id": "40962f6",
         "filepath": "bachata/partnerwork/moderna/40962f6.gif",
         "tags": ["combo", "bachata moderna", "double flick", "follow turn", "Estilito"],
-        "level": 3,
+        "level": 4,
         "orientation": "portrait"
     },
     {
@@ -3168,6 +3168,104 @@
         "id": "53f8604",
         "filepath": "bachata/partnerwork/sensual/53f8604.gif",
         "tags": ["combo", "bachata sensual", "Fredy Ospina", "Nicole Morris"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "ed6de7f",
+        "filepath": "bachata/partnerwork/moderna/ed6de7f.gif",
+        "tags": ["combo", "bachata moderna", "traspié", "follow turn", "choreography", "Iván Hernández", "Gabriela Montes"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "e0a11ae",
+        "filepath": "bachata/partnerwork/moderna/e0a11ae.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "Iván Hernández", "Gabriela Montes"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "b9dff9d",
+        "filepath": "bachata/partnerwork/sensual/b9dff9d.gif",
+        "tags": ["combo", "bachata sensual", "Roy Gomez", "Charby Rocha"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "f338370",
+        "filepath": "bachata/partnerwork/moderna/f338370.gif",
+        "tags": ["combo", "bachata moderna", "candado", "Roy Gomez", "Charby Rocha"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "c47db8c",
+        "filepath": "bachata/partnerwork/sensual/c47db8c.gif",
+        "tags": ["combo", "bachata sensual", "Roy Gomez", "Charby Rocha"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "399905e",
+        "filepath": "bachata/partnerwork/sensual/399905e.gif",
+        "tags": ["combo", "bachata sensual", "lead hammerlock", "lead turn", "flick", "Roy Gomez", "Charby Rocha"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "9ed116f",
+        "filepath": "bachata/partnerwork/sensual/9ed116f.gif",
+        "tags": ["combo", "bachata sensual", "Roy Gomez", "Charby Rocha"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "f003ac6",
+        "filepath": "bachata/partnerwork/sensual/f003ac6.gif",
+        "tags": ["combo", "bachata sensual", "Sebastian Camilo", "Fernanda Gomez"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "85dac02",
+        "filepath": "bachata/partnerwork/sensual/85dac02.gif",
+        "tags": ["combo", "bachata sensual", "Sebastian Camilo", "Fernanda Gomez"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "01c78a5",
+        "filepath": "bachata/partnerwork/sensual/01c78a5.gif",
+        "tags": ["combo", "bachata sensual", "Stiven Rios", "Luis Charry"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "3d1abf5",
+        "filepath": "bachata/partnerwork/sensual/3d1abf5.gif",
+        "tags": ["combo", "bachata sensual", "follow turn", "flick", "Stiven Rios", "Luis Charry"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "1a4e2d6",
+        "filepath": "bachata/partnerwork/sensual/1a4e2d6.gif",
+        "tags": ["combo", "bachata sensual", "follow turn", "Stiven Rios", "Luis Charry"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "81468e2",
+        "filepath": "bachata/partnerwork/sensual/81468e2.gif",
+        "tags": ["combo", "bachata sensual", "follow turn", "Stiven Rios", "Luis Charry"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "ae41b25",
+        "filepath": "bachata/partnerwork/sensual/ae41b25.gif",
+        "tags": ["combo", "bachata sensual", "lead turn", "lead hammerlock", "Stiven Rios", "Luis Charry"],
         "level": 3,
         "orientation": "portrait"
     }
