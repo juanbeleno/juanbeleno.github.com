@@ -3338,5 +3338,26 @@
         "tags": ["combo", "bachata sensual", "David Ospina", "Fernanda Gomez"],
         "level": 3,
         "orientation": "portrait"
+    },
+    {
+        "id": "fdc424b",
+        "filepath": "salsa/partnerwork/on2/fdc424b.gif",
+        "tags": ["combo", "on2", "Alejandra Garzón", "Juan Vásquez", "Chris Hanne"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "203bd14",
+        "filepath": "salsa/partnerwork/on2/203bd14.gif",
+        "tags": ["combo", "on2", "follow double turn", "copa", "follow hammerlock", "lead turn", "Alejandra Garzón", "Juan Vásquez", "Chris Hanne"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "052a481",
+        "filepath": "salsa/partnerwork/on2/052a481.gif",
+        "tags": ["combo", "on2", "follow double turn", "Alejandra Garzón", "Juan Vásquez", "Chris Hanne"],
+        "level": 4,
+        "orientation": "portrait"
     }
 ]
