@@ -3268,5 +3268,47 @@
         "tags": ["combo", "bachata sensual", "lead turn", "lead hammerlock", "Stiven Rios", "Luis Charry"],
         "level": 3,
         "orientation": "portrait"
+    },
+    {
+        "id": "510b249",
+        "filepath": "bachata/partnerwork/sensual/510b249.gif",
+        "tags": ["combo", "bachata sensual", "flick", "follow turn", "Stiven Rios", "Luis Charry"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "82d0281",
+        "filepath": "bachata/partnerwork/sensual/82d0281.gif",
+        "tags": ["combo", "bachata sensual", "Stiven Rios", "Luis Charry"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "ac9cd83",
+        "filepath": "bachata/partnerwork/sensual/ac9cd83.gif",
+        "tags": ["combo", "bachata sensual", "follow turn", "lead turn", "flick", "Stiven Rios", "Luis Charry"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "52f0af2",
+        "filepath": "bachata/partnerwork/sensual/52f0af2.gif",
+        "tags": ["combo", "bachata sensual", "follow turn", "lead double turn", "Stiven Rios", "Luis Charry"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "2059fb8",
+        "filepath": "bachata/partnerwork/sensual/2059fb8.gif",
+        "tags": ["combo", "bachata sensual", "cambré", "Stiven Rios", "Luis Charry"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "278c920",
+        "filepath": "bachata/partnerwork/sensual/278c920.gif",
+        "tags": ["combo", "bachata sensual", "candado", "Stiven Rios", "Luis Charry"],
+        "level": 3,
+        "orientation": "portrait"
     }
 ]
