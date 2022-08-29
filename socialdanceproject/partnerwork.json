@@ -3359,5 +3359,40 @@
         "tags": ["combo", "on2", "follow double turn", "Alejandra Garzón", "Juan Vásquez", "Chris Hanne"],
         "level": 4,
         "orientation": "portrait"
+    },
+    {
+        "id": "67ab396",
+        "filepath": "salsa/partnerwork/on1/67ab396.gif",
+        "tags": ["combo", "on1", "follow turn", "flick", "lead turn", "Sergio Calderón", "Jermmy Largacha"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "e120403",
+        "filepath": "salsa/partnerwork/on1/e120403.gif",
+        "tags": ["combo", "on1", "copa", "follow double turn", "lead turn", "ilusión", "Sergio Calderón", "Jermmy Largacha"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "6c00e27",
+        "filepath": "salsa/partnerwork/on1/6c00e27.gif",
+        "tags": ["combo", "on1", "follow turn", "lead turn", "Manuela Mejía", "Jermmy Largacha"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "ce2abf6",
+        "filepath": "salsa/partnerwork/on1/ce2abf6.gif",
+        "tags": ["combo", "on1", "follow turn", "Manuela Mejía", "Jermmy Largacha"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "026812e",
+        "filepath": "salsa/partnerwork/on1/026812e.gif",
+        "tags": ["combo", "on1", "follow double turn", "lead turn", "Santigo Murillo"],
+        "level": 3,
+        "orientation": "landscape"
     }
 ]
