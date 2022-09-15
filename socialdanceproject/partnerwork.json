@@ -3394,5 +3394,47 @@
         "tags": ["combo", "on1", "follow double turn", "lead turn", "Santigo Murillo"],
         "level": 4,
         "orientation": "landscape"
+    },
+    {
+        "id": "ade153e",
+        "filepath": "bachata/partnerwork/moderna/ade153e.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "flick", "Cristian Pantoja", "Valentina Herrera"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "eaa17be",
+        "filepath": "bachata/partnerwork/moderna/eaa17be.gif",
+        "tags": ["combo", "bachata moderna", "lead turn", "lead hammerlock", "flick", "Joann Pachanga", "Samhy Soto"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "f5009e0",
+        "filepath": "bachata/partnerwork/moderna/f5009e0.gif",
+        "tags": ["combo", "bachata moderna", "follow spin", "flick", "Cristian Pantoja", "Valentina Herrera"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "50ca7e9",
+        "filepath": "bachata/partnerwork/moderna/50ca7e9.gif",
+        "tags": ["combo", "bachata moderna", "lead turn", "lead hammerlock", "Joann Pachanga", "Samhy Soto"],
+        "level": 2,
+        "orientation": "portrait"
+    },
+    {
+        "id": "b6cc22fb",
+        "filepath": "bachata/partnerwork/moderna/b6cc22fb.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "lead turn", "juego de manos", "David Mendez", "Laura Romero"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "e73218e",
+        "filepath": "bachata/partnerwork/moderna/e73218e.gif",
+        "tags": ["combo", "bachata moderna", "lead turn", "lead hammerlock", "double flick", "follow hammerlock", "Unknown"],
+        "level": 4,
+        "orientation": "portrait"
     }
 ]
