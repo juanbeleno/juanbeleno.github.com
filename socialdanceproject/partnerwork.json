@@ -3436,5 +3436,61 @@
         "tags": ["combo", "bachata moderna", "lead turn", "lead hammerlock", "double flick", "follow hammerlock", "Unknown"],
         "level": 4,
         "orientation": "landscape"
+    },
+    {
+        "id": "acc4be7",
+        "filepath": "bachata/partnerwork/moderna/acc4be7.gif",
+        "tags": ["combo", "bachata moderna", "bonao step", "follow turn", "El Tiguere", "Bianca"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "0ed7a4d",
+        "filepath": "bachata/partnerwork/moderna/0ed7a4d.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "lead spin", "Eylül Tatliadim", "Panda Cam"],
+        "level": 4,
+        "orientation": "landscape"
+    },
+    {
+        "id": "8e6cec9",
+        "filepath": "bachata/partnerwork/sensual/8e6cec9.gif",
+        "tags": ["combo", "bachata sensual", "Daniel Kachlon", "Paz Shr"],
+        "level": 3,
+        "orientation": "landscape"
+    },
+    {
+        "id": "122a358",
+        "filepath": "bachata/partnerwork/sensual/122a358.gif",
+        "tags": ["combo", "bachata sensual", "Daniel Kachlon", "Paz Shr"],
+        "level": 4,
+        "orientation": "landscape"
+    },
+    {
+        "id": "94ca655",
+        "filepath": "bachata/partnerwork/sensual/94ca655.gif",
+        "tags": ["combo", "bachata sensual", "Daniel Kachlon", "Paz Shr"],
+        "level": 4,
+        "orientation": "landscape"
+    },
+    {
+        "id": "b74a5a8",
+        "filepath": "bachata/partnerwork/sensual/b74a5a8.gif",
+        "tags": ["combo", "bachata sensual", "Roger", "Daria"],
+        "level": 3,
+        "orientation": "landscape"
+    },
+    {
+        "id": "354d3db",
+        "filepath": "bachata/partnerwork/moderna/354d3db.gif",
+        "tags": ["combo", "bachata moderna", "Roger", "Daria"],
+        "level": 3,
+        "orientation": "landscape"
+    },
+    {
+        "id": "0fc75f5",
+        "filepath": "bachata/partnerwork/sensual/0fc75f5.gif",
+        "tags": ["combo", "bachata sensual", "Roger", "Daria"],
+        "level": 3,
+        "orientation": "landscape"
     }
 ]
