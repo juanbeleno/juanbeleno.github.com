@@ -3492,5 +3492,26 @@
         "tags": ["combo", "bachata sensual", "Roger", "Daria"],
         "level": 3,
         "orientation": "landscape"
+    },
+    {
+        "id": "ee0d2a4",
+        "filepath": "bachata/partnerwork/moderna/ee0d2a4.gif",
+        "tags": ["combo", "bachata moderna", "lead turn", "follow turn", "follow hammerlock", "flick", "lead spin", "Fredy Ospina"],
+        "level": 4,
+        "orientation": "landscape"
+    },
+    {
+        "id": "0a3953a",
+        "filepath": "bachata/partnerwork/moderna/0a3953a.gif",
+        "tags": ["combo", "bachata moderna", "lead turn", "follow turn", "flick", "Fredy Ospina"],
+        "level": 4,
+        "orientation": "landscape"
+    },
+    {
+        "id": "276cd62",
+        "filepath": "bachata/partnerwork/moderna/276cd62.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "Fredy Ospina"],
+        "level": 4,
+        "orientation": "landscape"
     }
 ]
