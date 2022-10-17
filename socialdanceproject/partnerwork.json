@@ -3520,5 +3520,26 @@
         "tags": ["combo", "bachata sensual", "Fredy Ospina"],
         "level": 2,
         "orientation": "landscape"
+    },
+    {
+        "id": "569027e",
+        "filepath": "bachata/partnerwork/moderna/569027e.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "Ataca", "Alemana"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "718074c",
+        "filepath": "bachata/partnerwork/moderna/718074c.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "double flick", "follow spin", "Ataca", "Alemana"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "0ec4729",
+        "filepath": "bachata/partnerwork/moderna/0ec4729.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "Ataca", "Alemana"],
+        "level": 3,
+        "orientation": "portrait"
     }
 ]
