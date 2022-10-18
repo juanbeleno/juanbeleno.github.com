@@ -3541,5 +3541,19 @@
         "tags": ["combo", "bachata moderna", "follow turn", "Ataca", "Alemana"],
         "level": 3,
         "orientation": "portrait"
+    },
+    {
+        "id": "cc30efb",
+        "filepath": "bachata/partnerwork/moderna/cc30efb.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "lead spin", "Ataca", "Alemana"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "26af7e5",
+        "filepath": "bachata/partnerwork/moderna/26af7e5.gif",
+        "tags": ["combo", "bachata moderna", "follow spin", "Ataca", "Alemana"],
+        "level": 3,
+        "orientation": "portrait"
     }
 ]
