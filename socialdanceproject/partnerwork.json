@@ -3561,7 +3561,7 @@
         "filepath": "bachata/partnerwork/sensual/306f6af.gif",
         "tags": ["combo", "bachata sensual", "Azael", "Sindi Azael"],
         "level": 4,
-        "orientation": "portrait"
+        "orientation": "landscape"
     },
     {
         "id": "f779180",
@@ -3618,5 +3618,19 @@
         "tags": ["combo", "bachata sensual", "Azael", "Sindi Azael"],
         "level": 4,
         "orientation": "landscape"
+    },
+    {
+        "id": "0530180",
+        "filepath": "bachata/partnerwork/moderna/0530180.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "flick", "lead spin", "follow spin", "Ataca"],
+        "level": 4,
+        "orientation": "portrait"
+    },
+    {
+        "id": "bc81bb6",
+        "filepath": "bachata/partnerwork/moderna/bc81bb6.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "hammerlock", "Ataca"],
+        "level": 4,
+        "orientation": "portrait"
     }
 ]
