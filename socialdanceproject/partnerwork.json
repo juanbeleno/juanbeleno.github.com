@@ -3632,5 +3632,26 @@
         "tags": ["combo", "bachata moderna", "follow turn", "hammerlock", "Ataca"],
         "level": 4,
         "orientation": "portrait"
+    },
+    {
+        "id": "62c2353",
+        "filepath": "bachata/partnerwork/sensual/62c2353.gif",
+        "tags": ["combo", "bachata sensual", "Fredy Ospina", "Paula Popayán"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "fe3d6aa",
+        "filepath": "bachata/partnerwork/sensual/fe3d6aa.gif",
+        "tags": ["combo", "bachata sensual", "Fredy Ospina", "Paula Popayán"],
+        "level": 3,
+        "orientation": "portrait"
+    },
+    {
+        "id": "7e35c3d",
+        "filepath": "bachata/partnerwork/moderna/7e35c3d.gif",
+        "tags": ["combo", "bachata moderna", "follow turn", "flick", "Fredy Ospina", "Paula Popayán"],
+        "level": 3,
+        "orientation": "portrait"
     }
 ]
