@@ -3653,5 +3653,51 @@
         "tags": ["combo", "bachata moderna", "follow turn", "flick", "Fredy Ospina", "Paula Popayán"],
         "level": 3,
         "orientation": "portrait"
+    },
+    {
+        "id": "5fa6aff",
+        "filepath": "bachata/partnerwork/sensual/5fa6aff.gif",
+        "tags": ["combo", "bachata sensual", "Inam", "Carlos"],
+        "level": 2,
+        "orientation": "landscape"
+    },
+    {
+        "id": "9b9d374",
+        "filepath": "bachata/partnerwork/sensual/9b9d374.gif",
+        "tags": ["combo", "bachata sensual", "Inam", "Carlos"],
+        "level": 3,
+        "orientation": "landscape"
+    },
+    {
+        "id": "26ee386",
+        "filepath": "bachata/partnerwork/sensual/26ee386.gif",
+        "tags": ["combo", "bachata sensual", "Inam", "Carlos"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=CXFzm8NqNr4",
+        "orientation": "landscape"
+    },
+    {
+        "id": "439b0b0",
+        "filepath": "bachata/partnerwork/sensual/439b0b0.gif",
+        "tags": ["combo", "bachata sensual", "Inam", "Carlos"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=CXFzm8NqNr4",
+        "orientation": "landscape"
+    },
+    {
+        "id": "7048e3e",
+        "filepath": "bachata/partnerwork/sensual/7048e3e.gif",
+        "tags": ["combo", "bachata sensual", "Inam", "Carlos"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=CXFzm8NqNr4",
+        "orientation": "landscape"
+    },
+    {
+        "id": "baabf3f",
+        "filepath": "bachata/partnerwork/sensual/baabf3f.gif",
+        "tags": ["combo", "bachata sensual", "Inam", "Carlos"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=CXFzm8NqNr4",
+        "orientation": "landscape"
     }
 ]
