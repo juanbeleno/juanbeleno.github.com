@@ -1,0 +1,62 @@
+[
+    {
+        "id": "275f0da",
+        "filepath": "salsa/shines/cuban/275f0da.mp4",
+        "tags": ["Yoandy Villaurrutia", "cuban"],
+        "level": 1,
+        "orientation": "landscape",
+        "notation": "1 2 3 5 7~",
+        "movement_accent": "7~",
+        "source": "https://www.youtube.com/watch?v=sE4eNbZGsXI"
+    },
+    {
+        "id": "9a28544",
+        "filepath": "salsa/shines/cuban/9a28544.mp4",
+        "tags": ["Yoandy Villaurrutia", "cuban"],
+        "level": 3,
+        "orientation": "landscape",
+        "notation": "1 3~ 5 7~ 8 8+ 1",
+        "movement_accent": "3~ 7~",
+        "source": "https://www.youtube.com/watch?v=sE4eNbZGsXI"
+    },
+    {
+        "id": "17e1d44",
+        "filepath": "salsa/shines/cuban/17e1d44.mp4",
+        "tags": ["Yoandy Villaurrutia", "cuban"],
+        "level": 2,
+        "orientation": "landscape",
+        "notation": "1 2 3 5 6 7 8",
+        "movement_accent": "4",
+        "source": "https://www.youtube.com/watch?v=sE4eNbZGsXI"
+    },
+    {
+        "id": "1cf82e5",
+        "filepath": "salsa/shines/cuban/1cf82e5.mp4",
+        "tags": ["Yoandy Villaurrutia", "cuban", "guaguancó", "cachán"],
+        "level": 3,
+        "orientation": "landscape",
+        "notation": "+1 2 3 +5 6 7 8",
+        "movement_accent": "+1 +5 8",
+        "source": "https://www.youtube.com/watch?v=sE4eNbZGsXI"
+    },
+    {
+        "id": "b77385f",
+        "filepath": "salsa/shines/cuban/b77385f.mp4",
+        "tags": ["Yoandy Villaurrutia", "cuban"],
+        "level": 3,
+        "orientation": "landscape",
+        "notation": "1~ 3 5 6 7",
+        "movement_accent": "1~ 3",
+        "source": "https://www.youtube.com/watch?v=sE4eNbZGsXI"
+    },
+    {
+        "id": "20e8d97",
+        "filepath": "salsa/shines/cuban/20e8d97.mp4",
+        "tags": ["Yoandy Villaurrutia", "cuban", "vacunado", "guaguancó", "columbia"],
+        "level": 4,
+        "orientation": "landscape",
+        "notation": "1 2 3 4 5 6 7 8 1~ 3 5 6 7",
+        "movement_accent": "1 2 3 4 6 7 8 1~",
+        "source": "https://www.youtube.com/watch?v=sE4eNbZGsXI"
+    }
+]
