@@ -3699,5 +3699,21 @@
         "level": 4,
         "source": "https://www.youtube.com/watch?v=CXFzm8NqNr4",
         "orientation": "landscape"
+    },
+    {
+        "id": "1bda5d1",
+        "filepath": "bachata/partnerwork/moderna/1bda5d1.mp4",
+        "tags": ["combo", "bachata moderna", "Daniel", "Anais"],
+        "level": 3,
+        "source": "https://www.youtube.com/watch?v=a6CsAkCtQM8",
+        "orientation": "landscape"
+    },
+    {
+        "id": "458411f",
+        "filepath": "bachata/partnerwork/moderna/458411f.mp4",
+        "tags": ["combo", "bachata moderna", "Daniel", "Anais"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=a6CsAkCtQM8",
+        "orientation": "landscape"
     }
 ]
