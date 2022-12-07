@@ -148,5 +148,25 @@
         "notation": "+1 2 3 +5 6 7 8",
         "movement_accent": "+1 +5 8",
         "source": "https://www.youtube.com/watch?v=iv_P9Cy2xlw"
+    },
+    {
+        "id": "c263378",
+        "filepath": "salsa/shines/cuban/c263378.mp4",
+        "tags": ["Yoandy Villaurrutia", "cuban"],
+        "level": 3,
+        "orientation": "landscape",
+        "notation": "1 2 3 5 6 7",
+        "movement_accent": "1 2 3 5 6 7",
+        "source": "https://www.youtube.com/watch?v=iv_P9Cy2xlw"
+    },
+    {
+        "id": "cea1f7d",
+        "filepath": "salsa/shines/cuban/cea1f7d.mp4",
+        "tags": ["Yoandy Villaurrutia", "cuban"],
+        "level": 5,
+        "orientation": "landscape",
+        "notation": "1 2 3~ 5 6 7 7+ 8 1~ 4 5 7 8",
+        "movement_accent": "3~ 1~ 4 5 7 8",
+        "source": "https://www.youtube.com/watch?v=3K2Pm3x93wc"
     }
 ]

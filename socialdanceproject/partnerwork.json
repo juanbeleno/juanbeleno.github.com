@@ -3811,5 +3811,29 @@
         "level": 4,
         "source": "https://www.youtube.com/watch?v=XjsgmOEHhoA",
         "orientation": "landscape"
+    },
+    {
+        "id": "8b75a9c",
+        "filepath": "bachata/partnerwork/tradicional/8b75a9c.mp4",
+        "tags": ["combo", "bachata tradicional", "El Negro Dulce", "Mariela"],
+        "level": 3,
+        "source": "https://www.youtube.com/watch?v=W7WD2Nar4w4",
+        "orientation": "portrait"
+    },
+    {
+        "id": "00a29d3",
+        "filepath": "bachata/partnerwork/tradicional/00a29d3.mp4",
+        "tags": ["combo", "bachata tradicional", "El Negro Dulce", "Mariela"],
+        "level": 3,
+        "source": "https://www.youtube.com/watch?v=W7WD2Nar4w4",
+        "orientation": "portrait"
+    },
+    {
+        "id": "6e0b32a",
+        "filepath": "bachata/partnerwork/tradicional/6e0b32a.mp4",
+        "tags": ["combo", "bachata tradicional", "El Negro Dulce", "Mariela"],
+        "level": 3,
+        "source": "https://www.youtube.com/watch?v=W7WD2Nar4w4",
+        "orientation": "portrait"
     }
 ]
