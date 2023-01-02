@@ -3879,7 +3879,7 @@
     {
         "id": "ff6ccad",
         "filepath": "bachata/partnerwork/moderna/ff6ccad.mp4",
-        "tags": ["combo", "bachata moderna", "Daniel Sánchez Berlanga ", "Desirée Guidonet Esteve"],
+        "tags": ["combo", "bachata moderna", "Daniel Sánchez Berlanga", "Desirée Guidonet Esteve"],
         "level": 4,
         "source": "https://www.instagram.com/p/CmHr_f0M0AY/?hl=es-la",
         "orientation": "portrait"
@@ -3887,7 +3887,7 @@
     {
         "id": "a389b3e",
         "filepath": "bachata/partnerwork/moderna/a389b3e.mp4",
-        "tags": ["combo", "bachata moderna", "Daniel Sánchez Berlanga ", "Desirée Guidonet Esteve"],
+        "tags": ["combo", "bachata moderna", "Daniel Sánchez Berlanga", "Desirée Guidonet Esteve"],
         "level": 4,
         "source": "https://www.instagram.com/p/CmHr_f0M0AY/?hl=es-la",
         "orientation": "portrait"
@@ -3895,7 +3895,7 @@
     {
         "id": "8b366f2",
         "filepath": "bachata/partnerwork/moderna/8b366f2.mp4",
-        "tags": ["combo", "bachata moderna", "Daniel Sánchez Berlanga ", "Desirée Guidonet Esteve"],
+        "tags": ["combo", "bachata moderna", "Daniel Sánchez Berlanga", "Desirée Guidonet Esteve"],
         "level": 4,
         "source": "https://www.instagram.com/p/CmHr_f0M0AY/?hl=es-la",
         "orientation": "portrait"
@@ -3903,7 +3903,7 @@
     {
         "id": "1ac4b94",
         "filepath": "bachata/partnerwork/moderna/1ac4b94.mp4",
-        "tags": ["combo", "bachata moderna", "Daniel Sánchez Berlanga ", "Desirée Guidonet Esteve"],
+        "tags": ["combo", "bachata moderna", "Daniel Sánchez Berlanga", "Desirée Guidonet Esteve"],
         "level": 4,
         "source": "https://www.instagram.com/p/CmHr_f0M0AY/?hl=es-la",
         "orientation": "portrait"
@@ -3911,7 +3911,7 @@
     {
         "id": "d7e8c97",
         "filepath": "bachata/partnerwork/moderna/d7e8c97.mp4",
-        "tags": ["combo", "bachata moderna", "Daniel Sánchez Berlanga ", "Desirée Guidonet Esteve"],
+        "tags": ["combo", "bachata moderna", "Daniel Sánchez Berlanga", "Desirée Guidonet Esteve"],
         "level": 4,
         "source": "https://www.instagram.com/p/CmHr_f0M0AY/?hl=es-la",
         "orientation": "portrait"
@@ -3919,9 +3919,97 @@
     {
         "id": "f3b5308",
         "filepath": "bachata/partnerwork/moderna/f3b5308.mp4",
-        "tags": ["combo", "bachata moderna", "Daniel Sánchez Berlanga ", "Desirée Guidonet Esteve"],
+        "tags": ["combo", "bachata moderna", "Daniel Sánchez Berlanga", "Desirée Guidonet Esteve"],
         "level": 4,
         "source": "https://www.instagram.com/p/Ckd2AvhI45C/?hl=es-la",
         "orientation": "portrait"
+    },
+    {
+        "id": "72467b7",
+        "filepath": "salsa/partnerwork/on1/72467b7.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 3,
+        "source": "https://www.youtube.com/watch?v=Pf2V4Mcrr_w",
+        "orientation": "landscape"
+    },
+    {
+        "id": "4d7f669",
+        "filepath": "salsa/partnerwork/on1/4d7f669.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 3,
+        "source": "https://www.youtube.com/watch?v=Pf2V4Mcrr_w",
+        "orientation": "landscape"
+    },
+    {
+        "id": "bcfd1d2",
+        "filepath": "salsa/partnerwork/on1/bcfd1d2.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 5,
+        "source": "https://www.youtube.com/watch?v=Pf2V4Mcrr_w",
+        "orientation": "landscape"
+    },
+    {
+        "id": "0e71075",
+        "filepath": "salsa/partnerwork/on1/0e71075.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 5,
+        "source": "https://www.youtube.com/watch?v=Pf2V4Mcrr_w",
+        "orientation": "landscape"
+    },
+    {
+        "id": "024e3e6",
+        "filepath": "salsa/partnerwork/on1/024e3e6.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 3,
+        "source": "https://www.youtube.com/watch?v=Pf2V4Mcrr_w",
+        "orientation": "landscape"
+    },
+    {
+        "id": "0a149a5",
+        "filepath": "salsa/partnerwork/on1/0a149a5.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=Pf2V4Mcrr_w",
+        "orientation": "landscape"
+    },
+    {
+        "id": "70eb15b",
+        "filepath": "salsa/partnerwork/on1/70eb15b.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=Pf2V4Mcrr_w",
+        "orientation": "landscape"
+    },
+    {
+        "id": "9f6470e",
+        "filepath": "salsa/partnerwork/on1/9f6470e.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 5,
+        "source": "https://www.youtube.com/watch?v=Pf2V4Mcrr_w",
+        "orientation": "landscape"
+    },
+    {
+        "id": "c3347c3",
+        "filepath": "salsa/partnerwork/on1/c3347c3.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 3,
+        "source": "https://www.youtube.com/watch?v=Pf2V4Mcrr_w",
+        "orientation": "landscape"
+    },
+    {
+        "id": "0d0f745",
+        "filepath": "salsa/partnerwork/on1/0d0f745.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=Pf2V4Mcrr_w",
+        "orientation": "landscape"
+    },
+    {
+        "id": "0d0f745",
+        "filepath": "salsa/partnerwork/on1/0d0f745.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=Pf2V4Mcrr_w",
+        "orientation": "landscape"
     }
 ]
