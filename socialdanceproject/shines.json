@@ -161,7 +161,11 @@
         "orientation": "landscape",
         "notation": "8+ 1 2 3 5 6 7 8",
         "movement_accent": "1 5 6",
-        "source": "https://www.youtube.com/watch?v=iv_P9Cy2xlw"
+        "source": "https://www.youtube.com/watch?v=iv_P9Cy2xlw",
+        "start_free_leg_position": 9,
+        "start_support_leg": "righ",
+        "end_free_leg_position": 12,
+        "end_support_leg": "right"
     },
     {
         "id": "e37fffe",
@@ -171,7 +175,11 @@
         "orientation": "landscape",
         "notation": "1 3 5 7 1 3 5 7 8",
         "movement_accent": "1 3 5 7 1 3 5 7 8",
-        "source": "https://www.youtube.com/watch?v=iv_P9Cy2xlw"
+        "source": "https://www.youtube.com/watch?v=iv_P9Cy2xlw",
+        "start_free_leg_position": 1,
+        "start_support_leg": "left",
+        "end_free_leg_position": 9,
+        "end_support_leg": "right"
     },
     {
         "id": "fc908a2",
@@ -181,7 +189,11 @@
         "orientation": "landscape",
         "notation": "+1 2 3 +5 6 7 8",
         "movement_accent": "+1 +5 8",
-        "source": "https://www.youtube.com/watch?v=iv_P9Cy2xlw"
+        "source": "https://www.youtube.com/watch?v=iv_P9Cy2xlw",
+        "start_free_leg_position": 9,
+        "start_support_leg": "right",
+        "end_free_leg_position": 12,
+        "end_support_leg": "right"
     },
     {
         "id": "b4c8d12",
@@ -191,17 +203,25 @@
         "orientation": "landscape",
         "notation": "+1 2 3 +5 6 7 8",
         "movement_accent": "+1 +5 8",
-        "source": "https://www.youtube.com/watch?v=iv_P9Cy2xlw"
+        "source": "https://www.youtube.com/watch?v=iv_P9Cy2xlw",
+        "start_free_leg_position": 12,
+        "start_support_leg": "right",
+        "end_free_leg_position": 9,
+        "end_support_leg": "right"
     },
     {
         "id": "c263378",
         "filepath": "salsa/shines/cuban/c263378.mp4",
-        "tags": ["Yoandy Villaurrutia", "cuban"],
+        "tags": ["Yoandy Villaurrutia", "cuban", "bembé"],
         "level": 3,
         "orientation": "landscape",
         "notation": "1 2 3 5 6 7",
         "movement_accent": "1 2 3 5 6 7",
-        "source": "https://www.youtube.com/watch?v=iv_P9Cy2xlw"
+        "source": "https://www.youtube.com/watch?v=iv_P9Cy2xlw",
+        "start_free_leg_position": 9,
+        "start_support_leg": "right",
+        "end_free_leg_position": 9,
+        "end_support_leg": "right"
     },
     {
         "id": "cea1f7d",
@@ -211,7 +231,11 @@
         "orientation": "landscape",
         "notation": "1 2 3~ 5 6 7 7+ 8 1~ 4 5 7 8",
         "movement_accent": "3~ 1~ 4 5 7 8",
-        "source": "https://www.youtube.com/watch?v=3K2Pm3x93wc"
+        "source": "https://www.youtube.com/watch?v=3K2Pm3x93wc",
+        "start_free_leg_position": 9,
+        "start_support_leg": "right",
+        "end_free_leg_position": 9,
+        "end_support_leg": "right"
     },
     {
         "id": "9ae235c",
@@ -221,7 +245,11 @@
         "orientation": "landscape",
         "notation": "1 2 3 4 5 6 7~ 8",
         "movement_accent": "1 2 3 5 6 7~",
-        "source": "https://www.youtube.com/watch?v=3K2Pm3x93wc"
+        "source": "https://www.youtube.com/watch?v=3K2Pm3x93wc",
+        "start_free_leg_position": 9,
+        "start_support_leg": "right",
+        "end_free_leg_position": 3,
+        "end_support_leg": "left"
     },
     {
         "id": "a61fccf",
@@ -231,7 +259,11 @@
         "orientation": "landscape",
         "notation": "1~ 3 5 6 7 8",
         "movement_accent": "1~ 3 5 6 7",
-        "source": "https://www.youtube.com/watch?v=3K2Pm3x93wc"
+        "source": "https://www.youtube.com/watch?v=3K2Pm3x93wc",
+        "start_free_leg_position": 3,
+        "start_support_leg": "left",
+        "end_free_leg_position": 6,
+        "end_support_leg": "left"
     },
     {
         "id": "0de0da3",
@@ -241,7 +273,11 @@
         "orientation": "landscape",
         "notation": "1 2 3 4 6 7 8",
         "movement_accent": "4 8",
-        "source": "https://www.youtube.com/watch?v=3K2Pm3x93wc"
+        "source": "https://www.youtube.com/watch?v=3K2Pm3x93wc",
+        "start_free_leg_position": 6,
+        "start_support_leg": "left",
+        "end_free_leg_position": 9,
+        "end_support_leg": "right"
     },
     {
         "id": "bb0ddbe",
@@ -251,7 +287,11 @@
         "orientation": "landscape",
         "notation": "1 2 3 4 6 7 8",
         "movement_accent": "4 8",
-        "source": "https://www.youtube.com/watch?v=3K2Pm3x93wc"
+        "source": "https://www.youtube.com/watch?v=3K2Pm3x93wc",
+        "start_free_leg_position": 9,
+        "start_support_leg": "right",
+        "end_free_leg_position": 5,
+        "end_support_leg": "left"
     },
     {
         "id": "b4437d3",
@@ -261,6 +301,38 @@
         "orientation": "landscape",
         "notation": "1 3 5 6 7 8",
         "movement_accent": "1 3 5 6 7 8",
-        "source": "https://www.youtube.com/watch?v=3K2Pm3x93wc"
+        "source": "https://www.youtube.com/watch?v=3K2Pm3x93wc",
+        "start_free_leg_position": 5,
+        "start_support_leg": "left",
+        "end_free_leg_position": 5,
+        "end_support_leg": "left"
+    },
+    {
+        "id": "a450966",
+        "filepath": "salsa/shines/cuban/a450966.mp4",
+        "tags": ["Yoandy Villaurrutia", "cuban", "pachanga"],
+        "level": 3,
+        "orientation": "landscape",
+        "notation": "1 3 5 6 7 8",
+        "movement_accent": "1 3 5 6 7 8",
+        "source": "https://www.youtube.com/watch?v=3K2Pm3x93wc",
+        "start_free_leg_position": 5,
+        "start_support_leg": "left",
+        "end_free_leg_position": 3,
+        "end_support_leg": "left"
+    },
+    {
+        "id": "71c041b",
+        "filepath": "salsa/shines/cuban/71c041b.mp4",
+        "tags": ["Yoandy Villaurrutia", "cuban", "pachanga"],
+        "level": 3,
+        "orientation": "landscape",
+        "notation": "1 2 3 5 6 7 8",
+        "movement_accent": "7 8~",
+        "source": "https://www.youtube.com/watch?v=3K2Pm3x93wc",
+        "start_free_leg_position": 3,
+        "start_support_leg": "left",
+        "end_free_leg_position": 9,
+        "end_support_leg": "right"
     }
 ]
