@@ -838,5 +838,61 @@
         "start_support_leg": "right",
         "end_free_leg_position": 3,
         "end_support_leg": "right"
+    },
+    {
+        "id": "f1b436a",
+        "filepath": "salsa/shines/cuban/f1b436a.mp4",
+        "tags": ["Yoandy Villaurrutia", "cuban"],
+        "level": 3,
+        "orientation": "landscape",
+        "notation": "8+ 1 2 3 4 5 6 7",
+        "movement_accent": "1 4",
+        "source": "https://www.youtube.com/watch?v=hDWpwKcxI4I",
+        "start_free_leg_position": 3,
+        "start_support_leg": "right",
+        "end_free_leg_position": 3,
+        "end_support_leg": "right"
+    },
+    {
+        "id": "7a98416",
+        "filepath": "salsa/shines/cuban/7a98416.mp4",
+        "tags": ["Yoandy Villaurrutia", "cuban"],
+        "level": 3,
+        "orientation": "landscape",
+        "notation": "1 2 3 5 6 7",
+        "movement_accent": "5",
+        "source": "https://www.youtube.com/watch?v=hDWpwKcxI4I",
+        "start_free_leg_position": 3,
+        "start_support_leg": "right",
+        "end_free_leg_position": 3,
+        "end_support_leg": "right"
+    },
+    {
+        "id": "51b175d",
+        "filepath": "salsa/shines/cuban/51b175d.mp4",
+        "tags": ["Yoandy Villaurrutia", "cuban"],
+        "level": 4,
+        "orientation": "landscape",
+        "notation": "1 3 4 5 6 7 8 1~ 4 5 6 7 8",
+        "movement_accent": "1 5 6 1 6 7",
+        "source": "https://www.youtube.com/watch?v=hDWpwKcxI4I",
+        "start_free_leg_position": 3,
+        "start_support_leg": "right",
+        "end_free_leg_position": 3,
+        "end_support_leg": "right"
+    },
+    {
+        "id": "061c308",
+        "filepath": "salsa/shines/cuban/061c308.mp4",
+        "tags": ["Yoandy Villaurrutia", "cuban", "bembé"],
+        "level": 3,
+        "orientation": "landscape",
+        "notation": "1 2 3 5 7",
+        "movement_accent": "1 2 3 5 7",
+        "source": "https://www.youtube.com/watch?v=hDWpwKcxI4I",
+        "start_free_leg_position": 3,
+        "start_support_leg": "right",
+        "end_free_leg_position": 3,
+        "end_support_leg": "right"
     }
 ]
