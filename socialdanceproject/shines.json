@@ -1202,5 +1202,47 @@
         "start_support_leg": "right",
         "end_free_leg_position": 3,
         "end_support_leg": "right"
+    },
+    {
+        "id": "b13951d",
+        "filepath": "salsa/shines/cuban/b13951d.mp4",
+        "tags": ["Yoandy Villaurrutia", "cuban"],
+        "level": 3,
+        "orientation": "landscape",
+        "notation": "1 2 3 4 5 6 7 8",
+        "movement_accent": "1 5",
+        "source": "https://www.youtube.com/watch?v=4nFxhyOswhA",
+        "start_free_leg_position": 3,
+        "start_support_leg": "right",
+        "end_free_leg_position": 3,
+        "end_support_leg": "right"
+    },
+    {
+        "id": "1de89bd",
+        "filepath": "salsa/shines/cuban/1de89bd.mp4",
+        "tags": ["Yoandy Villaurrutia", "cuban", "bembé"],
+        "level": 3,
+        "orientation": "landscape",
+        "notation": "1 2 5 5~ 7",
+        "movement_accent": "1 5",
+        "source": "https://www.youtube.com/watch?v=4nFxhyOswhA",
+        "start_free_leg_position": 3,
+        "start_support_leg": "right",
+        "end_free_leg_position": 3,
+        "end_support_leg": "right"
+    },
+    {
+        "id": "e9edb38",
+        "filepath": "salsa/shines/cuban/e9edb38.mp4",
+        "tags": ["Yoandy Villaurrutia", "cuban"],
+        "level": 3,
+        "orientation": "landscape",
+        "notation": "1 2 3 5 6 7",
+        "movement_accent": "5 6 7",
+        "source": "https://www.youtube.com/watch?v=4nFxhyOswhA",
+        "start_free_leg_position": 3,
+        "start_support_leg": "right",
+        "end_free_leg_position": 3,
+        "end_support_leg": "right"
     }
 ]
