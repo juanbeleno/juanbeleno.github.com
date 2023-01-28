@@ -4011,5 +4011,37 @@
         "level": 4,
         "source": "https://www.youtube.com/watch?v=Pf2V4Mcrr_w",
         "orientation": "landscape"
+    },
+    {
+        "id": "3902b29",
+        "filepath": "salsa/partnerwork/on1/3902b29.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 3,
+        "source": "https://www.youtube.com/watch?v=pItP-nK-VcA",
+        "orientation": "landscape"
+    },
+    {
+        "id": "9519e09",
+        "filepath": "salsa/partnerwork/on1/9519e09.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=pItP-nK-VcA",
+        "orientation": "landscape"
+    },
+    {
+        "id": "cf8c853",
+        "filepath": "salsa/partnerwork/on1/cf8c853.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 3,
+        "source": "https://www.youtube.com/watch?v=pItP-nK-VcA",
+        "orientation": "landscape"
+    },
+    {
+        "id": "d7992c0",
+        "filepath": "salsa/partnerwork/on1/d7992c0.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 3,
+        "source": "https://www.youtube.com/watch?v=pItP-nK-VcA",
+        "orientation": "landscape"
     }
 ]
