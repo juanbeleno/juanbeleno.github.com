@@ -2351,7 +2351,8 @@
         "impact": 4,
         "x_end": 1,
         "y_end": -1,
-        "max_distance": 2.8284
+        "max_distance": 2.8284,
+        "end_compass": 8
     },
     {
         "id": "77a5a5e",
@@ -2369,6 +2370,7 @@
         "impact": 4,
         "x_end": 0,
         "y_end": 0,
-        "max_distance": 1
+        "max_distance": 1,
+        "end_compass": 3
     }
 ]
