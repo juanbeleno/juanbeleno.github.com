@@ -3989,22 +3989,6 @@
         "orientation": "landscape"
     },
     {
-        "id": "c3347c3",
-        "filepath": "salsa/partnerwork/on1/c3347c3.mp4",
-        "tags": ["combo", "on1", "Terry", "Cecile"],
-        "level": 3,
-        "source": "https://www.youtube.com/watch?v=Pf2V4Mcrr_w",
-        "orientation": "landscape"
-    },
-    {
-        "id": "0d0f745",
-        "filepath": "salsa/partnerwork/on1/0d0f745.mp4",
-        "tags": ["combo", "on1", "Terry", "Cecile"],
-        "level": 4,
-        "source": "https://www.youtube.com/watch?v=Pf2V4Mcrr_w",
-        "orientation": "landscape"
-    },
-    {
         "id": "0d0f745",
         "filepath": "salsa/partnerwork/on1/0d0f745.mp4",
         "tags": ["combo", "on1", "Terry", "Cecile"],
@@ -4283,5 +4267,85 @@
         "level": 3,
         "source": "https://www.instagram.com/p/Cmz-4hzh_f5/",
         "orientation": "portrait"
+    },
+    {
+        "id": "4e562b6",
+        "filepath": "salsa/partnerwork/on1/4e562b6.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=IQceXsR0Jos",
+        "orientation": "landscape"
+    },
+    {
+        "id": "f39b580",
+        "filepath": "salsa/partnerwork/on1/f39b580.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 3,
+        "source": "https://www.youtube.com/watch?v=bwAG94mclOQ",
+        "orientation": "landscape"
+    },
+    {
+        "id": "c48e498",
+        "filepath": "salsa/partnerwork/on1/c48e498.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=G43Xe_VJorw",
+        "orientation": "landscape"
+    },
+    {
+        "id": "167b8d2",
+        "filepath": "salsa/partnerwork/on1/167b8d2.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 5,
+        "source": "https://www.youtube.com/watch?v=G43Xe_VJorw",
+        "orientation": "landscape"
+    },
+    {
+        "id": "925f09f",
+        "filepath": "salsa/partnerwork/on1/925f09f.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=G43Xe_VJorw",
+        "orientation": "landscape"
+    },
+    {
+        "id": "bbdb3ad",
+        "filepath": "salsa/partnerwork/on1/bbdb3ad.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=G43Xe_VJorw",
+        "orientation": "landscape"
+    },
+    {
+        "id": "8267abb",
+        "filepath": "salsa/partnerwork/on1/8267abb.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=G43Xe_VJorw",
+        "orientation": "landscape"
+    },
+    {
+        "id": "9f55b1f",
+        "filepath": "salsa/partnerwork/on1/9f55b1f.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=G43Xe_VJorw",
+        "orientation": "landscape"
+    },
+    {
+        "id": "2e17310",
+        "filepath": "salsa/partnerwork/on1/2e17310.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=G43Xe_VJorw",
+        "orientation": "landscape"
+    },
+    {
+        "id": "2e17310",
+        "filepath": "salsa/partnerwork/on1/2e17310.mp4",
+        "tags": ["combo", "on1", "Terry", "Cecile"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=G43Xe_VJorw",
+        "orientation": "landscape"
     }
 ]
