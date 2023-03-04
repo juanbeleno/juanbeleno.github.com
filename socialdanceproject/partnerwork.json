@@ -4483,5 +4483,21 @@
         "level": 4,
         "source": "https://www.youtube.com/watch?v=XQxoYh0dmIY",
         "orientation": "landscape"
+    },
+    {
+        "id": "ae06380",
+        "filepath": "bachata/partnerwork/moderna/ae06380.mp4",
+        "tags": ["combo", "bachata moderna", "Miguel", "Sunsi"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=trwfDyna_Ik",
+        "orientation": "landscape"
+    },
+    {
+        "id": "006d034",
+        "filepath": "bachata/partnerwork/sensual/006d034.mp4",
+        "tags": ["combo", "bachata sensual", "Miguel", "Sunsi"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=trwfDyna_Ik",
+        "orientation": "landscape"
     }
 ]
