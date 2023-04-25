@@ -4675,5 +4675,37 @@
         "level": 4,
         "source": "https://www.youtube.com/watch?v=g00DGz8vPOI",
         "orientation": "landscape"
+    },
+    {
+        "id": "89ebd6d",
+        "filepath": "salsa/partnerwork/on1/89ebd6d.mp4",
+        "tags": ["combo", "on1", "Guasa", "Evelyn"],
+        "level": 4,
+        "source": null,
+        "orientation": "portrait"
+    },
+    {
+        "id": "278c9f5",
+        "filepath": "salsa/partnerwork/on1/278c9f5.mp4",
+        "tags": ["combo", "on1", "Guasa", "Evelyn"],
+        "level": 4,
+        "source": null,
+        "orientation": "portrait"
+    },
+    {
+        "id": "855c96b",
+        "filepath": "salsa/partnerwork/on1/855c96b.mp4",
+        "tags": ["combo", "on1", "Guasa", "Evelyn"],
+        "level": 4,
+        "source": null,
+        "orientation": "portrait"
+    },
+    {
+        "id": "de2edbf",
+        "filepath": "salsa/partnerwork/on1/de2edbf.mp4",
+        "tags": ["combo", "on1", "Guasa", "Evelyn"],
+        "level": 4,
+        "source": null,
+        "orientation": "portrait"
     }
 ]
