@@ -1212,13 +1212,6 @@
         "orientation": "landscape"
     },
     {
-        "id": "26e7458",
-        "filepath": "bachata/partnerwork/sensual/26e7458.gif",
-        "tags": ["combo", "bachata sensual", "follow turn", "lead turn", "Andrés Molano"],
-        "level": 2,
-        "orientation": "landscape"
-    },
-    {
         "id": "6e6bd94",
         "filepath": "bachata/partnerwork/moderna/6e6bd94.gif",
         "tags": ["combo", "bachata moderna", "twist", "Andrés Molano"],
@@ -1468,7 +1461,7 @@
         "filepath": "bachata/partnerwork/sensual/914252e.gif",
         "tags": ["combo", "bachata sensual", "flick", "Unknown"],
         "level": 2,
-        "orientation": "portrait"
+        "orientation": "landscape"
     },
     {
         "id": "363e288",
