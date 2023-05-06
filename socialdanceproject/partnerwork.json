@@ -4700,5 +4700,93 @@
         "level": 4,
         "source": null,
         "orientation": "portrait"
+    },
+    {
+        "id": "f31997c",
+        "filepath": "salsa/partnerwork/on2/f31997c.mp4",
+        "tags": ["combo", "on2", "bachata candidate", "Samuel FunFlow", "Sasha Philips"],
+        "level": 4,
+        "source": "https://www.youtube.com/shorts/YkKFsbUTKnU",
+        "orientation": "portrait"
+    },
+    {
+        "id": "495aa4f",
+        "filepath": "salsa/partnerwork/on2/495aa4f.mp4",
+        "tags": ["combo", "on2", "bachata candidate", "Samuel FunFlow", "Carolina Sosa"],
+        "level": 4,
+        "source": "https://www.youtube.com/shorts/o1gzawYmPMM",
+        "orientation": "portrait"
+    },
+    {
+        "id": "e881ae8",
+        "filepath": "salsa/partnerwork/on2/e881ae8.mp4",
+        "tags": ["combo", "on2", "bachata candidate", "Samuel FunFlow", "Wualexa"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=YZccCjKvBDs",
+        "orientation": "landscape"
+    },
+    {
+        "id": "69f76f2",
+        "filepath": "salsa/partnerwork/on2/69f76f2.mp4",
+        "tags": ["combo", "on2", "bachata candidate", "Samuel FunFlow", "Sissi Mei"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=6p8e9l8SBN0",
+        "orientation": "landscape"
+    },
+    {
+        "id": "881ce91",
+        "filepath": "salsa/partnerwork/on2/881ce91.mp4",
+        "tags": ["combo", "on2", "bachata candidate", "Samuel FunFlow", "Sissi Mei"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=6p8e9l8SBN0",
+        "orientation": "landscape"
+    },
+    {
+        "id": "0110e3e",
+        "filepath": "salsa/partnerwork/on2/0110e3e.mp4",
+        "tags": ["combo", "on2", "bachata candidate", "Samuel FunFlow", "Sissi Mei"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=6p8e9l8SBN0",
+        "orientation": "landscape"
+    },
+    {
+        "id": "221b65d",
+        "filepath": "salsa/partnerwork/on2/221b65d.mp4",
+        "tags": ["combo", "on2", "bachata candidate", "Panagiotis", "Myrto"],
+        "level": 4,
+        "source": "https://www.facebook.com/panagiotisandmyrtosalsadoo/videos/235151472432664",
+        "orientation": "portrait"
+    },
+    {
+        "id": "d937a6c",
+        "filepath": "salsa/partnerwork/on2/d937a6c.mp4",
+        "tags": ["combo", "on2", "bachata candidate", "Panagiotis", "Edyta"],
+        "level": 4,
+        "source": "https://youtu.be/Rybg4nkJa5Y",
+        "orientation": "landscape"
+    },
+    {
+        "id": "46aa041",
+        "filepath": "salsa/partnerwork/on2/46aa041.mp4",
+        "tags": ["combo", "on2", "bachata candidate", "Panagiotis", "Scarlett Medrano"],
+        "level": 4,
+        "source": "https://youtu.be/yEc6SyB7I9Y",
+        "orientation": "landscape"
+    },
+    {
+        "id": "49065cd",
+        "filepath": "salsa/partnerwork/on2/49065cd.mp4",
+        "tags": ["combo", "on2", "bachata candidate", "Panagiotis", "Scarlett Medrano"],
+        "level": 4,
+        "source": "https://youtu.be/yEc6SyB7I9Y",
+        "orientation": "landscape"
+    },
+    {
+        "id": "de39bea",
+        "filepath": "salsa/partnerwork/on2/de39bea.mp4",
+        "tags": ["combo", "on2", "bachata candidate", "Panagiotis", "Scarlett Medrano"],
+        "level": 4,
+        "source": "https://youtu.be/yEc6SyB7I9Y",
+        "orientation": "landscape"
     }
 ]
