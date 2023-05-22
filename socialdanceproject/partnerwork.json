@@ -4860,5 +4860,53 @@
         "level": 4,
         "source": "https://youtu.be/Qc3yodAsptM",
         "orientation": "landscape"
+    },
+    {
+        "id": "dd25812",
+        "filepath": "bachata/partnerwork/moderna/dd25812.mp4",
+        "tags": ["combo", "bachata moderna", "bachata reference", "Vlad", "Nataly"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=f2nDfvVUCKs",
+        "orientation": "landscape"
+    },
+    {
+        "id": "9ca9217",
+        "filepath": "salsa/partnerwork/on2/9ca9217.mp4",
+        "tags": ["combo", "on2", "bachata candidate", "Panagiotis Aglamisis", "Amneris Martinez"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=0b_L1CzZTwI",
+        "orientation": "landscape"
+    },
+    {
+        "id": "fef79c9",
+        "filepath": "salsa/partnerwork/on2/fef79c9.mp4",
+        "tags": ["combo", "on2", "bachata candidate", "Panagiotis Aglamisis", "Amneris Martinez"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=0b_L1CzZTwI",
+        "orientation": "landscape"
+    },
+    {
+        "id": "7f4a842",
+        "filepath": "bachata/partnerwork/moderna/7f4a842.mp4",
+        "tags": ["combo", "bachata moderna", "bachata reference", "Lety", "Abdel"],
+        "level": 3,
+        "source": "https://www.youtube.com/watch?v=wxcnn0YAids",
+        "orientation": "landscape"
+    },
+    {
+        "id": "832bc2e",
+        "filepath": "bachata/partnerwork/sensual/832bc2e.mp4",
+        "tags": ["combo", "bachata sensual", "bachata reference", "Lety", "Abdel"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=wxcnn0YAids",
+        "orientation": "landscape"
+    },
+    {
+        "id": "d2dd7ae",
+        "filepath": "bachata/partnerwork/sensual/d2dd7ae.mp4",
+        "tags": ["combo", "bachata sensual", "bachata reference", "Lety", "Abdel"],
+        "level": 4,
+        "source": "https://www.youtube.com/watch?v=wxcnn0YAids",
+        "orientation": "landscape"
     }
 ]
