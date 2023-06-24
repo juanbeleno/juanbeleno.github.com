@@ -1520,13 +1520,6 @@
         "orientation": "portrait"
     },
     {
-        "id": "ceb3a33",
-        "filepath": "bachata/partnerwork/moderna/ceb3a33.gif",
-        "tags": ["combo", "bachata moderna", "Fredy Ospina"],
-        "level": 3,
-        "orientation": "portrait"
-    },
-    {
         "id": "811f7cb",
         "filepath": "bachata/partnerwork/moderna/811f7cb.gif",
         "tags": ["combo", "bachata moderna", "flick", "lead hammerlock", "Andrés Silva"],
@@ -5020,6 +5013,126 @@
         "tags": ["combo", "on2", "Samuel Funflow", "bachata candidate", "Danay Bustamante"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=dhoC_fMefSY",
+        "orientation": "landscape"
+    },
+    {
+        "id": "489eb4a",
+        "filepath": "bachata/partnerwork/sensual/489eb4a.mp4",
+        "tags": ["combo", "bachata sensual", "Andrea Janosova", "bachata reference", "Daniel Chong"],
+        "level": 4,
+        "source": "https://www.instagram.com/reel/CsJi6wVNfpG",
+        "orientation": "portrait"
+    },
+    {
+        "id": "04c0940",
+        "filepath": "bachata/partnerwork/sensual/04c0940.mp4",
+        "tags": ["combo", "bachata sensual", "Elham Ktami", "bachata reference", "Daniel Chong"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/CofaXipD6cs/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "0984d63",
+        "filepath": "bachata/partnerwork/sensual/0984d63.mp4",
+        "tags": ["combo", "bachata sensual", "Lisa", "bachata reference", "DJ York"],
+        "level": 4,
+        "source": "https://youtu.be/0TfIEcZYdvU",
+        "orientation": "landscape"
+    },
+    {
+        "id": "96c11d6",
+        "filepath": "bachata/partnerwork/sensual/96c11d6.mp4",
+        "tags": ["combo", "bachata sensual", "Lisa", "bachata reference", "DJ York"],
+        "level": 4,
+        "source": "https://youtu.be/0TfIEcZYdvU",
+        "orientation": "landscape"
+    },
+    {
+        "id": "99088fc",
+        "filepath": "bachata/partnerwork/sensual/99088fc.mp4",
+        "tags": ["combo", "bachata sensual", "Natali", "bachata reference", "Frank Santos"],
+        "level": 4,
+        "source": "https://youtu.be/g42DY3Oove4",
+        "orientation": "landscape"
+    },
+    {
+        "id": "ebda102",
+        "filepath": "bachata/partnerwork/moderna/ebda102.mp4",
+        "tags": ["combo", "bachata moderna", "Natali", "bachata reference", "Frank Santos"],
+        "level": 4,
+        "source": "https://youtu.be/g42DY3Oove4",
+        "orientation": "landscape"
+    },
+    {
+        "id": "345b03d",
+        "filepath": "salsa/partnerwork/on2/345b03d.mp4",
+        "tags": ["combo", "on2", "Panagiotis Aglamisis", "bachata candidate", "Myrto Misyri"],
+        "level": 4,
+        "source": "https://youtu.be/qdzE2k0mXms?t=76",
+        "orientation": "landscape"
+    },
+    {
+        "id": "3f5976e",
+        "filepath": "salsa/partnerwork/on2/3f5976e.mp4",
+        "tags": ["combo", "on2", "Panagiotis Aglamisis", "bachata candidate", "Myrto Misyri"],
+        "level": 4,
+        "source": "https://youtu.be/qdzE2k0mXms?t=156",
+        "orientation": "landscape"
+    },
+    {
+        "id": "e47d362",
+        "filepath": "salsa/partnerwork/on2/e47d362.mp4",
+        "tags": ["combo", "on2", "Super Mario", "bachata candidate", "Svetlana"],
+        "level": 4,
+        "source": "https://youtu.be/FuTbbvGGx34?t=15",
+        "orientation": "landscape"
+    },
+    {
+        "id": "98a0952",
+        "filepath": "salsa/partnerwork/on2/98a0952.mp4",
+        "tags": ["combo", "on2", "Panagiotis Aglamisis", "bachata candidate", "Bersy Cortez"],
+        "level": 4,
+        "source": "https://youtu.be/-mWeLB0VfbE?t=27",
+        "orientation": "landscape"
+    },
+    {
+        "id": "c064e84",
+        "filepath": "salsa/partnerwork/on2/c064e84.mp4",
+        "tags": ["combo", "on2", "Ernesto Bulnes", "bachata candidate", "Viktorija Motekunaite"],
+        "level": 4,
+        "source": "https://youtu.be/VMyopE6YY_I?t=104",
+        "orientation": "landscape"
+    },
+    {
+        "id": "cd55c47",
+        "filepath": "salsa/partnerwork/on2/cd55c47.mp4",
+        "tags": ["combo", "on2", "Ernesto Bulnes", "bachata candidate", "Denisse Cambria"],
+        "level": 4,
+        "source": "https://youtu.be/EBSja40fYr8?t=198",
+        "orientation": "landscape"
+    },
+    {
+        "id": "d1ecb6c",
+        "filepath": "salsa/partnerwork/on2/d1ecb6c.mp4",
+        "tags": ["combo", "on2", "Tamba", "bachata candidate", "Markella"],
+        "level": 4,
+        "source": "https://youtu.be/XIXuYqm3snM?t=156",
+        "orientation": "landscape"
+    },
+    {
+        "id": "3503f03",
+        "filepath": "salsa/partnerwork/on2/3503f03.mp4",
+        "tags": ["combo", "on2", "Panagiotis Aglamisis", "bachata candidate", "Myrto"],
+        "level": 4,
+        "source": "https://youtu.be/_ZnEu9xaYpY?t=106",
+        "orientation": "landscape"
+    },
+    {
+        "id": "1823349",
+        "filepath": "bachata/partnerwork/sensual/1823349.mp4",
+        "tags": ["combo", "bachata sensual", "Azael", "bachata reference", "Julia Weber"],
+        "level": 4,
+        "source": "https://youtu.be/hPvpGDHrwJk?t=42",
         "orientation": "landscape"
     }
 ]
