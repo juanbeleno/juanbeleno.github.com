@@ -5149,6 +5149,38 @@
         "tags": ["combo", "bachata sensual", "Yerin Rios", "bachata reference", "Daniela Bumaye"],
         "level": 4,
         "source": "Concurso de Improvisación de Bachata 2023-06-10",
+        "orientation": "portrait"
+    },
+    {
+        "id": "f28434b",
+        "filepath": "bachata/partnerwork/moderna/f28434b.mp4",
+        "tags": ["combo", "bachata moderna", "DJ York", "bachata reference", "Rithika"],
+        "level": 4,
+        "source": "https://youtu.be/dqjqxSxdn34?t=111",
+        "orientation": "landscape"
+    },
+    {
+        "id": "4b5b6a3",
+        "filepath": "bachata/partnerwork/sensual/4b5b6a3.mp4",
+        "tags": ["combo", "bachata sensual", "Azael", "bachata reference", "Sindi Azael"],
+        "level": 4,
+        "source": "https://youtu.be/5GU6kRSKDJ4?t=81",
+        "orientation": "landscape"
+    },
+    {
+        "id": "a13875b",
+        "filepath": "bachata/partnerwork/sensual/a13875b.mp4",
+        "tags": ["combo", "bachata sensual", "Alfredo", "bachata reference", "Chiara Emili"],
+        "level": 4,
+        "source": "https://youtu.be/86e7aOhSRW4?t=64",
+        "orientation": "landscape"
+    },
+    {
+        "id": "60d827f",
+        "filepath": "bachata/partnerwork/sensual/60d827f.mp4",
+        "tags": ["combo", "bachata sensual", "Alfredo", "bachata reference", "Chiara Emili"],
+        "level": 4,
+        "source": "https://youtu.be/86e7aOhSRW4?t=84",
         "orientation": "landscape"
     }
 ]
