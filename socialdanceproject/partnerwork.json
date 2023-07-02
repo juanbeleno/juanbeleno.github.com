@@ -5134,5 +5134,21 @@
         "level": 4,
         "source": "https://youtu.be/hPvpGDHrwJk?t=42",
         "orientation": "landscape"
+    },
+    {
+        "id": "4b400cd",
+        "filepath": "bachata/partnerwork/sensual/4b400cd.mp4",
+        "tags": ["combo", "bachata sensual", "Sebastian Montoya", "bachata reference", "Jennifer Ospina"],
+        "level": 4,
+        "source": "Concurso de Improvisación de Bachata 2023-06-10",
+        "orientation": "landscape"
+    },
+    {
+        "id": "0fc6178",
+        "filepath": "bachata/partnerwork/sensual/0fc6178.mp4",
+        "tags": ["combo", "bachata sensual", "Yerin Rios", "bachata reference", "Daniela Bumaye"],
+        "level": 4,
+        "source": "Concurso de Improvisación de Bachata 2023-06-10",
+        "orientation": "landscape"
     }
 ]
