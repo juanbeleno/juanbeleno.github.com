@@ -5230,5 +5230,29 @@
         "level": 4,
         "source": "https://youtu.be/YxPUDqjT6is?t=62",
         "orientation": "landscape"
+    },
+    {
+        "id": "3d3b170",
+        "filepath": "salsa/partnerwork/on2/3d3b170.mp4",
+        "tags": ["combo", "on2", "Shems", "salsa reference", "Martina"],
+        "level": 4,
+        "source": "https://youtu.be/xM7ZLtWZIEo?t=23",
+        "orientation": "landscape"
+    },
+    {
+        "id": "0aaa4b6",
+        "filepath": "salsa/partnerwork/on2/0aaa4b6.mp4",
+        "tags": ["combo", "on2", "Shems", "salsa reference", "Martina"],
+        "level": 4,
+        "source": "https://youtu.be/xM7ZLtWZIEo?t=52",
+        "orientation": "landscape"
+    },
+    {
+        "id": "cf44841",
+        "filepath": "salsa/partnerwork/on2/cf44841.mp4",
+        "tags": ["combo", "on2", "Shems", "salsa reference", "Martina"],
+        "level": 4,
+        "source": "https://youtu.be/xM7ZLtWZIEo?t=62",
+        "orientation": "landscape"
     }
 ]
