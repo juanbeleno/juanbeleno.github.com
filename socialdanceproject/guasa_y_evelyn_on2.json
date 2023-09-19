@@ -1,0 +1,200 @@
+[
+    {
+        "id": "328f3e7",
+        "filepath": "salsa/shines/on2/328f3e7.mp4",
+        "tags": ["Guasa", "on2"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "1 2 3 5 6 7 8 1 2 3 4 5 6 7",
+        "movement_accent": "1* 5"
+    },
+    {
+        "id": "1000763",
+        "filepath": "salsa/shines/on2/1000763.mp4",
+        "tags": ["Guasa", "on2"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "1 2 3 4 5 6 8 1 3 5 6 7",
+        "movement_accent": "5 1** 3 5 6 7"
+    },
+    {
+        "id": "8dfb51d",
+        "filepath": "salsa/shines/on2/8dfb51d.mp4",
+        "tags": ["Guasa", "on2"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "1 3 5~~~",
+        "movement_accent": "1** 3** 5~~"
+    },
+    {
+        "id": "af054bc",
+        "filepath": "salsa/shines/on2/af054bc.mp4",
+        "tags": ["Guasa", "on2"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "1 2 3 4 5 6 7 8 1 2 3 4 5 6 7",
+        "movement_accent": "4~~"
+    },
+    {
+        "id": "9b98e53",
+        "filepath": "salsa/shines/on2/9b98e53.mp4",
+        "tags": ["Guasa", "on2"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "1 3 5 6 7 1~~ 3 5 5+ 6 6+ 7",
+        "movement_accent": "1 3 5 6 7 1~~ 3 5 5+ 6 6+ 7"
+    },
+    {
+        "id": "c586a28",
+        "filepath": "salsa/shines/on2/c586a28.mp4",
+        "tags": ["Guasa", "on2"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "1 3 5 7 8 1 3 5 6 7",
+        "movement_accent": "1** 5 6 7"
+    },
+    {
+        "id": "5e77084",
+        "filepath": "salsa/shines/on2/5e77084.mp4",
+        "tags": ["Guasa", "on2"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "1 2 3 4 5 6 7 8 1 2 3 4 4+ 5 6 7 8",
+        "movement_accent": ""
+    },
+    {
+        "id": "a5be47d",
+        "filepath": "salsa/shines/on2/a5be47d.mp4",
+        "tags": ["Guasa", "on2"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "1 2 3 5 6 7 1 2 3 4 5 6 7 8 1",
+        "movement_accent": "4 5 6 7 8 1*"
+    },
+    {
+        "id": "b8591e0",
+        "filepath": "salsa/shines/on2/b8591e0.mp4",
+        "tags": ["Guasa", "on2", "bembé"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "1 2 3 5 7 1 3 5 7",
+        "movement_accent": "5 7 1 3 5 7"
+    },
+    {
+        "id": "994d489",
+        "filepath": "salsa/shines/on2/994d489.mp4",
+        "tags": ["Evelyn", "on2"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "1 2 3 5 6 7",
+        "movement_accent": ""
+    },
+    {
+        "id": "e3a317e",
+        "filepath": "salsa/shines/on2/e3a317e.mp4",
+        "tags": ["Evelyn", "on2"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "1 2 3 5~ 6 7 1 2 3 5 7",
+        "movement_accent": "1** 5 7"
+    },
+    {
+        "id": "e857df5",
+        "filepath": "salsa/shines/on2/e3a317e.mp4",
+        "tags": ["Evelyn", "on2", "bembé"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "1 3 5 7 1 3 5 6 7",
+        "movement_accent": "1 3 5 7 1 3 5 6 7"
+    },
+    {
+        "id": "f3a2fa5",
+        "filepath": "salsa/shines/on2/f3a2fa5.mp4",
+        "tags": ["Evelyn", "on2", "bembé", "shangó"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "1 3 5 7 8 8+ 1 4 4+ 5 8 8+ 1 3 5 5+ 6 6+ 7",
+        "movement_accent": "1*** 1 5 1 3"
+    },
+    {
+        "id": "4cad027",
+        "filepath": "salsa/shines/on2/4cad027.mp4",
+        "tags": ["Evelyn", "on2", "bembé"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "1 3 5 6 7",
+        "movement_accent": "1 3 5 7"
+    },
+    {
+        "id": "c03c504",
+        "filepath": "salsa/shines/on2/c03c504.mp4",
+        "tags": ["Evelyn", "on2", "bembé"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "1 3 5 7",
+        "movement_accent": "1 3 5 7"
+    },
+    {
+        "id": "3f08c6c",
+        "filepath": "salsa/shines/on2/3f08c6c.mp4",
+        "tags": ["Evelyn", "on2"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "1 2 3 4 5 6 7 8 1 2 3 4 5~ 6~ 7 8",
+        "movement_accent": "5~ 6~ 7 8"
+    },
+    {
+        "id": "b6f11a1",
+        "filepath": "salsa/shines/on2/b6f11a1.mp4",
+        "tags": ["Evelyn", "on2"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "1 2 3 4 6 7 8 2 3 4 5 6 7 8",
+        "movement_accent": "4~ 7 1* 4 5~~"
+    },
+    {
+        "id": "465acb1",
+        "filepath": "salsa/shines/on2/465acb1.mp4",
+        "tags": ["Evelyn", "on2"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "1 2 3 4 5 6 7 8",
+        "movement_accent": "4 8"
+    },
+    {
+        "id": "89f6f3b",
+        "filepath": "salsa/shines/on2/89f6f3b.mp4",
+        "tags": ["Evelyn", "on2"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "1 2 3 4 5 6 7 8 1 2 3 4 5 6 7",
+        "movement_accent": "2 4 6 8 3 4"
+    },
+    {
+        "id": "2811257",
+        "filepath": "salsa/shines/on2/2811257.mp4",
+        "tags": ["Evelyn", "on2", "bembé", "chacha lokafun"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "8 8+ 1 4 4+ 5 8 8+ 1 4 4+ 5 7 8",
+        "movement_accent": "1 5 1 5"
+    },
+    {
+        "id": "a1c21d0",
+        "filepath": "salsa/shines/on2/a1c21d0.mp4",
+        "tags": ["Evelyn", "on2"],
+        "level": 4,
+        "orientation": "portrait",
+        "notation": "1 2 3 5 6 7",
+        "movement_accent": "3 5 7"
+    },
+    {
+        "id": "f611215",
+        "filepath": "salsa/shines/on2/f611215.mp4",
+        "tags": ["Evelyn", "on2", "bembé"],
+        "level": 5,
+        "orientation": "portrait",
+        "notation": "1 3 5 6 7",
+        "movement_accent": "1 3 5 6 7"
+    }
+]
