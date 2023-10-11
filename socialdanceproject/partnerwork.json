@@ -5278,5 +5278,21 @@
         "level": 4,
         "source": "https://youtu.be/p3ztWA7d8Ig?si=0OZyiMiy-P6s8Onv&t=45",
         "orientation": "landscape"
+    },
+    {
+        "id": "01c63df",
+        "filepath": "salsa/partnerwork/on2/01c63df.mp4",
+        "tags": ["on2", "salsa reference", "Super Mario", "Viktoria Yordanova"],
+        "level": 4,
+        "source": "https://youtu.be/lGtvNbWdybA?si=ByWT02RcKf3bAZzn&t=60",
+        "orientation": "landscape"
+    },
+    {
+        "id": "486bb6a",
+        "filepath": "salsa/partnerwork/on2/486bb6a.mp4",
+        "tags": ["on2", "salsa reference", "Super Mario", "Viktoria Yordanova"],
+        "level": 4,
+        "source": "https://youtu.be/lGtvNbWdybA?si=ByWT02RcKf3bAZzn&t=73",
+        "orientation": "landscape"
     }
 ]
