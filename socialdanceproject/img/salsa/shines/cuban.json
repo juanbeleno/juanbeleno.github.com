@@ -109,12 +109,60 @@
         "movement_accent": "5* 1 3 5 7"
     },
     {
-        "id": "05e73c2",
+        "id": "6a292bf",
         "filepath": "salsa/shines/cuban/05e73c2.mp4",
         "tags": ["cuban style", "Yoyo Flow", "alargado en 5", "corte en 5", "desplazamiento derecha"],
         "level": 4,
         "source": "https://youtu.be/Rug2yjEs-8k?si=0BrZ_2fzf5qvF5KJ&t=26",
         "orientation": "landscape",
         "movement_accent": "5*~"
+    },
+    {
+        "id": "7b325e5",
+        "filepath": "salsa/shines/cuban/7b325e5.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "alargado en 5"],
+        "level": 4,
+        "source": "https://youtu.be/sE4eNbZGsXI?si=uFG6hJ-TWqlFwJGp&t=349",
+        "orientation": "landscape",
+        "movement_accent": "5~"
+    },
+    {
+        "id": "7d27b1b",
+        "filepath": "salsa/shines/cuban/7d27b1b.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "corte en 1", "pasitos"],
+        "level": 4,
+        "source": "https://youtu.be/iv_P9Cy2xlw?si=UoeL7zHKCNAefTLs&t=256",
+        "orientation": "landscape",
+        "movement_accent": "1*",
+        "comments": "Se ve más chévere después de un giro como el anterior"
+    },
+    {
+        "id": "8ac2cd6",
+        "filepath": "salsa/shines/cuban/8ac2cd6.mp4",
+        "tags": ["cuban style", "Osmani Segura", "corte en 1", "elegua"],
+        "level": 4,
+        "source": "https://youtu.be/hihUnpSIAW0?si=yBUiOBNR7DR0-8SU&t=20",
+        "orientation": "landscape",
+        "movement_accent": "1 3 5 6 7 1*"
+    },
+    {
+        "id": "8ac2e85",
+        "filepath": "salsa/shines/cuban/8ac2e85.mp4",
+        "tags": ["cuban style", "Osmani Segura", "bembé", "corte en 1", "corte en 5", "oggun"],
+        "level": 4,
+        "source": "https://youtu.be/hihUnpSIAW0?si=yBUiOBNR7DR0-8SU&t=15",
+        "orientation": "landscape",
+        "movement_accent": "1* 5*",
+        "comments": "Si se usa desde pies abiertos en paralelos, da más efecto, es mejor cambiar el pie de inicio"
+    },
+    {
+        "id": "8e7b0e0",
+        "filepath": "salsa/shines/cuban/8e7b0e0.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "bembé", "corte en 1", "sincopado", "guaguancó"],
+        "level": 4,
+        "source": "https://youtu.be/0IDf2hkp_-s?si=YNu94yZoXp829maJ&t=267",
+        "orientation": "landscape",
+        "movement_accent": "1* 3 4 4+ 5 5+ 6 7",
+        "comments": "Se ve mejor después de un giro"
     }
 ]
