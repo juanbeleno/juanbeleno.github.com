@@ -65,7 +65,7 @@
     {
         "id": "4f83c47",
         "filepath": "salsa/shines/cuban/4f83c47.mp4",
-        "tags": ["cuban style", "Osmani Segura", "bembé", "elegua"],
+        "tags": ["cuban style", "Osmani Segura", "bembé", "Elegguá"],
         "level": 4,
         "source": "https://youtu.be/ZL6j_i8ItGY?si=NsOoSFu4NwQFAFAz&t=19",
         "orientation": "landscape",
@@ -93,7 +93,7 @@
     {
         "id": "5b4724d",
         "filepath": "salsa/shines/cuban/5b4724d.mp4",
-        "tags": ["cuban style", "Yoyo Flow", "elegua", "ñongo", "bembé"],
+        "tags": ["cuban style", "Yoyo Flow", "Elegguá", "ñongo", "bembé"],
         "level": 4,
         "source": "https://youtu.be/W2aXvRh_P6Q?si=AgR1QGVJPh_K01aJ&t=138",
         "orientation": "landscape",
@@ -139,7 +139,7 @@
     {
         "id": "8ac2cd6",
         "filepath": "salsa/shines/cuban/8ac2cd6.mp4",
-        "tags": ["cuban style", "Osmani Segura", "corte en 1", "elegua", "sincopado"],
+        "tags": ["cuban style", "Osmani Segura", "corte en 1", "Elegguá", "sincopado"],
         "level": 4,
         "source": "https://youtu.be/hihUnpSIAW0?si=yBUiOBNR7DR0-8SU&t=20",
         "orientation": "landscape",
@@ -341,5 +341,65 @@
         "orientation": "landscape",
         "movement_accent": "3*~|1*",
         "num_eights": 2
+    },
+    {
+        "id": "387cb61",
+        "filepath": "salsa/shines/cuban/387cb61.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "corte en 1", "corte en 3", "alargado en 3", "acento en 6", "sincopado"],
+        "level": 4,
+        "source": "https://youtu.be/Pksa8qTCxFk?si=3-yFKeZzz4mmnkqd&t=34",
+        "orientation": "landscape",
+        "movement_accent": "1* 3~ 5 6 7",
+        "num_eights": 1
+    },
+    {
+        "id": "438c0e9",
+        "filepath": "salsa/shines/cuban/438c0e9.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "bembé", "Elegguá"],
+        "level": 4,
+        "source": "https://youtu.be/ISNil7y4ySY?si=o3bWfHlP_fzRff0e&t=86",
+        "orientation": "landscape",
+        "movement_accent": "1 3 5 7",
+        "num_eights": 1
+    },
+    {
+        "id": "678c15d",
+        "filepath": "salsa/shines/cuban/678c15d.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "corte en 3"],
+        "level": 4,
+        "source": "https://youtu.be/Rug2yjEs-8k?si=_xWOgM6qWexYKpNC&t=3",
+        "orientation": "landscape",
+        "movement_accent": "3*",
+        "num_eights": 1
+    },
+    {
+        "id": "4433f22",
+        "filepath": "salsa/shines/cuban/4433f22.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "pasitos", "corte en 1", "acento en 3", "corte en 6"],
+        "level": 4,
+        "source": "https://youtu.be/UY1CdbiDV2c?si=FIvU_Jb8YfOsFsn1&t=24",
+        "orientation": "landscape",
+        "movement_accent": "1* 3 6*|1* 6*",
+        "num_eights": 2
+    },
+    {
+        "id": "5215ea6",
+        "filepath": "salsa/shines/cuban/5215ea6.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "corte en 1", "corte en 5", "acento en 7"],
+        "level": 4,
+        "source": "https://youtu.be/0IDf2hkp_-s?si=wHZOWFYBX0oCg54d&t=135",
+        "orientation": "landscape",
+        "movement_accent": "1* 5* 7",
+        "num_eights": 1
+    },
+    {
+        "id": "5215ea6",
+        "filepath": "salsa/shines/cuban/5215ea6.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "corte en 1", "corte en 5", "acento en 7"],
+        "level": 4,
+        "source": "https://youtu.be/0IDf2hkp_-s?si=wHZOWFYBX0oCg54d&t=135",
+        "orientation": "landscape",
+        "movement_accent": "1* 5* 7",
+        "num_eights": 1
     }
 ]
