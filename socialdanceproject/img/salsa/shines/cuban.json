@@ -393,13 +393,55 @@
         "num_eights": 1
     },
     {
-        "id": "5215ea6",
-        "filepath": "salsa/shines/cuban/5215ea6.mp4",
-        "tags": ["cuban style", "Yoyo Flow", "corte en 1", "corte en 5", "acento en 7"],
+        "id": "26067c1",
+        "filepath": "salsa/shines/cuban/26067c1.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "pasitos", "corte en 7", "corte en 8", "acento en 3", "corte en 3", "acento en 2", "acento en 5 6 7", "sincopado"],
         "level": 4,
-        "source": "https://youtu.be/0IDf2hkp_-s?si=wHZOWFYBX0oCg54d&t=135",
+        "source": "https://youtu.be/NtTIIjXJGQ8?si=mKESHHxKDXTX1k7A&t=39",
         "orientation": "landscape",
-        "movement_accent": "1* 5* 7",
+        "movement_accent": "3 7* 8*|2 3* 5 6 7 8*|7",
+        "num_eights": 3
+    },
+    {
+        "id": "0043042",
+        "filepath": "salsa/shines/cuban/0043042.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "corte en 7", "corte en 1"],
+        "level": 4,
+        "source": "https://youtu.be/Gt6Ddw149YU?si=qpS8Be2cV-H5ZohV&t=41",
+        "orientation": "landscape",
+        "movement_accent": "7*|1*",
+        "num_eights": 2
+    },
+    {
+        "id": "917438c",
+        "filepath": "salsa/shines/cuban/917438c.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "alargado en 7", "corte en 3"],
+        "level": 4,
+        "source": "https://youtu.be/Gt6Ddw149YU?si=qpS8Be2cV-H5ZohV&t=41",
+        "orientation": "landscape",
+        "movement_accent": "7~~|3*",
+        "num_eights": 2,
+        "comments": "Se puede desplazar 2 tiempos hacia el frente"
+    },
+    {
+        "id": "1536210",
+        "filepath": "salsa/shines/cuban/1536210.mp4",
+        "tags": ["cuban style", "Osmani Segura", "cha cha lokafun", "bembé"],
+        "level": 4,
+        "source": "https://youtu.be/Gt6Ddw149YU?si=qpS8Be2cV-H5ZohV&t=41",
+        "orientation": "landscape",
+        "movement_accent": "8 8+|1 4 4+ 5 7",
+        "num_eights": 2,
+        "comments": "Variación de cha cha lokafun usando más caderas que pecho en el muelleo"
+    },
+    {
+        "id": "9214064",
+        "filepath": "salsa/shines/cuban/9214064.mp4",
+        "tags": ["cuban style", "Osmani Segura", "corte en 5 6 7 8", "bembé", "palo"],
+        "level": 5,
+        "source": "https://youtu.be/hihUnpSIAW0?si=_-fBLL5UsMUB8yub&t=5",
+        "orientation": "landscape",
+        "movement_accent": "1 3 5* 6* 7* 8*",
         "num_eights": 1
     }
 ]
