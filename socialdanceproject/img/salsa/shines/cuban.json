@@ -63,16 +63,6 @@
         "movement_accent": "1 3 5 7"
     },
     {
-        "id": "4f83c47",
-        "filepath": "salsa/shines/cuban/4f83c47.mp4",
-        "tags": ["cuban style", "Osmani Segura", "bembé", "Elegguá"],
-        "level": 4,
-        "source": "https://youtu.be/ZL6j_i8ItGY?si=NsOoSFu4NwQFAFAz&t=19",
-        "orientation": "landscape",
-        "movement_accent": "1 3 5 7",
-        "comments": "Usar el paso de Pedrito Cubache mejor"
-    },
-    {
         "id": "5aaf889",
         "filepath": "salsa/shines/cuban/5aaf889.mp4",
         "tags": ["cuban style", "Yoyo Flow", "corte en 3"],
@@ -544,5 +534,55 @@
         "orientation": "landscape",
         "movement_accent": "|1 2 3 4 5~",
         "num_eights": 2
+    },
+    {
+        "id": "cdaaa64",
+        "filepath": "salsa/shines/cuban/cdaaa64.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "bembé", "Elegguá", "corte en 1", "corte en 5"],
+        "level": 4,
+        "source": "https://youtu.be/ISNil7y4ySY?si=o1oS7pHo5OTGJhZb&t=81",
+        "orientation": "landscape",
+        "movement_accent": "8 8+ 1* 4 4+ 5*",
+        "num_eights": 1
+    },
+    {
+        "id": "cea1f7d",
+        "filepath": "salsa/shines/cuban/cea1f7d.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "alargado en 3", "corte en 1", "corte en 5 6 7"],
+        "level": 4,
+        "source": "https://youtu.be/3K2Pm3x93wc?si=FY1j2TBPwu0jPdQU&t=7",
+        "orientation": "landscape",
+        "movement_accent": "3~|1* 5 6 7",
+        "num_eights": 2
+    },
+    {
+        "id": "d12c255",
+        "filepath": "salsa/shines/cuban/d12c255.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "corte en 3", "corte en 6", "bembé"],
+        "level": 4,
+        "source": "https://youtu.be/ISNil7y4ySY?si=cehhhcPM3ZMo4fcH&t=26",
+        "orientation": "landscape",
+        "movement_accent": "3* 6*|1 3 5 7",
+        "num_eights": 2
+    },
+    {
+        "id": "d2584c2",
+        "filepath": "salsa/shines/cuban/d2584c2.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "acento en 1", "corte en 6"],
+        "level": 4,
+        "source": "https://youtu.be/Pksa8qTCxFk?si=gm6YQzMsNMI12-AK&t=21",
+        "orientation": "landscape",
+        "movement_accent": "1 6*",
+        "num_eights": 1
+    },
+    {
+        "id": "dabd713",
+        "filepath": "salsa/shines/cuban/dabd713.mp4",
+        "tags": ["cuban style", "Osmani Segura", "alargado en 5", "desplazamiento derecha"],
+        "level": 4,
+        "source": "https://youtu.be/ZL6j_i8ItGY?si=581pmnqD3ggu9BK1&t=45",
+        "orientation": "landscape",
+        "movement_accent": "5~~",
+        "num_eights": 1
     }
 ]
