@@ -584,5 +584,298 @@
         "orientation": "landscape",
         "movement_accent": "5~~",
         "num_eights": 1
+    },
+    {
+        "id": "dc5a7f9",
+        "filepath": "salsa/shines/cuban/dc5a7f9.mp4",
+        "tags": ["cuban style", "Osmani Segura", "corte en 8+ 1", "desplazamiento derecha"],
+        "level": 4,
+        "source": "https://youtu.be/sxsg4NNNoHU?si=SKrPXVNhuEcMqsWJ&t=23",
+        "orientation": "landscape",
+        "movement_accent": "8+ 1*",
+        "num_eights": 1
+    },
+    {
+        "id": "e9edb38",
+        "filepath": "salsa/shines/cuban/e9edb38.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "corte en 5 6 7"],
+        "level": 4,
+        "source": "https://youtu.be/4nFxhyOswhA?si=tuDKk4cyXr8GOflX&t=281",
+        "orientation": "landscape",
+        "movement_accent": "5* 6* 7*",
+        "num_eights": 1
+    },
+    {
+        "id": "e34da74",
+        "filepath": "salsa/shines/cuban/e34da74.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "corte en 1 3", "corte en 7"],
+        "level": 4,
+        "source": "Unknown",
+        "orientation": "landscape",
+        "movement_accent": "|1* 3* 7*",
+        "num_eights": 2
+    },
+    {
+        "id": "e90eb6e",
+        "filepath": "salsa/shines/cuban/e90eb6e.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "corte en 1 3", "corte en 7", "corte en 3", "corte en 5", "pasitos"],
+        "level": 4,
+        "source": "https://youtu.be/tpdrtud8XJo?si=48jFDIKBqJDQokrV&t=159",
+        "orientation": "landscape",
+        "movement_accent": "1* 3*|3* 5*",
+        "num_eights": 2
+    },
+    {
+        "id": "e199750",
+        "filepath": "salsa/shines/cuban/e199750.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "vacunao", "corte en 6"],
+        "level": 4,
+        "source": "https://youtu.be/YXh-6VOQyTw?si=usYebTf4w0EVrH3X&t=414",
+        "orientation": "landscape",
+        "movement_accent": "1 3 6*",
+        "num_eights": 1
+    },
+    {
+        "id": "ef2a705",
+        "filepath": "salsa/shines/cuban/ef2a705.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "vacunao", "corte en 1", "alargado en 5"],
+        "level": 4,
+        "source": "https://youtu.be/tpdrtud8XJo?si=DPv7EZaBSyO1e-SE&t=123",
+        "orientation": "landscape",
+        "movement_accent": "|1* 5~~",
+        "num_eights": 1
+    },
+    {
+        "id": "f3ed95e",
+        "filepath": "salsa/shines/cuban/f3ed95e.mp4",
+        "tags": ["cuban style", "Osmani Segura", "bembé"],
+        "level": 4,
+        "source": "https://youtu.be/hihUnpSIAW0?si=0GzSb7MqGJBl5O-0&t=2",
+        "orientation": "landscape",
+        "movement_accent": "1 3 5 7",
+        "num_eights": 1
+    },
+    {
+        "id": "f3ff7f3",
+        "filepath": "salsa/shines/cuban/f3ff7f3.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "corte en 5 6"],
+        "level": 4,
+        "source": "https://youtu.be/Pksa8qTCxFk?si=SmNJAmyKaCr7OnGp&t=31",
+        "orientation": "landscape",
+        "movement_accent": "5* 6*",
+        "num_eights": 1
+    },
+    {
+        "id": "fc66610",
+        "filepath": "salsa/shines/cuban/fc66610.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "desplazamiento atrás", "bembé"],
+        "level": 4,
+        "source": "https://youtu.be/4WydFLY5STg?si=rEgmuBp0xI_YQGea&t=26",
+        "orientation": "landscape",
+        "movement_accent": "5 7",
+        "num_eights": 1
+    },
+    {
+        "id": "55beb03",
+        "filepath": "salsa/shines/cuban/55beb03.mp4",
+        "tags": ["cuban style", "Yoyo Flow", "supercorte en 1"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/Cwh7S4-ITa7/",
+        "orientation": "portrait",
+        "movement_accent": "|1**",
+        "num_eights": 2
+    },
+    {
+        "id": "430677a",
+        "filepath": "salsa/shines/cuban/430677a.mp4",
+        "tags": ["cuban style", "Jacopo Tavana", "corte en 1 2 3 5"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/Cx0o_BPtzOj/",
+        "orientation": "portrait",
+        "movement_accent": "1 2 3 5*",
+        "num_eights": 1
+    },
+    {
+        "id": "a892d2b",
+        "filepath": "salsa/shines/cuban/a892d2b.mp4",
+        "tags": ["cuban style", "Pedrito Cubache", "acento en 1", "acento en 5", "Eleggua", "bembé", "Telemina"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/Cx0o_BPtzOj/",
+        "orientation": "portrait",
+        "movement_accent": "7|1* 3 5* 7",
+        "num_eights": 2
+    },
+    {
+        "id": "056e661",
+        "filepath": "salsa/shines/cuban/056e661.mp4",
+        "tags": ["cuban style", "Pedrito Cubache", "Yuca", "bembé"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/CZZapJConPG/",
+        "orientation": "portrait",
+        "movement_accent": "7 8|1 3 4 5 7 8|1 3 4 5 7",
+        "num_eights": 3,
+        "comments": "Escucharlo con música al parecer tiene toque específico, puede desplazarse en diagonal"
+    },
+    {
+        "id": "ff0c19d",
+        "filepath": "salsa/shines/cuban/ff0c19d.mp4",
+        "tags": ["cuban style", "Pedrito Cubache", "Yemanyá", "bembé", "ñongó"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/CoNQoIYj7fa/",
+        "orientation": "portrait",
+        "movement_accent": "1 3 5 7|1 3 5 7",
+        "num_eights": 2
+    },
+    {
+        "id": "c11a0dd",
+        "filepath": "salsa/shines/cuban/c11a0dd.mp4",
+        "tags": ["cuban style", "Pedrito Cubache", "Yemanyá", "bembé"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/CoNQoIYj7fa/",
+        "orientation": "portrait",
+        "movement_accent": "1 3 5 7|1 3 5 7",
+        "num_eights": 2
+    },
+    {
+        "id": "0d12282",
+        "filepath": "salsa/shines/cuban/0d12282.mp4",
+        "tags": ["cuban style", "Pedrito Cubache", "Yemanyá", "bembé", "Omolode"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/CoNQoIYj7fa/",
+        "orientation": "portrait",
+        "movement_accent": "1 3 5 7|1 3 5 7",
+        "num_eights": 2
+    },
+    {
+        "id": "04819d4",
+        "filepath": "salsa/shines/cuban/04819d4.mp4",
+        "tags": ["cuban style", "Pedrito Cubache", "Yemanyá", "bembé"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/CoNQoIYj7fa/",
+        "orientation": "portrait",
+        "movement_accent": "1 3 5 7|1 3 5 7|1 3 5 7|1 3 5 7",
+        "num_eights": 4
+    },
+    {
+        "id": "8eaec31",
+        "filepath": "salsa/shines/cuban/8eaec31.mp4",
+        "tags": ["cuban style", "Pedrito Cubache", "Yemanyá", "bembé"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/CoNQoIYj7fa/",
+        "orientation": "portrait",
+        "movement_accent": "1 3 5 7|1 3 5 7",
+        "num_eights": 2
+    },
+    {
+        "id": "d5f3fc2",
+        "filepath": "salsa/shines/cuban/d5f3fc2.mp4",
+        "tags": ["cuban style", "Pedrito Cubache", "Eleggua", "bembé"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/CoNQoIYj7fa/",
+        "orientation": "portrait",
+        "movement_accent": "1 3 5 7|1 3 5 7|1 3",
+        "num_eights": 3,
+        "comments": "Antes de empezar un ñongo o lumbanche pisamos en core beat el 5 y el 7"
+    },
+    {
+        "id": "994062d",
+        "filepath": "salsa/shines/cuban/994062d.mp4",
+        "tags": ["cuban style", "Pedrito Cubache", "Changó", "corte en 1", "acento en 5 7"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/CmEgULQomyA/",
+        "orientation": "portrait",
+        "movement_accent": "5* 7*|1**",
+        "num_eights": 2
+    },
+    {
+        "id": "11acb5f",
+        "filepath": "salsa/shines/cuban/11acb5f.mp4",
+        "tags": ["cuban style", "Pedrito Cubache", "Changó", "bembé", "lameta"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/CmEgULQomyA/",
+        "orientation": "portrait",
+        "movement_accent": "1 3 5 7|1 3 5 7",
+        "num_eights": 2
+    },
+    {
+        "id": "8da1137",
+        "filepath": "salsa/shines/cuban/8da1137.mp4",
+        "tags": ["cuban style", "Pedrito Cubache", "Changó", "bembé", "supercorte en 5", "acento en 1"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/CmEgULQomyA/",
+        "orientation": "portrait",
+        "movement_accent": "1 5*",
+        "num_eights": 1
+    },
+    {
+        "id": "fb13e2a",
+        "filepath": "salsa/shines/cuban/fb13e2a.mp4",
+        "tags": ["cuban style", "Pedrito Cubache", "columbia", "cortes core beat"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/CmEgULQomyA/",
+        "orientation": "portrait",
+        "movement_accent": "1* 3* 5* 7*",
+        "num_eights": 1
+    },
+    {
+        "id": "7daaf17",
+        "filepath": "salsa/shines/cuban/7daaf17.mp4",
+        "tags": ["cuban style", "Pedrito Cubache", "Ochún", "bembé"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/CmEgULQomyA/",
+        "orientation": "portrait",
+        "movement_accent": "5 7|1 3 5 7|1 3 5 7",
+        "num_eights": 3,
+        "comments": "Un giro es excelente para preparar para hacer Orichas preparando en 5 7"
+    },
+    {
+        "id": "3d2f7e6",
+        "filepath": "salsa/shines/cuban/3d2f7e6.mp4",
+        "tags": ["cuban style", "Pedrito Cubache", "columbia", "acento en 1", "acento en 5", "acento en 7", "supercorte en 1", "alargado en 5"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/CYl7XmAIFBd/",
+        "orientation": "landscape",
+        "movement_accent": "1 5|1 5 7|1** 5~",
+        "num_eights": 3
+    },
+    {
+        "id": "3f87493",
+        "filepath": "salsa/shines/cuban/3f87493.mp4",
+        "tags": ["cuban style", "Pedrito Cubache", "corte en 1", "alargado en 5"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/CYl7XmAIFBd/",
+        "orientation": "landscape",
+        "movement_accent": "1* 5~",
+        "num_eights": 1
+    },
+    {
+        "id": "3f87493",
+        "filepath": "salsa/shines/cuban/3f87493.mp4",
+        "tags": ["cuban style", "Pedrito Cubache", "corte en 1", "alargado en 5"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/CYl7XmAIFBd/",
+        "orientation": "landscape",
+        "movement_accent": "1* 5~",
+        "num_eights": 1
+    },
+    {
+        "id": "34c480a",
+        "filepath": "salsa/shines/cuban/34c480a.mp4",
+        "tags": ["cuban style", "Pedrito Cubache", "bembé", "acento en 7", "corte en 5 7"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/CYl7XmAIFBd/",
+        "orientation": "landscape",
+        "movement_accent": "7|5* 7*",
+        "num_eights": 1
+    },
+    {
+        "id": "59962bb",
+        "filepath": "salsa/shines/cuban/59962bb.mp4",
+        "tags": ["cuban style", "Pedrito Cubache", "bembé", "Oggún", "acento en 5", "corte en 1", "corte en 7 1"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/CYl7XmAIFBd/",
+        "orientation": "landscape",
+        "movement_accent": "|1* 5 7*|1*",
+        "num_eights": 3
     }
 ]
