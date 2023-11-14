@@ -5318,5 +5318,21 @@
         "level": 4,
         "source": "https://youtu.be/3oyG-i7wMBQ?si=hvZZnH2BAh7kpel_&t=170",
         "orientation": "landscape"
+    },
+    {
+        "id": "65815e0",
+        "filepath": "salsa/partnerwork/on2/65815e0.mp4",
+        "tags": ["on2", "salsa reference", "Super Mario"],
+        "level": 4,
+        "source": "https://youtu.be/-ceZgW0BJUo?si=XQQjjVH1Ur1hdYK_&t=72",
+        "orientation": "landscape"
+    },
+    {
+        "id": "1ad69d2",
+        "filepath": "bachata/partnerwork/sensual/1ad69d2.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Sindi Azael", "Azael"],
+        "level": 4,
+        "source": "https://youtu.be/bfeE7DHVx0w?si=m5bhE8mNH__41gaR&t=132",
+        "orientation": "landscape"
     }
 ]
