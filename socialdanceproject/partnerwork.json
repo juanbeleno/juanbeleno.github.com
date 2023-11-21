@@ -5384,11 +5384,19 @@
         "orientation": "landscape"
     },
     {
-        "id": "6c2b9cc",
-        "filepath": "salsa/partnerwork/on2/6c2b9cc.mp4",
+        "id": "b458fd4",
+        "filepath": "salsa/partnerwork/on2/b458fd4.mp4",
         "tags": ["on2", "salsa reference", "Yuri Astankov", "Anita Santos Rubin"],
         "level": 4,
         "source": "https://youtu.be/2ak4H0sVTaQ?si=sHci7VSjijdLhqKx&t=46",
+        "orientation": "landscape"
+    },
+    {
+        "id": "4be2603",
+        "filepath": "salsa/partnerwork/on2/4be2603.mp4",
+        "tags": ["on2", "salsa reference", "Ataca", "Selin Obekci"],
+        "level": 4,
+        "source": "https://youtu.be/Vo71sN9R424?si=bN-Oh1SI8_lH1ELm&t=96",
         "orientation": "landscape"
     }
 ]
