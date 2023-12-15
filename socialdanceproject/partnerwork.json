@@ -5406,5 +5406,21 @@
         "level": 4,
         "source": "https://youtu.be/gI4ub12XTE4?si=wbrdMZO-WjnJ-AfC&t=41",
         "orientation": "landscape"
+    },
+    {
+        "id": "e274b23",
+        "filepath": "salsa/partnerwork/on2/e274b23.mp4",
+        "tags": ["on2", "salsa reference", "Tarek Baaziz", "Lillù Berthier"],
+        "level": 4,
+        "source": "https://youtu.be/9DhvH1TaHKA?si=U6JJJG94mTZfJSun&t=29",
+        "orientation": "landscape"
+    },
+    {
+        "id": "05ba98b",
+        "filepath": "salsa/partnerwork/on2/05ba98b.mp4",
+        "tags": ["on2", "salsa reference", "Tarek Baaziz", "Lillù Berthier"],
+        "level": 4,
+        "source": "https://youtu.be/9DhvH1TaHKA?si=U6JJJG94mTZfJSun&t=90",
+        "orientation": "landscape"
     }
 ]
