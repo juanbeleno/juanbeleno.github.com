@@ -4098,7 +4098,7 @@
     {
         "id": "593a71e",
         "filepath": "bachata/partnerwork/sensual/593a71e.mp4",
-        "tags": ["combo", "bachata sensual", "bachata reference", "Luis García", "Andrea Cobos"],
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "Luis García", "Andrea Cobos"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=Mp2m0TjcGUs",
         "orientation": "landscape"
@@ -4946,7 +4946,7 @@
     {
         "id": "6de6dcf",
         "filepath": "salsa/partnerwork/on2/6de6dcf.mp4",
-        "tags": ["combo", "on2", "salsa reference", "Samuel FunFlow", "Sophia Adalis"],
+        "tags": ["combo", "on2", "learned salsa reference", "Samuel FunFlow", "Sophia Adalis"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=K96_54pfVvw",
         "orientation": "landscape"
@@ -5090,7 +5090,7 @@
     {
         "id": "98a0952",
         "filepath": "salsa/partnerwork/on2/98a0952.mp4",
-        "tags": ["combo", "on2", "Panagiotis Aglamisis", "salsa reference", "Bersy Cortez"],
+        "tags": ["combo", "on2", "Panagiotis Aglamisis", "learned salsa reference", "Bersy Cortez"],
         "level": 4,
         "source": "https://youtu.be/-mWeLB0VfbE?t=27",
         "orientation": "landscape"
@@ -5122,7 +5122,7 @@
     {
         "id": "3503f03",
         "filepath": "salsa/partnerwork/on2/3503f03.mp4",
-        "tags": ["combo", "on2", "Panagiotis Aglamisis", "salsa reference", "Myrto"],
+        "tags": ["combo", "on2", "Panagiotis Aglamisis", "learned salsa reference", "Myrto"],
         "level": 4,
         "source": "https://youtu.be/_ZnEu9xaYpY?t=106",
         "orientation": "landscape"
@@ -5429,6 +5429,22 @@
         "tags": ["bachata moderna", "bachata reference", "Jessica", "Nicolas"],
         "level": 4,
         "source": "https://youtu.be/_RvKK7DrQXo?si=aZF4rw8bZwZyeWeC&t=99",
+        "orientation": "landscape"
+    },
+    {
+        "id": "8fe39f1",
+        "filepath": "salsa/partnerwork/on2/8fe39f1.mp4",
+        "tags": ["on2", "salsa reference", "Joel", "Michelle"],
+        "level": 4,
+        "source": "https://youtu.be/KcD-8SVGlnM?si=OiDR0YXxkN2bhsvn&t=60",
+        "orientation": "landscape"
+    },
+    {
+        "id": "0735585",
+        "filepath": "salsa/partnerwork/on2/0735585.mp4",
+        "tags": ["on2", "salsa reference", "Joel", "Michelle"],
+        "level": 4,
+        "source": "https://youtu.be/KcD-8SVGlnM?si=mkM8qvxsevRyIZ5u&t=210",
         "orientation": "landscape"
     }
 ]
