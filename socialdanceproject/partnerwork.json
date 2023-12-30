@@ -5472,11 +5472,19 @@
         "orientation": "landscape"
     },
     {
-        "id": "ec004d5",
-        "filepath": "bachata/partnerwork/sensual/ec004d5.mp4",
+        "id": "f555fd2",
+        "filepath": "bachata/partnerwork/sensual/f555fd2.mp4",
         "tags": ["bachata sensual", "bachata reference", "Dario", "Sara"],
         "level": 4,
         "source": "https://youtu.be/js80cS_QPLk?si=hOJbRMbkXBt3sLHz&t=103",
+        "orientation": "landscape"
+    },
+    {
+        "id": "38c31aa",
+        "filepath": "salsa/partnerwork/on2/38c31aa.mp4",
+        "tags": ["on2", "salsa reference", "Erik", "Alba"],
+        "level": 4,
+        "source": "https://youtu.be/W2Ndfv5Qw9s?si=yTnNnjIev0cZYWgN&t=86",
         "orientation": "landscape"
     }
 ]
