@@ -5494,5 +5494,21 @@
         "level": 4,
         "source": "https://youtu.be/umL_cSsA8_0?si=CRvvDdKJKQ_m2HLZ&t=137",
         "orientation": "landscape"
+    },
+    {
+        "id": "c6539ef",
+        "filepath": "salsa/partnerwork/on2/c6539ef.mp4",
+        "tags": ["on2", "salsa reference", "Super Mario", "Irena"],
+        "level": 4,
+        "source": "https://youtu.be/TjS4GldyzbM?si=F9OxM4mUEJImUCLl&t=111",
+        "orientation": "landscape"
+    },
+    {
+        "id": "3203748",
+        "filepath": "bachata/partnerwork/sensual/3203748.mp4",
+        "tags": ["bachata sensual", "bachata reference", "DJ York", "Deisy"],
+        "level": 4,
+        "source": "https://youtu.be/0CCyd1H1f1Q?si=YmGEVW_4eJge5DKi&t=16",
+        "orientation": "landscape"
     }
 ]
