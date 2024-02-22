@@ -4786,7 +4786,7 @@
     {
         "id": "503075c",
         "filepath": "bachata/partnerwork/moderna/503075c.mp4",
-        "tags": ["combo", "bachata moderna", "bachata reference", "Tonio", "Ana"],
+        "tags": ["combo", "bachata moderna", "discarded bachata reference", "Tonio", "Ana"],
         "level": 4,
         "source": "https://youtu.be/uDpuTQQWh6c",
         "orientation": "landscape"
@@ -4842,7 +4842,7 @@
     {
         "id": "09138c9",
         "filepath": "bachata/partnerwork/moderna/09138c9.mp4",
-        "tags": ["combo", "bachata moderna", "bachata reference", "Kike", "Nahir"],
+        "tags": ["combo", "bachata moderna", "learned bachata reference", "Kike", "Nahir"],
         "level": 4,
         "source": "https://youtu.be/Qc3yodAsptM",
         "orientation": "landscape"
@@ -5266,7 +5266,7 @@
     {
         "id": "bc920dc",
         "filepath": "bachata/partnerwork/sensual/bc920dc.mp4",
-        "tags": ["combo", "bachata sensual", "bachata reference", "Gero", "Migle"],
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "Gero", "Migle"],
         "level": 4,
         "source": "https://youtu.be/B1sFXP6n7Zg?si=S3hUgojmNHGLBDjO&t=37",
         "orientation": "landscape"
@@ -5274,7 +5274,7 @@
     {
         "id": "3a5fb5a",
         "filepath": "bachata/partnerwork/sensual/3a5fb5a.mp4",
-        "tags": ["combo", "bachata sensual", "bachata reference", "Willy", "Laurine"],
+        "tags": ["combo", "bachata sensual", "discarded bachata reference", "Willy", "Laurine"],
         "level": 4,
         "source": "https://youtu.be/p3ztWA7d8Ig?si=0OZyiMiy-P6s8Onv&t=45",
         "orientation": "landscape"
@@ -5509,6 +5509,142 @@
         "tags": ["bachata sensual", "bachata reference", "DJ York", "Deisy"],
         "level": 4,
         "source": "https://youtu.be/0CCyd1H1f1Q?si=YmGEVW_4eJge5DKi&t=16",
+        "orientation": "landscape"
+    },
+    {
+        "id": "ee858ea",
+        "filepath": "bachata/partnerwork/sensual/ee858ea.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Maycheal", "Mayra"],
+        "level": 4,
+        "source": "https://youtu.be/lQ7IyUvTZrI?t=122",
+        "orientation": "landscape"
+    },
+    {
+        "id": "614ef25",
+        "filepath": "bachata/partnerwork/sensual/614ef25.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Maycheal", "Mayra"],
+        "level": 4,
+        "source": "https://youtu.be/lQ7IyUvTZrI?t=189",
+        "orientation": "landscape"
+    },
+    {
+        "id": "5310f7d",
+        "filepath": "bachata/partnerwork/sensual/5310f7d.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Christina", "Carlos"],
+        "level": 4,
+        "source": "https://youtu.be/8SzSvZnjWCs?t=25",
+        "orientation": "landscape"
+    },
+    {
+        "id": "f8e471a",
+        "filepath": "salsa/partnerwork/on2/f8e471a.mp4",
+        "tags": ["on2", "salsa reference", "Super Mario", "Anna Amelina"],
+        "level": 4,
+        "source": "https://youtu.be/K21K_RntPvI?t=20",
+        "orientation": "landscape"
+    },
+    {
+        "id": "a58638c",
+        "filepath": "salsa/partnerwork/on2/a58638c.mp4",
+        "tags": ["on2", "salsa reference", "Super Mario", "Anna Amelina"],
+        "level": 4,
+        "source": "https://youtu.be/K21K_RntPvI?t=83",
+        "orientation": "landscape"
+    },
+    {
+        "id": "98208c1",
+        "filepath": "salsa/partnerwork/on2/98208c1.mp4",
+        "tags": ["on2", "salsa reference", "Super Mario", "Anna Amelina"],
+        "level": 4,
+        "source": "https://youtu.be/K21K_RntPvI?t=207",
+        "orientation": "landscape"
+    },
+    {
+        "id": "22f19d3",
+        "filepath": "bachata/partnerwork/sensual/22f19d3.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Truji", "Gloria"],
+        "level": 4,
+        "source": "https://youtu.be/Cth1aau2SUc?t=165",
+        "orientation": "landscape"
+    },
+    {
+        "id": "6e7f341",
+        "filepath": "salsa/partnerwork/on2/6e7f341.mp4",
+        "tags": ["on2", "salsa reference", "Bersy", "Dimitris"],
+        "level": 4,
+        "source": "https://youtu.be/DWTWwEiY_sU?t=45",
+        "orientation": "landscape"
+    },
+    {
+        "id": "6b624b0",
+        "filepath": "salsa/partnerwork/on1/6b624b0.mp4",
+        "tags": ["on1", "salsa reference", "Guasa", "Evelyn"],
+        "level": 4,
+        "source": "Step Dance Classes",
+        "orientation": "portrait"
+    },
+    {
+        "id": "cd07989",
+        "filepath": "bachata/partnerwork/moderna/cd07989.mp4",
+        "tags": ["bachata moderna", "bachata reference", "Cotiso", "Deisy"],
+        "level": 4,
+        "source": "https://youtu.be/AT7_RAS1DGk?t=98",
+        "orientation": "landscape"
+    },
+    {
+        "id": "19cfead",
+        "filepath": "bachata/partnerwork/sensual/19cfead.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Luis García", "Susana"],
+        "level": 4,
+        "source": "https://youtu.be/5PzAm17FNeg?t=80",
+        "orientation": "landscape"
+    },
+    {
+        "id": "0a28cde",
+        "filepath": "salsa/partnerwork/on2/0a28cde.mp4",
+        "tags": ["on2", "salsa reference", "Bo Xu", "Natasha Chumakova"],
+        "level": 4,
+        "source": "https://youtu.be/6_CuO5TxK6U?t=61",
+        "orientation": "landscape"
+    },
+    {
+        "id": "2413ee9",
+        "filepath": "bachata/partnerwork/sensual/2413ee9.mp4",
+        "tags": ["bachata sensual", "learned bachata reference", "Zakaria Moha", "Elena Gubenko"],
+        "level": 4,
+        "source": "https://youtu.be/R328nMD_BJE?t=67",
+        "orientation": "landscape"
+    },
+    {
+        "id": "7f4902e",
+        "filepath": "salsa/partnerwork/on2/7f4902e.mp4",
+        "tags": ["on2", "salsa reference", "Shawn Wang", "Jasmina Berardi"],
+        "level": 4,
+        "source": "https://youtu.be/Et0TS3rktuE?t=175",
+        "orientation": "landscape"
+    },
+    {
+        "id": "65bf315",
+        "filepath": "bachata/partnerwork/sensual/65bf315.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Abdel", "Lety"],
+        "level": 4,
+        "source": "https://youtu.be/tiRSpwgBLxo?t=24",
+        "orientation": "landscape"
+    },
+    {
+        "id": "549a0ec",
+        "filepath": "bachata/partnerwork/sensual/549a0ec.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Abdel", "Lety"],
+        "level": 4,
+        "source": "https://youtu.be/tiRSpwgBLxo?t=33",
+        "orientation": "landscape"
+    },
+    {
+        "id": "b95a673",
+        "filepath": "bachata/partnerwork/sensual/b95a673.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Abdel", "Lety"],
+        "level": 4,
+        "source": "https://youtu.be/tiRSpwgBLxo?t=86",
         "orientation": "landscape"
     }
 ]
