@@ -5362,7 +5362,7 @@
     {
         "id": "c8d89c2",
         "filepath": "salsa/partnerwork/on2/c8d89c2.mp4",
-        "tags": ["on2", "salsa reference", "Super Mario", "Laetycia"],
+        "tags": ["on2", "learned salsa reference", "Super Mario", "Laetycia"],
         "level": 4,
         "source": "https://youtu.be/41CVl_4sCE8?si=SjaR_pHNJw0mn6qX&t=102",
         "orientation": "landscape"
@@ -5626,7 +5626,7 @@
     {
         "id": "65bf315",
         "filepath": "bachata/partnerwork/sensual/65bf315.mp4",
-        "tags": ["bachata sensual", "bachata reference", "Abdel", "Lety"],
+        "tags": ["bachata sensual", "learned bachata reference", "Abdel", "Lety"],
         "level": 4,
         "source": "https://youtu.be/tiRSpwgBLxo?t=24",
         "orientation": "landscape"
@@ -5645,6 +5645,30 @@
         "tags": ["bachata sensual", "bachata reference", "Abdel", "Lety"],
         "level": 4,
         "source": "https://youtu.be/tiRSpwgBLxo?t=86",
+        "orientation": "landscape"
+    },
+    {
+        "id": "255c3e8",
+        "filepath": "bachata/partnerwork/sensual/255c3e8.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Gero", "Migle"],
+        "level": 4,
+        "source": "https://youtu.be/_jHue-O25IQ?si=cHeLaOLeHJwqMIlf&t=605",
+        "orientation": "landscape"
+    },
+    {
+        "id": "127c70b",
+        "filepath": "bachata/partnerwork/sensual/127c70b.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Gero", "Migle"],
+        "level": 4,
+        "source": "https://youtu.be/hEpOVJcZ1mc?si=Zmxr2BVv8mNnqbrD&t=160",
+        "orientation": "landscape"
+    },
+    {
+        "id": "59ede8f",
+        "filepath": "bachata/partnerwork/sensual/59ede8f.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Gero", "Migle"],
+        "level": 4,
+        "source": "https://youtu.be/UW6Wpu8iQ_U?si=tEuIQ5G4GaCzFNTi&t=605",
         "orientation": "landscape"
     }
 ]
