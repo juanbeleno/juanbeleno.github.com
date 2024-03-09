@@ -268,8 +268,9 @@
     {
         "id": "ca3512f",
         "filepath": "salsa/partnerwork/on1/ca3512f.gif",
-        "tags": ["combo", "on1", "follow turn", "hand change", "Andrés Leiton"],
+        "tags": ["combo", "on1", "salsa reference", "follow turn", "hand change", "Andrés Leiton"],
         "level": 3,
+        "source": "on1/Parejas_10.mp3?t=18",
         "orientation": "portrait"
     },
     {
@@ -5717,6 +5718,22 @@
         "tags": ["bachata sensual", "bachata reference", "Gero", "Migle"],
         "level": 4,
         "source": "https://youtu.be/_Avh-SaLvrk?si=6hQwYsyIMsU6knRG&t=895",
+        "orientation": "landscape"
+    },
+    {
+        "id": "2b85351",
+        "filepath": "salsa/partnerwork/on1/2b85351.mp4",
+        "tags": ["combo", "on1", "salsa reference", "CORTE_EN_3", "Andrés Leiton"],
+        "level": 3,
+        "source": "on1/Parejas_11.mp3?t=2",
+        "orientation": "landscape"
+    },
+    {
+        "id": "9816a10",
+        "filepath": "salsa/partnerwork/on1/9816a10.mp4",
+        "tags": ["combo", "on1", "salsa reference", "CORTE_EN_5_7", "Andrés Leiton"],
+        "level": 3,
+        "source": "on1/Parejas_11.mp3?t=39",
         "orientation": "landscape"
     }
 ]
