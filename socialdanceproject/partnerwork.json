@@ -5775,5 +5775,37 @@
         "level": 5,
         "source": "https://youtu.be/vKxt-li00YE?si=sstGUHLOaMbZttRL&t=1058",
         "orientation": "landscape"
+    },
+    {
+        "id": "efee63e",
+        "filepath": "bachata/partnerwork/sensual/efee63e.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Gero", "Migle"],
+        "level": 5,
+        "source": "https://youtu.be/3dgEcwXyFDY?si=UcOz5gJCayuuj2m-&t=1253",
+        "orientation": "landscape"
+    },
+    {
+        "id": "cd65c2a",
+        "filepath": "bachata/partnerwork/moderna/cd65c2a.mp4",
+        "tags": ["bachata moderna", "bachata reference", "Susanne", "Aitana"],
+        "level": 3,
+        "source": "https://youtu.be/zjcZu7ltPIY?si=JsLhPxkyoMoxFLCn&t=87",
+        "orientation": "landscape"
+    },
+    {
+        "id": "f87ebac",
+        "filepath": "bachata/partnerwork/moderna/f87ebac.mp4",
+        "tags": ["bachata moderna", "bachata reference", "Azael", "Estefania"],
+        "level": 3,
+        "source": "https://youtu.be/WOQiO42orL8?si=wE1Zr__lozQ8odUb&t=178",
+        "orientation": "landscape"
+    },
+    {
+        "id": "e5a6dc9",
+        "filepath": "salsa/partnerwork/on2/e5a6dc9.mp4",
+        "tags": ["on2", "salsa reference", "Eddu Carmona", "Sarah"],
+        "level": 4,
+        "source": "https://youtu.be/K4Bq3DHWgvs?si=SCtL80LkNHGwLlFz&t=147",
+        "orientation": "landscape"
     }
 ]
