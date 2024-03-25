@@ -170,7 +170,7 @@
     {
         "id": "f6e1126",
         "filepath": "salsa/partnerwork/on1/f6e1126.gif",
-        "tags": ["combo", "on1", "follow turn", "lead turn", "Andrés Molano"],
+        "tags": ["combo", "on1", "learned salsa reference", "follow turn", "lead turn", "Andrés Molano"],
         "level": 3,
         "orientation": "landscape"
     },
@@ -5814,6 +5814,22 @@
         "tags": ["on2", "salsa reference", "Joel", "Arianna"],
         "level": 4,
         "source": "https://youtu.be/B053z7l-jx8?si=8conD7lSjsnatOR9&t=133",
+        "orientation": "landscape"
+    },
+    {
+        "id": "0c1becb",
+        "filepath": "bachata/partnerwork/sensual/0c1becb.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Gero", "Migle"],
+        "level": 4,
+        "source": "https://youtu.be/xPXCWQ8-LiA?si=mNVGA2p4PLVT9tFj&t=1135",
+        "orientation": "landscape"
+    },
+    {
+        "id": "8b3d11c",
+        "filepath": "bachata/partnerwork/sensual/8b3d11c.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Gero", "Migle"],
+        "level": 5,
+        "source": "https://youtu.be/xPXCWQ8-LiA?si=uvG041fBkhDioxAc&t=1140",
         "orientation": "landscape"
     }
 ]
