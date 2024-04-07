@@ -5831,5 +5831,37 @@
         "level": 5,
         "source": "https://youtu.be/xPXCWQ8-LiA?si=uvG041fBkhDioxAc&t=1140",
         "orientation": "landscape"
+    },
+    {
+        "id": "d1c9257",
+        "filepath": "salsa/partnerwork/on2/d1c9257.mp4",
+        "tags": ["on2", "salsa reference", "Leon Rose", "Anna Villa"],
+        "level": 4,
+        "source": "https://youtu.be/4Okto-krTVk?si=yvh2HKciIl69yyOL&t=25",
+        "orientation": "landscape"
+    },
+    {
+        "id": "d93781f",
+        "filepath": "salsa/partnerwork/on2/d93781f.mp4",
+        "tags": ["on2", "salsa reference", "Leon Rose", "Anna Villa"],
+        "level": 4,
+        "source": "https://youtu.be/4Okto-krTVk?si=yvh2HKciIl69yyOL&t=131",
+        "orientation": "landscape"
+    },
+    {
+        "id": "28591b8",
+        "filepath": "salsa/partnerwork/on2/28591b8.mp4",
+        "tags": ["on2", "salsa reference", "Leon Rose", "Zianna Otero"],
+        "level": 4,
+        "source": "https://youtu.be/AXjpYfaahYA?si=EowJ05T5NZg5ZcxL&t=78",
+        "orientation": "landscape"
+    },
+    {
+        "id": "70b6587",
+        "filepath": "salsa/partnerwork/on2/70b6587.mp4",
+        "tags": ["on2", "salsa reference", "Leon Rose", "Zianna Otero"],
+        "level": 4,
+        "source": "https://youtu.be/AXjpYfaahYA?si=ztJkLYkvbt1wjnId&t=196",
+        "orientation": "landscape"
     }
 ]
