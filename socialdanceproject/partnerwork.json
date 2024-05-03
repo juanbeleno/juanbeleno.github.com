@@ -5967,5 +5967,13 @@
         "level": 4,
         "source": "Stories de Isa",
         "orientation": "landscape"
+    },
+    {
+        "id": "ecef42f",
+        "filepath": "salsa/partnerwork/on2/ecef42f.mp4",
+        "tags": ["on2", "salsa reference", "Eddie Peligro PopiWa", "Caterina Fiore"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/C6eYTmfCvZy/",
+        "orientation": "landscape"
     }
 ]
