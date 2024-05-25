@@ -5983,5 +5983,21 @@
         "level": 4,
         "source": "https://youtu.be/qf3UpayqXys?si=JE3icg6FGnuUqRhl&t=91",
         "orientation": "landscape"
+    },
+    {
+        "id": "caf2ece",
+        "filepath": "salsa/partnerwork/on1/caf2ece.mp4",
+        "tags": ["on1", "salsa reference", "Guasa", "Evelyn Laurido"],
+        "level": 4,
+        "source": "Step Dance Classes",
+        "orientation": "portrait"
+    },
+    {
+        "id": "6a19f48",
+        "filepath": "salsa/partnerwork/on1/6a19f48.mp4",
+        "tags": ["on1", "salsa reference", "Guasa", "Evelyn Laurido"],
+        "level": 4,
+        "source": "Step Dance Classes",
+        "orientation": "portrait"
     }
 ]
