@@ -5999,5 +5999,37 @@
         "level": 4,
         "source": "Step Dance Classes",
         "orientation": "portrait"
+    },
+    {
+        "id": "19e06c6",
+        "filepath": "bachata/partnerwork/sensual/19e06c6.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Gero", "Migle"],
+        "level": 4,
+        "source": "https://youtu.be/wXA0rxWuYbk?si=dzsg9A98Am_f_acI&t=712",
+        "orientation": "landscape"
+    },
+    {
+        "id": "e4dbeb7",
+        "filepath": "bachata/partnerwork/sensual/e4dbeb7.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Gero", "Migle"],
+        "level": 4,
+        "source": "https://youtu.be/wXA0rxWuYbk?si=zeE5Y2UAUCOpi7oC&t=733",
+        "orientation": "landscape"
+    },
+    {
+        "id": "c406b32",
+        "filepath": "bachata/partnerwork/sensual/c406b32.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Gero", "Migle"],
+        "level": 4,
+        "source": "https://youtu.be/wXA0rxWuYbk?si=1CsleONPokJuMQzk&t=749",
+        "orientation": "landscape"
+    },
+    {
+        "id": "ab4d35d",
+        "filepath": "bachata/partnerwork/sensual/ab4d35d.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Gero", "Migle"],
+        "level": 4,
+        "source": "https://youtu.be/wXA0rxWuYbk?si=e0bzDC5QtLTnVWdL&t=756",
+        "orientation": "landscape"
     }
 ]
