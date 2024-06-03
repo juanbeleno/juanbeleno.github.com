@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/socialdanceproject/static/css/main.eff242da.css",
-    "main.js": "/socialdanceproject/static/js/main.faf3b929.js",
+    "main.js": "/socialdanceproject/static/js/main.2619ce43.js",
     "static/js/787.8e5f6e91.chunk.js": "/socialdanceproject/static/js/787.8e5f6e91.chunk.js",
     "index.html": "/socialdanceproject/index.html",
     "main.eff242da.css.map": "/socialdanceproject/static/css/main.eff242da.css.map",
-    "main.faf3b929.js.map": "/socialdanceproject/static/js/main.faf3b929.js.map",
+    "main.2619ce43.js.map": "/socialdanceproject/static/js/main.2619ce43.js.map",
     "787.8e5f6e91.chunk.js.map": "/socialdanceproject/static/js/787.8e5f6e91.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eff242da.css",
-    "static/js/main.faf3b929.js"
+    "static/js/main.2619ce43.js"
   ]
 }
