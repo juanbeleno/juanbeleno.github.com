@@ -6083,9 +6083,9 @@
     {
         "id": "f2d908e",
         "filepath": "bachata/partnerwork/sensual/f2d908e.mp4",
-        "tags": ["bachata sensual", "bachata reference", "Sebastian Camilo", "Fernanda Gomez"],
+        "tags": ["bachata sensual", "bachata reference (recent)", "Sebastian Camilo", "Fernanda Gomez"],
         "level": 4,
-        "source": "https://youtu.be/u_myxpKCZBY?si=hxRIoATzEcPCm18i&t=8",
+        "source": "Clase Bachata Al Parque",
         "orientation": "landscape"
     },
     {
@@ -6151,5 +6151,37 @@
         "level": 4,
         "source": "https://www.youtube.com/watch?v=7bTokzAFuP8&t=43s",
         "orientation": "landscape"
+    },
+    {
+        "id": "1541798",
+        "filepath": "salsa/partnerwork/on2/1541798.mp4",
+        "tags": ["on2", "salsa reference", "Fernando Sosa", "Tatiana Bonnaguro"],
+        "level": 4,
+        "source": "https://youtu.be/Mx4CwgOTCNw?si=SdxW-wFu1jmS-zU2&t=76",
+        "orientation": "landscape"
+    },
+    {
+        "id": "be577c8",
+        "filepath": "bachata/partnerwork/sensual/be577c8.mp4",
+        "tags": ["bachata sensual", "bachata reference (recent)", "David Mendez", "Laura Romero"],
+        "level": 4,
+        "source": "Clase en Ilé Danza - 05/07/2024",
+        "orientation": "portrait"
+    },
+    {
+        "id": "971115e",
+        "filepath": "bachata/partnerwork/sensual/971115e.mp4",
+        "tags": ["bachata sensual", "bachata reference (recent)", "David Mendez", "Laura Romero"],
+        "level": 4,
+        "source": "Clase en Ilé Danza - 05/07/2024",
+        "orientation": "portrait"
+    },
+    {
+        "id": "e575712",
+        "filepath": "bachata/partnerwork/sensual/e575712.mp4",
+        "tags": ["bachata sensual", "bachata reference (recent)", "David Mendez", "Laura Romero"],
+        "level": 4,
+        "source": "Clase en Ilé Danza - 05/07/2024",
+        "orientation": "portrait"
     }
 ]
