@@ -4291,7 +4291,7 @@
     {
         "id": "bbdb3ad",
         "filepath": "salsa/partnerwork/on1/bbdb3ad.mp4",
-        "tags": ["combo", "on1", "salsa reference", "Terry SalsAlianza", "Cecile"],
+        "tags": ["combo", "on1", "discarded salsa reference", "Terry SalsAlianza", "Cecile"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=G43Xe_VJorw",
         "orientation": "landscape"
@@ -4307,14 +4307,6 @@
     {
         "id": "9f55b1f",
         "filepath": "salsa/partnerwork/on1/9f55b1f.mp4",
-        "tags": ["combo", "on1", "salsa reference", "Terry SalsAlianza", "Cecile"],
-        "level": 4,
-        "source": "https://www.youtube.com/watch?v=G43Xe_VJorw",
-        "orientation": "landscape"
-    },
-    {
-        "id": "2e17310",
-        "filepath": "salsa/partnerwork/on1/2e17310.mp4",
         "tags": ["combo", "on1", "discarded salsa reference", "Terry SalsAlianza", "Cecile"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=G43Xe_VJorw",
@@ -4323,7 +4315,7 @@
     {
         "id": "2e17310",
         "filepath": "salsa/partnerwork/on1/2e17310.mp4",
-        "tags": ["combo", "on1", "salsa reference", "Terry SalsAlianza", "Cecile"],
+        "tags": ["combo", "on1", "discarded salsa reference", "Terry SalsAlianza", "Cecile"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=G43Xe_VJorw",
         "orientation": "landscape"
@@ -4859,7 +4851,7 @@
     {
         "id": "9ca9217",
         "filepath": "salsa/partnerwork/on2/9ca9217.mp4",
-        "tags": ["combo", "on2", "salsa reference", "Panagiotis Aglamisis", "Amneris Martinez"],
+        "tags": ["combo", "on2", "discarded salsa reference", "Panagiotis Aglamisis", "Amneris Martinez"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=0b_L1CzZTwI",
         "orientation": "landscape"
@@ -5619,7 +5611,7 @@
     {
         "id": "7f4902e",
         "filepath": "salsa/partnerwork/on2/7f4902e.mp4",
-        "tags": ["on2", "salsa reference", "Shawn Wang", "Jasmina Berardi"],
+        "tags": ["on2", "discarded salsa reference", "Shawn Wang", "Jasmina Berardi"],
         "level": 4,
         "source": "https://youtu.be/Et0TS3rktuE?t=175",
         "orientation": "landscape"
@@ -5859,7 +5851,7 @@
     {
         "id": "70b6587",
         "filepath": "salsa/partnerwork/on2/70b6587.mp4",
-        "tags": ["on2", "salsa reference", "Leon Rose", "Zianna Otero"],
+        "tags": ["on2", "discarded salsa reference", "Leon Rose", "Zianna Otero"],
         "level": 4,
         "source": "https://youtu.be/AXjpYfaahYA?si=ztJkLYkvbt1wjnId&t=196",
         "orientation": "landscape"
