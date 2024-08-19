@@ -6263,5 +6263,29 @@
         "level": 4,
         "source": "https://youtu.be/Q8Izg5Q_5VQ?si=vPcsJygYIOdwNcW2&t=206",
         "orientation": "landscape"
+    },
+    {
+        "id": "91d467c",
+        "filepath": "salsa/partnerwork/on2/91d467c.mp4",
+        "tags": ["on2", "salsa reference", "Super Mario", "Bersy Cortez"],
+        "level": 4,
+        "source": "https://youtu.be/AN6vEahvz1Q?si=utwgeNZSzH1Y5Z8d&t=163",
+        "orientation": "landscape"
+    },
+    {
+        "id": "081e3b0",
+        "filepath": "salsa/partnerwork/on2/081e3b0.mp4",
+        "tags": ["on2", "salsa reference", "Super Mario", "Kristina Kristya"],
+        "level": 4,
+        "source": "https://youtu.be/kqDllktzInE?si=MU57sUWXEOaFUhcE&t=43",
+        "orientation": "landscape"
+    },
+    {
+        "id": "75f3606",
+        "filepath": "salsa/partnerwork/on2/75f3606.mp4",
+        "tags": ["on2", "salsa reference", "Super Mario", "Kristina Kristya"],
+        "level": 4,
+        "source": "https://youtu.be/kqDllktzInE?si=LmLSTnj40LFjHmkg&t=158",
+        "orientation": "landscape"
     }
 ]
