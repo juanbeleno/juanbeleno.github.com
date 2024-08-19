@@ -3987,7 +3987,7 @@
     {
         "id": "9519e09",
         "filepath": "salsa/partnerwork/on1/9519e09.mp4",
-        "tags": ["combo", "on1", "salsa reference", "Terry SalsAlianza", "Cecile"],
+        "tags": ["combo", "on1", "discarded salsa reference", "Terry SalsAlianza", "Cecile"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=pItP-nK-VcA",
         "orientation": "landscape"
@@ -3995,7 +3995,7 @@
     {
         "id": "cf8c853",
         "filepath": "salsa/partnerwork/on1/cf8c853.mp4",
-        "tags": ["combo", "on1", "salsa reference", "Terry SalsAlianza", "Cecile"],
+        "tags": ["combo", "on1", "discarded salsa reference", "Terry SalsAlianza", "Cecile"],
         "level": 3,
         "source": "https://www.youtube.com/watch?v=pItP-nK-VcA",
         "orientation": "landscape"
@@ -4299,7 +4299,7 @@
     {
         "id": "8267abb",
         "filepath": "salsa/partnerwork/on1/8267abb.mp4",
-        "tags": ["combo", "on1", "salsa reference", "Terry SalsAlianza", "Cecile"],
+        "tags": ["combo", "on1", "discarded salsa reference", "Terry SalsAlianza", "Cecile"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=G43Xe_VJorw",
         "orientation": "landscape"
@@ -4723,7 +4723,7 @@
     {
         "id": "0110e3e",
         "filepath": "salsa/partnerwork/on2/0110e3e.mp4",
-        "tags": ["combo", "on2", "salsa reference", "Samuel FunFlow", "Sissi Mei"],
+        "tags": ["combo", "on2", "discarded salsa reference", "Samuel FunFlow", "Sissi Mei"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=6p8e9l8SBN0",
         "orientation": "landscape"
@@ -4763,7 +4763,7 @@
     {
         "id": "de39bea",
         "filepath": "salsa/partnerwork/on2/de39bea.mp4",
-        "tags": ["combo", "on2", "salsa reference", "Panagiotis", "Scarlett Medrano"],
+        "tags": ["combo", "on2", "discarded salsa reference", "Panagiotis", "Scarlett Medrano"],
         "level": 4,
         "source": "https://youtu.be/yEc6SyB7I9Y",
         "orientation": "landscape"
@@ -5297,14 +5297,6 @@
         "orientation": "landscape"
     },
     {
-        "id": "7363fa1",
-        "filepath": "salsa/partnerwork/on2/7363fa1.mp4",
-        "tags": ["on2", "salsa reference", "Panagiotis Aglamisis", "Danya"],
-        "level": 4,
-        "source": "https://youtu.be/3oyG-i7wMBQ?si=YqNTkV5_jmdeeHBm&t=83",
-        "orientation": "landscape"
-    },
-    {
         "id": "7392715",
         "filepath": "salsa/partnerwork/on2/7392715.mp4",
         "tags": ["on2", "salsa reference", "Panagiotis Aglamisis", "Danya"],
@@ -5563,7 +5555,7 @@
     {
         "id": "6e7f341",
         "filepath": "salsa/partnerwork/on2/6e7f341.mp4",
-        "tags": ["on2", "salsa reference", "Bersy", "Dimitris"],
+        "tags": ["on2", "discarded salsa reference", "Bersy", "Dimitris"],
         "level": 4,
         "source": "https://youtu.be/DWTWwEiY_sU?t=45",
         "orientation": "landscape"
@@ -5571,7 +5563,7 @@
     {
         "id": "6b624b0",
         "filepath": "salsa/partnerwork/on1/6b624b0.mp4",
-        "tags": ["on1", "salsa reference", "Guasa", "Evelyn"],
+        "tags": ["on1", "discarded salsa reference", "Guasa", "Evelyn"],
         "level": 4,
         "source": "Step Dance Classes",
         "orientation": "portrait"
@@ -6263,5 +6255,13 @@
         "level": 4,
         "source": "Cali Bachata Congress 2024",
         "orientation": "portrait"
+    },
+    {
+        "id": "1e877e9",
+        "filepath": "salsa/partnerwork/on2/1e877e9.mp4",
+        "tags": ["on2", "salsa reference", "Super Mario", "Elisa Bonardi"],
+        "level": 4,
+        "source": "https://youtu.be/Q8Izg5Q_5VQ?si=vPcsJygYIOdwNcW2&t=206",
+        "orientation": "landscape"
     }
 ]
