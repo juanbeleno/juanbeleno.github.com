@@ -5731,7 +5731,7 @@
     {
         "id": "ffb2134",
         "filepath": "bachata/partnerwork/sensual/ffb2134.mp4",
-        "tags": ["bachata sensual", "bachata reference (recent)", "Gero", "Migle"],
+        "tags": ["bachata sensual", "learned salsa reference", "Gero", "Migle"],
         "level": 5,
         "source": "https://youtu.be/no1-1KzL1aA?si=RRUJECycwJBCEXVr&t=994",
         "orientation": "landscape"
@@ -6287,5 +6287,13 @@
         "level": 4,
         "source": "https://youtu.be/kqDllktzInE?si=LmLSTnj40LFjHmkg&t=158",
         "orientation": "landscape"
+    },
+    {
+        "id": "83bb3a6",
+        "filepath": "salsa/partnerwork/on1/83bb3a6.mp4",
+        "tags": ["on1", "salsa reference", "Marco Ferrigno", "Elisa Bonardi"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/C-4-dkjCBjH/?hl=es",
+        "orientation": "portrait"
     }
 ]
