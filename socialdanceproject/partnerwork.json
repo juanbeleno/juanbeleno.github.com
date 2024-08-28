@@ -5651,7 +5651,7 @@
     {
         "id": "59ede8f",
         "filepath": "bachata/partnerwork/sensual/59ede8f.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Gero", "Migle"],
+        "tags": ["bachata sensual", "bachata reference (recent)", "Gero", "Migle"],
         "level": 4,
         "source": "https://youtu.be/UW6Wpu8iQ_U?si=tEuIQ5G4GaCzFNTi&t=605",
         "orientation": "landscape"
@@ -5803,7 +5803,7 @@
     {
         "id": "0c1becb",
         "filepath": "bachata/partnerwork/sensual/0c1becb.mp4",
-        "tags": ["bachata sensual", "bachata reference", "Gero", "Migle"],
+        "tags": ["bachata sensual", "bachata candidate", "Gero", "Migle"],
         "level": 4,
         "source": "https://youtu.be/xPXCWQ8-LiA?si=mNVGA2p4PLVT9tFj&t=1135",
         "orientation": "landscape"
@@ -5884,10 +5884,11 @@
     {
         "id": "fc117e9",
         "filepath": "bachata/partnerwork/sensual/fc117e9.mp4",
-        "tags": ["bachata sensual", "bachata reference (recent)", "Gero", "Migle"],
+        "tags": ["bachata sensual", "discarded bachata reference", "Gero", "Migle"],
         "level": 5,
         "source": "https://youtu.be/tkqaib5Xj0Q?si=_iRxeU2M29GVlNGe&t=865",
-        "orientation": "landscape"
+        "orientation": "landscape",
+        "comments": "Tuve dificultad para ejecutar la última parte en social y me incomoda un poco no tener las bases de Zouk para ejecutar un paso tan zoukero"
     },
     {
         "id": "d513ecd",
@@ -6036,10 +6037,11 @@
     {
         "id": "d17f1be",
         "filepath": "bachata/partnerwork/sensual/d17f1be.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "bachata visaje", "Gero", "Migle"],
+        "tags": ["bachata sensual", "discarded bachata reference", "bachata visaje", "Gero", "Migle"],
         "level": 4,
         "source": "https://youtu.be/qggKZ0cgu_Y?si=5QM9tOB-OB9ynb4d&t=122",
-        "orientation": "landscape"
+        "orientation": "landscape",
+        "comments": "Es posible hacerlo, pero levantar el codo a esa altura parece peligro con el follower."
     },
     {
         "id": "ab2a973",
@@ -6236,7 +6238,7 @@
     {
         "id": "10015e0",
         "filepath": "bachata/partnerwork/sensual/10015e0.mp4",
-        "tags": ["bachata sensual", "bachata reference", "Klau", "Ros"],
+        "tags": ["bachata sensual", "bachata candidate", "Klau", "Ros"],
         "level": 4,
         "source": "https://youtu.be/_pY5HIK-giU?si=jSGhng-oLz86oziR&t=209",
         "orientation": "landscape"
