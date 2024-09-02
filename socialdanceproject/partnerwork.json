@@ -3947,7 +3947,7 @@
     {
         "id": "0a149a5",
         "filepath": "salsa/partnerwork/on1/0a149a5.mp4",
-        "tags": ["combo", "on1", "salsa reference", "Terry SalsAlianza", "Cecile"],
+        "tags": ["combo", "on1", "salsa candidate", "Terry SalsAlianza", "Cecile"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=Pf2V4Mcrr_w",
         "orientation": "landscape"
@@ -3971,7 +3971,7 @@
     {
         "id": "0d0f745",
         "filepath": "salsa/partnerwork/on1/0d0f745.mp4",
-        "tags": ["combo", "on1", "salsa reference", "Terry SalsAlianza", "Cecile"],
+        "tags": ["combo", "on1", "salsa candidate", "Terry SalsAlianza", "Cecile"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=Pf2V4Mcrr_w",
         "orientation": "landscape"
@@ -4995,7 +4995,7 @@
     {
         "id": "55bfe12",
         "filepath": "salsa/partnerwork/on2/55bfe12.mp4",
-        "tags": ["combo", "on2", "salsa reference", "Samuel FunFlow", "Noémie Blgn"],
+        "tags": ["combo", "on2", "salsa candidate", "Samuel FunFlow", "Noémie Blgn"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=2HLNguwwrfI",
         "orientation": "landscape"
@@ -5059,7 +5059,7 @@
     {
         "id": "345b03d",
         "filepath": "salsa/partnerwork/on2/345b03d.mp4",
-        "tags": ["combo", "on2", "Panagiotis Aglamisis", "salsa reference", "Myrto Misyri"],
+        "tags": ["combo", "on2", "Panagiotis Aglamisis", "salsa candidate", "Myrto Misyri"],
         "level": 4,
         "source": "https://youtu.be/qdzE2k0mXms?t=76",
         "orientation": "landscape"
@@ -5075,7 +5075,7 @@
     {
         "id": "e47d362",
         "filepath": "salsa/partnerwork/on2/e47d362.mp4",
-        "tags": ["combo", "on2", "Super Mario", "salsa reference", "Svetlana"],
+        "tags": ["combo", "on2", "Super Mario", "salsa candidate", "Svetlana"],
         "level": 4,
         "source": "https://youtu.be/FuTbbvGGx34?t=15",
         "orientation": "landscape"
@@ -5107,7 +5107,7 @@
     {
         "id": "d1ecb6c",
         "filepath": "salsa/partnerwork/on2/d1ecb6c.mp4",
-        "tags": ["combo", "on2", "Tamba", "salsa reference", "Markella"],
+        "tags": ["combo", "on2", "Tamba", "salsa candidate", "Markella"],
         "level": 4,
         "source": "https://youtu.be/XIXuYqm3snM?t=156",
         "orientation": "landscape"
@@ -5227,7 +5227,7 @@
     {
         "id": "3d3b170",
         "filepath": "salsa/partnerwork/on2/3d3b170.mp4",
-        "tags": ["combo", "on2", "Shems", "salsa reference", "Martina"],
+        "tags": ["combo", "on2", "Shems", "salsa candidate", "Martina"],
         "level": 4,
         "source": "https://youtu.be/xM7ZLtWZIEo?t=23",
         "orientation": "landscape"
@@ -5286,7 +5286,8 @@
         "tags": ["on2", "salsa reference (recent)", "Super Mario", "Viktoria Yordanova"],
         "level": 4,
         "source": "https://youtu.be/lGtvNbWdybA?si=ByWT02RcKf3bAZzn&t=73",
-        "orientation": "landscape"
+        "orientation": "landscape",
+        "comments": "La segunda parte es dificil de hacer en on1"
     },
     {
         "id": "7363fa1",
@@ -5355,10 +5356,11 @@
     {
         "id": "7d30da0",
         "filepath": "salsa/partnerwork/on2/7d30da0.mp4",
-        "tags": ["on2", "salsa reference", "Super Mario", "Laetycia"],
+        "tags": ["on2", "discarded salsa reference", "Super Mario", "Laetycia"],
         "level": 4,
         "source": "https://youtu.be/41CVl_4sCE8?si=LUN9mKdcMT1XHHBi&t=121",
-        "orientation": "landscape"
+        "orientation": "landscape",
+        "comments": "Casi le saco el hombro a Sorya por el cambio de giro"
     },
     {
         "id": "6c2b9cc",
@@ -5379,7 +5381,7 @@
     {
         "id": "4be2603",
         "filepath": "salsa/partnerwork/on2/4be2603.mp4",
-        "tags": ["on2", "salsa reference", "Ataca", "Selin Obekci"],
+        "tags": ["on2", "salsa reference (recent)", "Ataca", "Selin Obekci"],
         "level": 4,
         "source": "https://youtu.be/Vo71sN9R424?si=bN-Oh1SI8_lH1ELm&t=96",
         "orientation": "landscape"
@@ -5387,7 +5389,7 @@
     {
         "id": "bc56428",
         "filepath": "salsa/partnerwork/on2/bc56428.mp4",
-        "tags": ["on2", "salsa reference", "Paulina Suska", "Marek Domanski"],
+        "tags": ["on2", "salsa candidate", "Paulina Suska", "Marek Domanski"],
         "level": 4,
         "source": "https://youtu.be/gI4ub12XTE4?si=wbrdMZO-WjnJ-AfC&t=41",
         "orientation": "landscape"
@@ -5427,7 +5429,7 @@
     {
         "id": "0735585",
         "filepath": "salsa/partnerwork/on2/0735585.mp4",
-        "tags": ["on2", "salsa reference", "Joel", "Michelle"],
+        "tags": ["on2", "salsa candidate", "Joel", "Michelle"],
         "level": 4,
         "source": "https://youtu.be/KcD-8SVGlnM?si=mkM8qvxsevRyIZ5u&t=210",
         "orientation": "landscape"
@@ -5795,7 +5797,7 @@
     {
         "id": "4f93501",
         "filepath": "salsa/partnerwork/on2/4f93501.mp4",
-        "tags": ["on2", "salsa reference", "Joel", "Arianna"],
+        "tags": ["on2", "salsa candidate", "Joel", "Arianna"],
         "level": 4,
         "source": "https://youtu.be/B053z7l-jx8?si=8conD7lSjsnatOR9&t=133",
         "orientation": "landscape"
@@ -6097,7 +6099,8 @@
         "tags": ["on2", "discarded salsa reference", "Salsa Funny", "Salsa Engaño", "Samuel FunFlow", "Sasha Philips"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=n6ngM5d-Nts&t=60s",
-        "orientation": "landscape"
+        "orientation": "landscape",
+        "comments": "Es dificil de hacer en on1"
     },
     {
         "id": "944cbbe",
@@ -6198,7 +6201,7 @@
     {
         "id": "bec04ec",
         "filepath": "salsa/partnerwork/on2/bec04ec.mp4",
-        "tags": ["on2", "salsa reference", "Terry SalsAlianza", "Andreea Arion"],
+        "tags": ["on2", "salsa candidate", "Terry SalsAlianza", "Andreea Arion"],
         "level": 4,
         "source": "https://www.instagram.com/p/C95FjM-C7i_/",
         "orientation": "landscape"
@@ -6262,7 +6265,7 @@
     {
         "id": "1e877e9",
         "filepath": "salsa/partnerwork/on2/1e877e9.mp4",
-        "tags": ["on2", "salsa reference", "Super Mario", "Elisa Bonardi"],
+        "tags": ["on2", "salsa candidate", "Super Mario", "Elisa Bonardi"],
         "level": 4,
         "source": "https://youtu.be/Q8Izg5Q_5VQ?si=vPcsJygYIOdwNcW2&t=206",
         "orientation": "landscape"
@@ -6278,7 +6281,7 @@
     {
         "id": "081e3b0",
         "filepath": "salsa/partnerwork/on2/081e3b0.mp4",
-        "tags": ["on2", "salsa reference", "Super Mario", "Kristina Kristya"],
+        "tags": ["on2", "salsa candidate", "Super Mario", "Kristina Kristya"],
         "level": 4,
         "source": "https://youtu.be/kqDllktzInE?si=MU57sUWXEOaFUhcE&t=43",
         "orientation": "landscape"
@@ -6286,7 +6289,7 @@
     {
         "id": "75f3606",
         "filepath": "salsa/partnerwork/on2/75f3606.mp4",
-        "tags": ["on2", "salsa reference", "Super Mario", "Kristina Kristya"],
+        "tags": ["on2", "salsa candidate", "Super Mario", "Kristina Kristya"],
         "level": 4,
         "source": "https://youtu.be/kqDllktzInE?si=LmLSTnj40LFjHmkg&t=158",
         "orientation": "landscape"
