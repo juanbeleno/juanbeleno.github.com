@@ -5316,7 +5316,7 @@
     {
         "id": "1ad69d2",
         "filepath": "bachata/partnerwork/sensual/1ad69d2.mp4",
-        "tags": ["bachata sensual", "bachata reference", "Sindi Azael", "Azael"],
+        "tags": ["bachata sensual", "bachata candidate", "Sindi Azael", "Azael"],
         "level": 4,
         "source": "https://youtu.be/bfeE7DHVx0w?si=m5bhE8mNH__41gaR&t=132",
         "orientation": "landscape"
@@ -5509,7 +5509,7 @@
     {
         "id": "614ef25",
         "filepath": "bachata/partnerwork/sensual/614ef25.mp4",
-        "tags": ["bachata sensual", "bachata reference", "Maycheal", "Mayra"],
+        "tags": ["bachata sensual", "bachata repertoire", "Maycheal", "Mayra"],
         "level": 4,
         "source": "https://youtu.be/lQ7IyUvTZrI?t=189",
         "orientation": "landscape"
@@ -5656,7 +5656,8 @@
         "tags": ["bachata sensual", "bachata reference (recent)", "Gero", "Migle"],
         "level": 4,
         "source": "https://youtu.be/UW6Wpu8iQ_U?si=tEuIQ5G4GaCzFNTi&t=605",
-        "orientation": "landscape"
+        "orientation": "landscape",
+        "comments": "Sale, pero es mejor esperar una base completa de preparación"
     },
     {
         "id": "a952f57",
@@ -5693,7 +5694,7 @@
     {
         "id": "24e2541",
         "filepath": "bachata/partnerwork/sensual/24e2541.mp4",
-        "tags": ["bachata sensual", "bachata reference", "Gero", "Migle"],
+        "tags": ["bachata sensual", "bachata candidate", "Gero", "Migle"],
         "level": 4,
         "source": "https://youtu.be/rn5ZnDcJb6k?si=Pys6HInrJshbQNFi&t=882",
         "orientation": "landscape"
@@ -5744,7 +5745,8 @@
         "tags": ["bachata sensual", "bachata reference (recent)", "ALARGADO_EN_5", "Gero", "Migle"],
         "level": 5,
         "source": "https://youtu.be/cUn7xGcSXXE?si=mq8j9Dho0lmKkGpc&t=812",
-        "orientation": "landscape"
+        "orientation": "landscape",
+        "comments": "Es dificil de aplicar el final por lo que es mejor reemplazarlo por el final de 3ad00f6"
     },
     {
         "id": "004177a",
@@ -5805,10 +5807,11 @@
     {
         "id": "0c1becb",
         "filepath": "bachata/partnerwork/sensual/0c1becb.mp4",
-        "tags": ["bachata sensual", "bachata reference (recent)", "Gero", "Migle"],
+        "tags": ["bachata sensual", "discarded bachata reference", "Gero", "Migle"],
         "level": 4,
         "source": "https://youtu.be/xPXCWQ8-LiA?si=mNVGA2p4PLVT9tFj&t=1135",
-        "orientation": "landscape"
+        "orientation": "landscape",
+        "comments": "No me salió en practicas con Isa y es muy parecido con e8c118c"
     },
     {
         "id": "8b3d11c",
@@ -6064,7 +6067,7 @@
     {
         "id": "5cdf8a2",
         "filepath": "salsa/partnerwork/on2/5cdf8a2.mp4",
-        "tags": ["on2", "salsa reference", "Baudillo", "Maddie"],
+        "tags": ["on2", "salsa candidate", "Baudillo", "Maddie"],
         "level": 4,
         "source": "https://youtu.be/u_myxpKCZBY?si=hxRIoATzEcPCm18i&t=8",
         "orientation": "landscape"
@@ -6225,7 +6228,7 @@
     {
         "id": "3ad00f6",
         "filepath": "bachata/partnerwork/sensual/3ad00f6.mp4",
-        "tags": ["bachata sensual", "bachata reference", "Marco Espejo", "Sara Panero"],
+        "tags": ["bachata sensual", "bachata reference (recent)", "Marco Espejo", "Sara Panero"],
         "level": 4,
         "source": "https://youtu.be/2qP0Nr_L0Wc?si=jHfohT2Y5yRLelLd&t=110",
         "orientation": "landscape"
