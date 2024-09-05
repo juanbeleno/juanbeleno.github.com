@@ -6075,7 +6075,7 @@
     {
         "id": "f2d908e",
         "filepath": "bachata/partnerwork/sensual/f2d908e.mp4",
-        "tags": ["bachata sensual", "bachata reference (recent)", "Sebastian Camilo", "Fernanda Gomez"],
+        "tags": ["bachata sensual", "learned bachata reference", "Sebastian Camilo", "Fernanda Gomez"],
         "level": 4,
         "source": "Clase Bachata Al Parque",
         "orientation": "landscape"
@@ -6311,6 +6311,14 @@
         "tags": ["bachata sensual", "bachata reference", "ANDREA & SILVIA"],
         "level": 4,
         "source": "https://youtu.be/3I2gfSjw5wk?si=GtZJdFFxCFOMjJHH&t=74",
+        "orientation": "landscape"
+    },
+    {
+        "id": "8a999d9",
+        "filepath": "bachata/partnerwork/sensual/8a999d9.mp4",
+        "tags": ["bachata sensual", "bachata candidate", "Gero", "Migle"],
+        "level": 4,
+        "source": "https://youtu.be/lEKpbZeBTpo?si=Wq0xohVqel-wzWuR&t=179",
         "orientation": "landscape"
     }
 ]
