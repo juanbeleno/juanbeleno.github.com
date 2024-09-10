@@ -6328,5 +6328,29 @@
         "level": 4,
         "source": "https://www.instagram.com/p/C9NZ-SpRaso/",
         "orientation": "portrait"
+    },
+    {
+        "id": "0bfa891",
+        "filepath": "bachata/partnerwork/sensual/0bfa891.mp4",
+        "tags": ["bachata sensual", "bachata candidate", "bachata visaje", "Miguel", "Sunsi"],
+        "level": 4,
+        "source": "https://youtu.be/IMR8PGmgZxU?si=V54p8jwUKsqMUuC-&t=111",
+        "orientation": "landscape"
+    },
+    {
+        "id": "76f4e42",
+        "filepath": "bachata/partnerwork/sensual/76f4e42.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Miguel", "Sunsi"],
+        "level": 4,
+        "source": "https://youtu.be/IMR8PGmgZxU?si=IPjRBXn8_6-3lbWB&t=115",
+        "orientation": "landscape"
+    },
+    {
+        "id": "29ee0cf",
+        "filepath": "salsa/partnerwork/on2/29ee0cf.mp4",
+        "tags": ["on2", "salsa candidate", "Carlos Alosilla", "Marie"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/C_oDLx7iFzD/",
+        "orientation": "portrait"
     }
 ]
