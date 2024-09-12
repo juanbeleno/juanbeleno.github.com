@@ -3126,7 +3126,7 @@
     {
         "id": "c68c486",
         "filepath": "bachata/partnerwork/moderna/c68c486.gif",
-        "tags": ["combo", "bachata moderna", "flick", "lead turn", "lead spin", "Fredy Ospina", "Nicole Morris"],
+        "tags": ["combo", "bachata moderna", "bachata repertoire", "flick", "lead turn", "lead spin", "Fredy Ospina", "Nicole Morris"],
         "level": 4,
         "orientation": "portrait"
     },
@@ -3483,7 +3483,7 @@
     {
         "id": "0a3953a",
         "filepath": "bachata/partnerwork/moderna/0a3953a.gif",
-        "tags": ["combo", "bachata moderna", "lead turn", "follow turn", "flick", "Fredy Ospina"],
+        "tags": ["combo", "bachata moderna", "bachata repertoire", "lead turn", "follow turn", "flick", "Fredy Ospina"],
         "level": 4,
         "orientation": "landscape"
     },
@@ -4603,7 +4603,7 @@
     {
         "id": "f97f357",
         "filepath": "bachata/partnerwork/moderna/f97f357.mp4",
-        "tags": ["combo", "bachata moderna", "bachata repertoire", "Melvin", "Gatica"],
+        "tags": ["combo", "bachata moderna", "bachata reference (recent)", "Melvin", "Gatica"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=H84LH59JjZk",
         "orientation": "landscape"
