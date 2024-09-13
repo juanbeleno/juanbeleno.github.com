@@ -3971,10 +3971,11 @@
     {
         "id": "0d0f745",
         "filepath": "salsa/partnerwork/on1/0d0f745.mp4",
-        "tags": ["combo", "on1", "salsa candidate", "Terry SalsAlianza", "Cecile"],
+        "tags": ["combo", "on1", "discarded salsa reference", "Terry SalsAlianza", "Cecile"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=Pf2V4Mcrr_w",
-        "orientation": "landscape"
+        "orientation": "landscape",
+        "comments": "La sensación de esa copa se siente rara"
     },
     {
         "id": "3902b29",
@@ -5107,7 +5108,7 @@
     {
         "id": "d1ecb6c",
         "filepath": "salsa/partnerwork/on2/d1ecb6c.mp4",
-        "tags": ["combo", "on2", "Tamba", "salsa candidate", "Markella"],
+        "tags": ["combo", "on2", "Tamba", "salsa reference", "Markella"],
         "level": 4,
         "source": "https://youtu.be/XIXuYqm3snM?t=156",
         "orientation": "landscape"
