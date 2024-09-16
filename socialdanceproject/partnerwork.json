@@ -5430,10 +5430,11 @@
     {
         "id": "0735585",
         "filepath": "salsa/partnerwork/on2/0735585.mp4",
-        "tags": ["on2", "salsa candidate", "Joel", "Michelle"],
+        "tags": ["on2", "salsa reference", "Joel", "Michelle"],
         "level": 4,
         "source": "https://youtu.be/KcD-8SVGlnM?si=mkM8qvxsevRyIZ5u&t=210",
-        "orientation": "landscape"
+        "orientation": "landscape",
+        "comments": "Creo que este paso sale màs en 2 que en 1"
     },
     {
         "id": "f3469e2",
@@ -5801,10 +5802,11 @@
     {
         "id": "4f93501",
         "filepath": "salsa/partnerwork/on2/4f93501.mp4",
-        "tags": ["on2", "salsa candidate", "Joel", "Arianna"],
+        "tags": ["on2", "salsa reference", "Joel", "Arianna"],
         "level": 4,
         "source": "https://youtu.be/B053z7l-jx8?si=8conD7lSjsnatOR9&t=133",
-        "orientation": "landscape"
+        "orientation": "landscape",
+        "comments": "La parte final desde la copa, se ve dificil de enrollar a la chica"
     },
     {
         "id": "0c1becb",
