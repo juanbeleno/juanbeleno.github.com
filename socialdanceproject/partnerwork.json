@@ -170,7 +170,7 @@
     {
         "id": "f6e1126",
         "filepath": "salsa/partnerwork/on1/f6e1126.gif",
-        "tags": ["combo", "on1", "learned salsa reference", "follow turn", "lead turn", "Andrés Molano"],
+        "tags": ["combo", "on1", "salsa reference (recent)", "follow turn", "lead turn", "Andrés Molano"],
         "level": 3,
         "orientation": "landscape"
     },
@@ -4732,7 +4732,7 @@
     {
         "id": "221b65d",
         "filepath": "salsa/partnerwork/on2/221b65d.mp4",
-        "tags": ["combo", "on2", "learned salsa reference", "Panagiotis", "Myrto"],
+        "tags": ["combo", "on2", "salsa reference (recent)", "Panagiotis", "Myrto"],
         "level": 4,
         "source": "https://www.facebook.com/panagiotisandmyrtosalsadoo/videos/235151472432664",
         "orientation": "portrait"
@@ -5736,7 +5736,7 @@
     {
         "id": "ffb2134",
         "filepath": "bachata/partnerwork/sensual/ffb2134.mp4",
-        "tags": ["bachata sensual", "learned salsa reference", "Gero", "Migle"],
+        "tags": ["bachata sensual", "learned bachata reference", "Gero", "Migle"],
         "level": 5,
         "source": "https://youtu.be/no1-1KzL1aA?si=RRUJECycwJBCEXVr&t=994",
         "orientation": "landscape"
@@ -5984,7 +5984,7 @@
     {
         "id": "caf2ece",
         "filepath": "salsa/partnerwork/on1/caf2ece.mp4",
-        "tags": ["on1", "learned salsa reference", "Guasa", "Evelyn Laurido"],
+        "tags": ["on1", "salsa reference (recent)", "Guasa", "Evelyn Laurido"],
         "level": 4,
         "source": "Step Dance Classes",
         "orientation": "portrait"
