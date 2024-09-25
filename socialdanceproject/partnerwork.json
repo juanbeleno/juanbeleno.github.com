@@ -5769,11 +5769,11 @@
     {
         "id": "efee63e",
         "filepath": "bachata/partnerwork/sensual/efee63e.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Gero", "Migle"],
+        "tags": ["bachata sensual", "salsa reference (recent)", "Gero", "Migle"],
         "level": 5,
         "source": "https://youtu.be/3dgEcwXyFDY?si=UcOz5gJCayuuj2m-&t=1253",
         "orientation": "landscape",
-        "comments": "Flicks en 2 tiempos es algo apresurado, salir una caida en L desde esa posición es difícil de hacer en social"
+        "comments": "Flicks en 2 tiempos es algo apresurado, salir una caida en L desde esa posición es difícil de hacer en social. Tocó sacarlo desde giro en 1 y terminarlo con giro rápido al final"
     },
     {
         "id": "cd65c2a",
@@ -5912,7 +5912,7 @@
     {
         "id": "edcb054",
         "filepath": "bachata/partnerwork/sensual/edcb054.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Gero", "Migle"],
+        "tags": ["bachata sensual", "bachata reference (recent)", "Gero", "Migle"],
         "level": 5,
         "source": "https://youtu.be/mdfHZW8c2as?si=RZvUi8u8VQ6I3Pvx&t=1494",
         "orientation": "landscape"
@@ -6252,7 +6252,7 @@
     {
         "id": "10015e0",
         "filepath": "bachata/partnerwork/sensual/10015e0.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Klau", "Ros"],
+        "tags": ["bachata sensual", "bachata reference (recent)", "Klau", "Ros"],
         "level": 4,
         "source": "https://youtu.be/_pY5HIK-giU?si=jSGhng-oLz86oziR&t=209",
         "orientation": "landscape"
@@ -6325,10 +6325,11 @@
     {
         "id": "8a999d9",
         "filepath": "bachata/partnerwork/sensual/8a999d9.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Gero", "Migle"],
+        "tags": ["bachata sensual", "discarded bachata reference", "Gero", "Migle"],
         "level": 4,
         "source": "https://youtu.be/lEKpbZeBTpo?si=Wq0xohVqel-wzWuR&t=179",
-        "orientation": "landscape"
+        "orientation": "landscape",
+        "comments": "No la pude sacar, parece ser coreografico"
     },
     {
         "id": "2962e17",
@@ -6373,10 +6374,11 @@
     {
         "id": "6b7673a",
         "filepath": "bachata/partnerwork/sensual/6b7673a.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Antoni", "Belen"],
+        "tags": ["bachata sensual", "discarded bachata reference", "Antoni", "Belen"],
         "level": 4,
         "source": "https://youtu.be/GQ32GoWBW7w?si=PssD40x21egzooNk&t=82",
-        "orientation": "portrait"
+        "orientation": "portrait",
+        "comments": "Está muy rápida"
     },
     {
         "id": "0b0379f",
