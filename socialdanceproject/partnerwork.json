@@ -6419,5 +6419,21 @@
         "level": 4,
         "source": "https://www.instagram.com/p/DAycCKdCOQ8/?img_index=1",
         "orientation": "portrait"
+    },
+    {
+        "id": "6967ef3",
+        "filepath": "bachata/partnerwork/moderna/6967ef3.mp4",
+        "tags": ["bachata moderna", "bachata repertoire", "Cristian Pantoja", "Natalia Rey"],
+        "level": 4,
+        "source": "Clase en Ilé Danza - 04/10/2024",
+        "orientation": "portrait"
+    },
+    {
+        "id": "e4b0380",
+        "filepath": "bachata/partnerwork/sensual/e4b0380.mp4",
+        "tags": ["bachata sensual", "learned bachata reference", "David Mendez", "Laura Romero"],
+        "level": 4,
+        "source": "Clase en Ilé Danza - 27/09/2024",
+        "orientation": "portrait"
     }
 ]
