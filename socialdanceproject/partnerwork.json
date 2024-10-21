@@ -3947,7 +3947,7 @@
     {
         "id": "0a149a5",
         "filepath": "salsa/partnerwork/on1/0a149a5.mp4",
-        "tags": ["combo", "on1", "salsa reference (recent)", "Terry SalsAlianza", "Cecile"],
+        "tags": ["combo", "on1", "salsa reference (díficil)", "Terry SalsAlianza", "Cecile"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=Pf2V4Mcrr_w",
         "orientation": "landscape"
@@ -4164,7 +4164,7 @@
     {
         "id": "563398d",
         "filepath": "bachata/partnerwork/sensual/563398d.mp4",
-        "tags": ["combo", "bachata sensual", "bachata repertoire", "Luis García", "Lety"],
+        "tags": ["combo", "bachata sensual", "salsa reference (recent)", "Luis García", "Lety"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=yWjC37MnGrc",
         "orientation": "landscape"
@@ -5744,7 +5744,7 @@
     {
         "id": "c4664d3",
         "filepath": "bachata/partnerwork/sensual/c4664d3.mp4",
-        "tags": ["bachata sensual", "bachata reference (recent)", "ALARGADO_EN_5", "Gero", "Migle"],
+        "tags": ["bachata sensual", "bachata reference (díficil)", "ALARGADO_EN_5", "Gero", "Migle"],
         "level": 5,
         "source": "https://youtu.be/cUn7xGcSXXE?si=mq8j9Dho0lmKkGpc&t=812",
         "orientation": "landscape",
@@ -5769,7 +5769,7 @@
     {
         "id": "efee63e",
         "filepath": "bachata/partnerwork/sensual/efee63e.mp4",
-        "tags": ["bachata sensual", "bachata reference (recent)", "Gero", "Migle"],
+        "tags": ["bachata sensual", "bachata reference (díficil)", "Gero", "Migle"],
         "level": 5,
         "source": "https://youtu.be/3dgEcwXyFDY?si=UcOz5gJCayuuj2m-&t=1253",
         "orientation": "landscape",
@@ -5996,14 +5996,6 @@
         "level": 4,
         "source": "Step Dance Classes",
         "orientation": "portrait"
-    },
-    {
-        "id": "19e06c6",
-        "filepath": "bachata/partnerwork/sensual/19e06c6.mp4",
-        "tags": ["bachata sensual", "bachata reference (recent)", "Gero", "Migle"],
-        "level": 4,
-        "source": "https://youtu.be/wXA0rxWuYbk?si=dzsg9A98Am_f_acI&t=712",
-        "orientation": "landscape"
     },
     {
         "id": "e4dbeb7",
@@ -6236,7 +6228,7 @@
     {
         "id": "3ad00f6",
         "filepath": "bachata/partnerwork/sensual/3ad00f6.mp4",
-        "tags": ["bachata sensual", "bachata reference (recent)", "Marco Espejo", "Sara Panero"],
+        "tags": ["bachata sensual", "bachata reference (díficil)", "Marco Espejo", "Sara Panero"],
         "level": 4,
         "source": "https://youtu.be/2qP0Nr_L0Wc?si=jHfohT2Y5yRLelLd&t=110",
         "orientation": "landscape"
@@ -6434,6 +6426,22 @@
         "tags": ["bachata sensual", "learned bachata reference", "David Mendez", "Laura Romero"],
         "level": 4,
         "source": "Clase en Ilé Danza - 27/09/2024",
+        "orientation": "portrait"
+    },
+    {
+        "id": "eb693e7",
+        "filepath": "salsa/partnerwork/on2/eb693e7.mp4",
+        "tags": ["on1", "salsa candidate", "Lenin Lopez", "Genesis Solorzano"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DBT0_sMC_ak/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "895d749",
+        "filepath": "bachata/partnerwork/sensual/895d749.mp4",
+        "tags": ["bachata sensual", "bachata candidate", "Edey Rodríguez", "Anna Барсукова"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DBWYYS0CT3A/",
         "orientation": "portrait"
     }
 ]
