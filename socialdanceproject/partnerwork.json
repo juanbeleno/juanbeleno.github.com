@@ -4607,6 +4607,7 @@
         "tags": ["combo", "bachata moderna", "bachata reference (recent)", "Melvin", "Gatica"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=H84LH59JjZk",
+        "source2": "https://youtu.be/gMhAVvR1NFY?si=b8JKR4_SXY-tzWW9&t=206",
         "orientation": "landscape"
     },
     {
@@ -6477,6 +6478,14 @@
         "tags": ["on2", "salsa candidate", "Yulia Fedorova", "Smyrna Mambo"],
         "level": 4,
         "source": "https://www.instagram.com/p/DBT0_sMC_ak/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "fdbc173",
+        "filepath": "salsa/partnerwork/on2/fdbc173.mp4",
+        "tags": ["on2", "salsa candidate", "Angelo Guajardo", "Annette Saucillo"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DBuL6TbiLbD/",
         "orientation": "portrait"
     }
 ]
