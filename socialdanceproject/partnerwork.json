@@ -5729,10 +5729,11 @@
     {
         "id": "2bae988",
         "filepath": "bachata/partnerwork/sensual/2bae988.mp4",
-        "tags": ["bachata sensual", "bachata reference (recent)", "Gero", "Migle"],
+        "tags": ["bachata sensual", "discarded bachata reference", "Gero", "Migle"],
         "level": 4,
         "source": "https://youtu.be/8QghUOO1sek?si=F1qtMKNkaV82YxRm&t=652",
-        "orientation": "landscape"
+        "orientation": "landscape",
+        "comments": "Isa me comentó que aunque el paso eso social. Ella siente que se va a estrellar conmigo cuando estoy de espaldas. Entonces no gira con libertad."
     },
     {
         "id": "ffb2134",
@@ -6446,16 +6447,6 @@
         "orientation": "portrait"
     },
     {
-        "id": "9219093",
-        "filepath": "bachata/partnerwork/sensual/9219093.mp4",
-        "tags": ["bachata sensual", "bachata repertoire", "CORTE_EN_5", "Yo", "Isabella Zertuche"],
-        "level": 4,
-        "source": "Ensayo - 21/10/2024",
-        "orientation": "portrait",
-        "comments": "Aún puedo quedar más cerca si me muevo un poco más hacía el lado derecho así la mano izquierda no quedaría tan incomoda al momento de enviar a la chica hacía un lado. Tambièn podría hacer una V con la pierna izquierda pa' ubicarme mejor (similar a lo que hago en ventana de salsa caleña, con un sincopado en el 3 3+ 4 se puede).",
-        "references": ["614ef25", "https://youtu.be/v30MNt_aDgw?si=O-LoDtUxrzGosn03&t=493"]
-    },
-    {
         "id": "88d3c23",
         "filepath": "bachata/partnerwork/sensual/88d3c23.mp4",
         "tags": ["bachata sensual", "bachata repertoire", "CORTE_EN_5", "Yo", "Isabella Zertuche"],
@@ -6530,5 +6521,55 @@
         "orientation": "portrait",
         "comments": "Miradas. Al parar el paso debo mantener una postura de foto, talvez tomandome el pantalón con el puño.",
         "references": ["https://www.youtube.com/watch?v=EDq8EvYuH40&t=49s"]
+    },
+    {
+        "id": "0966e51",
+        "filepath": "bachata/partnerwork/sensual/0966e51.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "SINCOPADO_EN_5", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 18/11/2024",
+        "orientation": "portrait",
+        "comments": "Acariciar la cabeza de la chica y deslizar la mano al brazo.",
+        "references": ["https://www.youtube.com/watch?v=8iyZPavuqnY&t=113s"]
+    },
+    {
+        "id": "b01a049",
+        "filepath": "bachata/partnerwork/sensual/b01a049.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "CORTE_EN_7", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 18/11/2024",
+        "orientation": "portrait",
+        "comments": "Mejorar la técnica del paso madrid.",
+        "references": ["https://www.instagram.com/p/CZM4X_GrA4V/?img_index=2"]
+    },
+    {
+        "id": "bbe6bd8",
+        "filepath": "bachata/partnerwork/sensual/bbe6bd8.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "CORTE_EN_7", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 18/11/2024",
+        "orientation": "portrait",
+        "comments": "No soltar la mano hasta el tiempo 6. Pasos cortos en 5 y 6, pasos largos en 7 y 8. Mejorar técnica de la peinada. Mirada al frente en el rompe (1). Mirada a la chica en el 2+.",
+        "references": ["f80e1bd"]
+    },
+    {
+        "id": "1e66aa8",
+        "filepath": "bachata/partnerwork/sensual/1e66aa8.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "CORTE_EN_7", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 18/11/2024",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["a2706e2"]
+    },
+    {
+        "id": "bf4e893",
+        "filepath": "bachata/partnerwork/sensual/bf4e893.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 18/11/2024",
+        "orientation": "portrait",
+        "comments": "El giro tiene que ser en 2 tiempos. Las manos en el giro van juntas, no tan separadas. Después del flick, la mano que está en el cuello sale en 1 y 2.",
+        "references": ["https://www.youtube.com/watch?v=_cyTqKo8z6w&t=73s"]
     }
 ]
