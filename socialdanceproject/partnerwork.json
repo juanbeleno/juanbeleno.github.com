@@ -6571,5 +6571,13 @@
         "orientation": "portrait",
         "comments": "El giro tiene que ser en 2 tiempos. Las manos en el giro van juntas, no tan separadas. Después del flick, la mano que está en el cuello sale en 1 y 2.",
         "references": ["https://www.youtube.com/watch?v=_cyTqKo8z6w&t=73s"]
+    },
+    {
+        "id": "d8162ca",
+        "filepath": "salsa/partnerwork/on2/d8162ca.mp4",
+        "tags": ["on2", "salsa candidate", "Flavius Budiş", "Edyta Czagowiec"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DCpccXLivP1/",
+        "orientation": "portrait"
     }
 ]
