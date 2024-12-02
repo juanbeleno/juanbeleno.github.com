@@ -4789,7 +4789,7 @@
     {
         "id": "14980aa",
         "filepath": "bachata/partnerwork/moderna/14980aa.mp4",
-        "tags": ["combo", "bachata moderna", "bachata reference", "Antoni", "Belen"],
+        "tags": ["combo", "bachata moderna", "bachata candidate", "Antoni", "Belen"],
         "level": 4,
         "source": "https://youtu.be/gq9N3tSCPzg?t=93",
         "orientation": "landscape"
@@ -4821,7 +4821,7 @@
     {
         "id": "36d02d7",
         "filepath": "bachata/partnerwork/moderna/36d02d7.mp4",
-        "tags": ["combo", "bachata moderna", "bachata reference", "Daniel Sánchez Berlanga", "Desirée Guidonet Esteve"],
+        "tags": ["combo", "bachata moderna", "learned bachata reference", "Daniel Sánchez Berlanga", "Desirée Guidonet Esteve"],
         "level": 3,
         "source": "https://youtu.be/49tzB0kqvJQ",
         "orientation": "landscape"
@@ -5318,7 +5318,7 @@
     {
         "id": "1ad69d2",
         "filepath": "bachata/partnerwork/sensual/1ad69d2.mp4",
-        "tags": ["bachata sensual", "bachata reference", "Sindi Azael", "Azael"],
+        "tags": ["bachata sensual", "bachata candidate", "Sindi Azael", "Azael"],
         "level": 4,
         "source": "https://youtu.be/bfeE7DHVx0w?si=m5bhE8mNH__41gaR&t=132",
         "orientation": "landscape"
@@ -5689,7 +5689,7 @@
     {
         "id": "ba34b74",
         "filepath": "bachata/partnerwork/sensual/ba34b74.mp4",
-        "tags": ["bachata sensual", "bachata reference", "Gero", "Migle"],
+        "tags": ["bachata sensual", "bachata candidate", "Gero", "Migle"],
         "level": 4,
         "source": "https://youtu.be/rn5ZnDcJb6k?si=Pys6HInrJshbQNFi&t=882",
         "orientation": "landscape"
@@ -5697,7 +5697,7 @@
     {
         "id": "24e2541",
         "filepath": "bachata/partnerwork/sensual/24e2541.mp4",
-        "tags": ["bachata sensual", "bachata reference", "Gero", "Migle"],
+        "tags": ["bachata sensual", "bachata candidate", "Gero", "Migle"],
         "level": 4,
         "source": "https://youtu.be/rn5ZnDcJb6k?si=Pys6HInrJshbQNFi&t=882",
         "orientation": "landscape"
@@ -5978,7 +5978,7 @@
     {
         "id": "05fdbe4",
         "filepath": "bachata/partnerwork/sensual/05fdbe4.mp4",
-        "tags": ["bachata sensual", "bachata reference", "Kike", "Nahir"],
+        "tags": ["bachata sensual", "bachata candidate", "Kike", "Nahir"],
         "level": 4,
         "source": "https://youtu.be/qf3UpayqXys?si=JE3icg6FGnuUqRhl&t=91",
         "orientation": "landscape"
@@ -6181,7 +6181,7 @@
     {
         "id": "67eb5f9",
         "filepath": "bachata/partnerwork/sensual/67eb5f9.mp4",
-        "tags": ["bachata sensual", "bachata reference", "Jesús Tibaduiza", "Isabella Zertuche"],
+        "tags": ["bachata sensual", "bachata candidate", "Jesús Tibaduiza", "Isabella Zertuche"],
         "level": 4,
         "source": "Sabaki - 21/07/2024",
         "orientation": "portrait"
@@ -6393,7 +6393,7 @@
     {
         "id": "b94c081",
         "filepath": "bachata/partnerwork/sensual/b94c081.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Samuel FunFlow", "Vanessa Lopes"],
+        "tags": ["bachata sensual", "learned bachata reference", "Samuel FunFlow", "Vanessa Lopes"],
         "level": 4,
         "source": "https://www.instagram.com/p/DAycCKdCOQ8/?img_index=4",
         "orientation": "portrait"
@@ -6401,7 +6401,7 @@
     {
         "id": "dfc0f80",
         "filepath": "bachata/partnerwork/sensual/dfc0f80.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Samuel FunFlow", "Vanessa Lopes"],
+        "tags": ["bachata sensual", "bachata reference (recent)", "Samuel FunFlow", "Vanessa Lopes"],
         "level": 4,
         "source": "https://www.instagram.com/p/DAycCKdCOQ8/?img_index=4",
         "orientation": "portrait"
@@ -6595,5 +6595,93 @@
         "level": 4,
         "source": "https://www.instagram.com/p/DCw46I3Cg8a/",
         "orientation": "portrait"
+    },
+    {
+        "id": "672373c",
+        "filepath": "bachata/partnerwork/sensual/672373c.mp4",
+        "tags": ["bachata sensual", "bachata candidate", "Cami Anabalon"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DC6octfIWOv/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "db8d14e",
+        "filepath": "bachata/partnerwork/sensual/db8d14e.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "CORE_BEAT", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 01/12/2024",
+        "orientation": "portrait",
+        "comments": "La mano suelta del final no está chévere.",
+        "references": ["https://www.youtube.com/watch?v=8GQVYo90_kA&t=53s"]
+    },
+    {
+        "id": "f8aebda",
+        "filepath": "bachata/partnerwork/sensual/f8aebda.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "CORE_BEAT", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 01/12/2024",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["https://www.youtube.com/watch?v=NpbH5VpIpuw&t=26s"]
+    },
+    {
+        "id": "fac67c3",
+        "filepath": "bachata/partnerwork/sensual/fac67c3.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "SINCOPADO_EN_5", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 01/12/2024",
+        "orientation": "portrait",
+        "comments": "La mano suelta en el giro debe ir al pantalón o al pecho.",
+        "references": ["https://www.instagram.com/p/DCSUjc8SZpx/"]
+    },
+    {
+        "id": "fc3c35b",
+        "filepath": "bachata/partnerwork/sensual/fc3c35b.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "CORE_BEAT", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 01/12/2024",
+        "orientation": "portrait",
+        "comments": "Para hacer un candado, parece más cómodo enrrollarme al tiempo con la chica. Es mejor quedarme estático que hacer vals.",
+        "references": ["https://www.youtube.com/watch?v=trwfDyna_Ik&t=161s"]
+    },
+    {
+        "id": "ebd66b7",
+        "filepath": "bachata/partnerwork/sensual/ebd66b7.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "CORE_BEAT", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 01/12/2024",
+        "orientation": "portrait",
+        "comments": "Agregar adornos arriba.",
+        "references": ["https://www.youtube.com/watch?v=js80cS_QPLk&t=70s"]
+    },
+    {
+        "id": "67510b1",
+        "filepath": "bachata/partnerwork/sensual/67510b1.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "CORE_BEAT", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 01/12/2024",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["https://www.youtube.com/watch?v=VuZSTF5jbIk&t=39s"]
+    },
+    {
+        "id": "bb55f7a",
+        "filepath": "bachata/partnerwork/sensual/bb55f7a.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "CORE_BEAT", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 01/12/2024",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["https://www.youtube.com/watch?v=lQ7IyUvTZrI&t=127s"]
+    },
+    {
+        "id": "bb55f7a",
+        "filepath": "bachata/partnerwork/sensual/bb55f7a.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "CORE_BEAT", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 01/12/2024",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["https://www.youtube.com/watch?v=lQ7IyUvTZrI&t=127s"]
     }
 ]
