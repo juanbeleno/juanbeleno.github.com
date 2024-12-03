@@ -6683,5 +6683,21 @@
         "orientation": "portrait",
         "comments": "",
         "references": ["https://www.youtube.com/watch?v=lQ7IyUvTZrI&t=127s"]
+    },
+    {
+        "id": "f47b7cc",
+        "filepath": "salsa/partnerwork/on2/f47b7cc.mp4",
+        "tags": ["on2", "salsa candidate", "Fadi K", "Nora"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DC9_31RitK4/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "49a3360",
+        "filepath": "salsa/partnerwork/on2/49a3360.mp4",
+        "tags": ["on2", "salsa candidate", "Fadi K", "Nora"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DC9_31RitK4/",
+        "orientation": "portrait"
     }
 ]
