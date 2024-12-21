@@ -6787,11 +6787,43 @@
         "orientation": "portrait"
     },
     {
-        "id": "e2bcfcc",
-        "filepath": "salsa/partnerwork/on2/e2bcfcc.mp4",
+        "id": "7e11caa",
+        "filepath": "salsa/partnerwork/on2/7e11caa.mp4",
         "tags": ["on2", "salsa candidate", "Nikitas Spl", "Becky Deeve"],
         "level": 4,
         "source": "https://www.instagram.com/p/DDu9lJTiTZb/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "cea06b2",
+        "filepath": "salsa/partnerwork/on2/cea06b2.mp4",
+        "tags": ["on2", "salsa candidate", "Shems", "Gamze"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DDxSTK9Cc0l/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "b802239",
+        "filepath": "salsa/partnerwork/on2/b802239.mp4",
+        "tags": ["on2", "salsa candidate", "Adelin Rusen", "Adina Pavel"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DDxaJ3ei-Hb/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "d856f2a",
+        "filepath": "salsa/partnerwork/on2/d856f2a.mp4",
+        "tags": ["on2", "salsa candidate", "Anice Filali", "Sophia Safran"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DDxhG-kiZbf/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "76d8b56",
+        "filepath": "salsa/partnerwork/on2/76d8b56.mp4",
+        "tags": ["on2", "salsa candidate", "Manduc Stefan-Michael", "Katja Gartner Drofenik"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DD0E9Jvi-kE/",
         "orientation": "portrait"
     }
 ]
