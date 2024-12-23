@@ -1411,9 +1411,10 @@
     {
         "id": "a0dd46a",
         "filepath": "bachata/partnerwork/moderna/a0dd46a.gif",
-        "tags": ["combo", "bachata moderna", "bachata repertoire", "double flick", "follow turn", "lead turn", "Fredy Ospina"],
+        "tags": ["combo", "bachata moderna", "learned bachata reference", "double flick", "follow turn", "lead turn", "Fredy Ospina"],
         "level": 4,
-        "orientation": "portrait"
+        "orientation": "portrait",
+        "comments": "Ya estoy usando 7aa944d y 586618c en el repertorio"
     },
     {
         "id": "db0fd04",
@@ -1593,7 +1594,7 @@
     {
         "id": "97d01f1",
         "filepath": "bachata/partnerwork/sensual/97d01f1.gif",
-        "tags": ["combo", "bachata sensual", "bachata repertoire", "Iván Hernández"],
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "Iván Hernández"],
         "level": 4,
         "orientation": "portrait"
     },
@@ -1642,14 +1643,14 @@
     {
         "id": "a246af6",
         "filepath": "bachata/partnerwork/sensual/a246af6.gif",
-        "tags": ["combo", "bachata repertoire", "bachata sensual", "Iván Hernández"],
+        "tags": ["combo", "learned bachata reference", "bachata sensual", "Iván Hernández"],
         "level": 3,
         "orientation": "portrait"
     },
     {
         "id": "e62a43e",
         "filepath": "bachata/partnerwork/sensual/e62a43e.gif",
-        "tags": ["combo", "bachata sensual", "bachata repertoire", "desbaratación", "Iván Hernández"],
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "desbaratación", "Iván Hernández"],
         "level": 3,
         "orientation": "portrait"
     },
@@ -1698,7 +1699,7 @@
     {
         "id": "7b8f2d7",
         "filepath": "bachata/partnerwork/moderna/7b8f2d7.gif",
-        "tags": ["combo", "bachata moderna", "bachata repertoire", "follow turn", "Iván Hernández"],
+        "tags": ["combo", "bachata moderna", "learned bachata reference", "follow turn", "Iván Hernández"],
         "level": 3,
         "orientation": "portrait"
     },
@@ -2937,7 +2938,7 @@
     {
         "id": "42d0e2c",
         "filepath": "bachata/partnerwork/sensual/42d0e2c.gif",
-        "tags": ["combo", "bachata sensual", "bachata repertoire", "follow turn", "body roll", "cambré", "Iván Hernández", "Gabriela Montes"],
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "follow turn", "body roll", "cambré", "Iván Hernández", "Gabriela Montes"],
         "level": 4,
         "orientation": "portrait"
     },
@@ -3126,7 +3127,7 @@
     {
         "id": "c68c486",
         "filepath": "bachata/partnerwork/moderna/c68c486.gif",
-        "tags": ["combo", "bachata moderna", "bachata repertoire", "flick", "lead turn", "lead spin", "Fredy Ospina", "Nicole Morris"],
+        "tags": ["combo", "bachata moderna", "learned bachata reference", "flick", "lead turn", "lead spin", "Fredy Ospina", "Nicole Morris"],
         "level": 4,
         "orientation": "portrait"
     },
@@ -3140,7 +3141,7 @@
     {
         "id": "8ae7164",
         "filepath": "bachata/partnerwork/sensual/8ae7164.gif",
-        "tags": ["combo", "bachata sensual", "bachata repertoire", "Fredy Ospina", "Nicole Morris"],
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "Fredy Ospina", "Nicole Morris"],
         "level": 3,
         "orientation": "portrait"
     },
@@ -3385,7 +3386,7 @@
     {
         "id": "eaa17be",
         "filepath": "bachata/partnerwork/moderna/eaa17be.gif",
-        "tags": ["combo", "bachata moderna", "bachata repertoire", "lead turn", "lead hammerlock", "flick", "Joann Pachanga", "Samhy Soto"],
+        "tags": ["combo", "bachata moderna", "learned bachata reference", "lead turn", "lead hammerlock", "flick", "Joann Pachanga", "Samhy Soto"],
         "level": 4,
         "orientation": "landscape"
     },
@@ -3483,7 +3484,7 @@
     {
         "id": "0a3953a",
         "filepath": "bachata/partnerwork/moderna/0a3953a.gif",
-        "tags": ["combo", "bachata moderna", "bachata repertoire", "lead turn", "follow turn", "flick", "Fredy Ospina"],
+        "tags": ["combo", "bachata moderna", "learned bachata reference", "lead turn", "follow turn", "flick", "Fredy Ospina"],
         "level": 4,
         "orientation": "landscape"
     },
@@ -3875,10 +3876,11 @@
     {
         "id": "8b366f2",
         "filepath": "bachata/partnerwork/moderna/8b366f2.mp4",
-        "tags": ["combo", "bachata moderna", "bachata repertoire", "Daniel Sánchez Berlanga", "Desirée Guidonet Esteve"],
+        "tags": ["combo", "bachata moderna", "discarded bachata reference", "Daniel Sánchez Berlanga", "Desirée Guidonet Esteve"],
         "level": 4,
         "source": "https://www.instagram.com/p/CmHr_f0M0AY/?hl=es-la",
-        "orientation": "portrait"
+        "orientation": "portrait",
+        "comments": "Es bastante incomodo comparado con f97f357 que tiene sensaciones parecidas"
     },
     {
         "id": "1ac4b94",
@@ -4348,7 +4350,7 @@
     {
         "id": "aa7ef97",
         "filepath": "bachata/partnerwork/sensual/aa7ef97.mp4",
-        "tags": ["combo", "bachata sensual", "bachata repertoire", "Azael", "Paz"],
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "Azael", "Paz"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=WnpAgW7xNxw",
         "orientation": "landscape"
@@ -6849,5 +6851,105 @@
         "level": 4,
         "source": "https://www.instagram.com/p/DD4ZR36CFi_/",
         "orientation": "portrait"
+    },
+    {
+        "id": "facce06",
+        "filepath": "bachata/partnerwork/sensual/facce06.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "SINCOPADO_EN_5", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 22/12/2024",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["https://www.instagram.com/p/DBi_odnM_gO/"]
+    },
+    {
+        "id": "f5bf8c8",
+        "filepath": "bachata/partnerwork/sensual/f5bf8c8.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "EXTENDIDO_EN_5", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 22/12/2024",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["https://www.youtube.com/watch?v=fDuckPb3Gws&t=111s"]
+    },
+    {
+        "id": "7aa944d",
+        "filepath": "bachata/partnerwork/sensual/7aa944d.mp4",
+        "tags": ["bachata sensual", "learned bachata reference", "EXTENDIDO_EN_5", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 22/12/2024",
+        "orientation": "portrait",
+        "comments": "Usar la muñeca en el doblez del codo en vez de usar el antebrazo. El final no me gusta, no se ve muy fundido.",
+        "references": ["a0dd46a"]
+    },
+    {
+        "id": "586618c",
+        "filepath": "bachata/partnerwork/sensual/586618c.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "EXTENDIDO_EN_5", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 22/12/2024",
+        "orientation": "portrait",
+        "comments": "Usar la muñeca en el doblez del codo en vez de usar el antebrazo.",
+        "references": ["a0dd46a"]
+    },
+    {
+        "id": "06a6298",
+        "filepath": "bachata/partnerwork/sensual/06a6298.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "PASITOS_SENSUALES", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 22/12/2024",
+        "orientation": "portrait",
+        "comments": "Desde lejos no se ve tan visualmente impresionante como pensaba.",
+        "references": ["e62a43e"]
+    },
+    {
+        "id": "2daa455",
+        "filepath": "bachata/partnerwork/sensual/2daa455.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "PASITOS_SENSUALES", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 22/12/2024",
+        "orientation": "portrait",
+        "comments": "Más explosividad en el slide del 7 8 del comienzo.",
+        "references": ["8ae7164", "97d01f1"]
+    },
+    {
+        "id": "51b89bf",
+        "filepath": "bachata/partnerwork/sensual/51b89bf.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 22/12/2024",
+        "orientation": "portrait",
+        "comments": "El giro por detrás le falta algo de técnica que no sabría identificar en el momento. La mano que sobra antes del headroll, tengo que ponerla en el pantalón.",
+        "references": ["0a3953a", "c68c486"]
+    },
+    {
+        "id": "e52f482",
+        "filepath": "bachata/partnerwork/sensual/e52f482.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 22/12/2024",
+        "orientation": "portrait",
+        "comments": "En vez de pasar el pie por detrás cruzarlo en diagonal al estilo de Cornel para hacerlo más chévere. También mejorar las miradas.",
+        "references": ["7b8f2d7"]
+    },
+    {
+        "id": "acc077a",
+        "filepath": "bachata/partnerwork/sensual/acc077a.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "PASITOS_SENSUALES", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 22/12/2024",
+        "orientation": "portrait",
+        "comments": "Atrapar la espalda en medio del giro, no desde el comienzo. Parar el conteo en los pies.",
+        "references": ["42d0e2c"]
+    },
+    {
+        "id": "b078f4d",
+        "filepath": "bachata/partnerwork/sensual/b078f4d.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "PASITOS_SENSUALES", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 22/12/2024",
+        "orientation": "portrait",
+        "comments": "Atrapar la espalda en medio del giro, no desde el comienzo. La separación de los pies tiene que ser un poco menor.",
+        "references": ["aa7ef97"]
     }
 ]
