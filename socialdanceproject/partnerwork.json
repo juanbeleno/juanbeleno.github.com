@@ -6951,5 +6951,13 @@
         "orientation": "portrait",
         "comments": "Atrapar la espalda en medio del giro, no desde el comienzo. La separación de los pies tiene que ser un poco menor.",
         "references": ["aa7ef97"]
+    },
+    {
+        "id": "b4691da",
+        "filepath": "salsa/partnerwork/on2/b4691da.mp4",
+        "tags": ["on2", "salsa candidate", "Nikolas Palatsidis", "Eleni Davradou"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DD5J1_QiQd-/",
+        "orientation": "portrait"
     }
 ]
