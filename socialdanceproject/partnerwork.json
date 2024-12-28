@@ -4166,7 +4166,7 @@
     {
         "id": "563398d",
         "filepath": "bachata/partnerwork/sensual/563398d.mp4",
-        "tags": ["combo", "bachata sensual", "bachata reference (recent)", "Luis García", "Lety"],
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "Luis García", "Lety"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=yWjC37MnGrc",
         "orientation": "landscape"
@@ -4574,7 +4574,7 @@
     {
         "id": "7f2a4e3",
         "filepath": "bachata/partnerwork/sensual/7f2a4e3.mp4",
-        "tags": ["combo", "bachata sensual", "bachata reference (recent)", "Lety", "Abdel"],
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "Lety", "Abdel"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=hoXS0HM8sL8",
         "orientation": "landscape"
@@ -4606,7 +4606,7 @@
     {
         "id": "f97f357",
         "filepath": "bachata/partnerwork/moderna/f97f357.mp4",
-        "tags": ["combo", "bachata moderna", "bachata reference (recent)", "Melvin", "Gatica"],
+        "tags": ["combo", "bachata moderna", "learned bachata reference", "Melvin", "Gatica"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=H84LH59JjZk",
         "source2": "https://youtu.be/gMhAVvR1NFY?si=b8JKR4_SXY-tzWW9&t=206",
@@ -5263,7 +5263,7 @@
     {
         "id": "bc920dc",
         "filepath": "bachata/partnerwork/sensual/bc920dc.mp4",
-        "tags": ["combo", "bachata sensual", "bachata reference (recent)", "Gero", "Migle"],
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "Gero", "Migle"],
         "level": 4,
         "source": "https://youtu.be/B1sFXP6n7Zg?si=S3hUgojmNHGLBDjO&t=37",
         "orientation": "landscape"
@@ -5658,7 +5658,7 @@
     {
         "id": "59ede8f",
         "filepath": "bachata/partnerwork/sensual/59ede8f.mp4",
-        "tags": ["bachata sensual", "bachata reference (recent)", "Gero", "Migle"],
+        "tags": ["bachata sensual", "learned bachata reference", "Gero", "Migle"],
         "level": 4,
         "source": "https://youtu.be/UW6Wpu8iQ_U?si=tEuIQ5G4GaCzFNTi&t=605",
         "orientation": "landscape",
@@ -5956,7 +5956,7 @@
     {
         "id": "f80e1bd",
         "filepath": "bachata/partnerwork/sensual/f80e1bd.mp4",
-        "tags": ["bachata sensual", "bachata reference (recent)", "Santiago Salazar", "Isabella Zertuche"],
+        "tags": ["bachata sensual", "learned bachata reference", "Santiago Salazar", "Isabella Zertuche"],
         "level": 4,
         "source": "Stories de Isa",
         "orientation": "landscape"
@@ -6248,7 +6248,7 @@
     {
         "id": "10015e0",
         "filepath": "bachata/partnerwork/sensual/10015e0.mp4",
-        "tags": ["bachata sensual", "bachata reference (recent)", "Klau", "Ros"],
+        "tags": ["bachata sensual", "learned bachata reference", "Klau", "Ros"],
         "level": 4,
         "source": "https://youtu.be/_pY5HIK-giU?si=jSGhng-oLz86oziR&t=209",
         "orientation": "landscape"
@@ -6256,7 +6256,7 @@
     {
         "id": "866e7fb",
         "filepath": "bachata/partnerwork/sensual/866e7fb.mp4",
-        "tags": ["bachata sensual", "bachata reference (recent)", "Gero", "Migle"],
+        "tags": ["bachata sensual", "learned bachata reference", "Gero", "Migle"],
         "level": 4,
         "source": "https://youtu.be/wXA0rxWuYbk?si=YGOf2bkAlUWTkTMD&t=712",
         "orientation": "landscape"
@@ -6403,7 +6403,7 @@
     {
         "id": "dfc0f80",
         "filepath": "bachata/partnerwork/sensual/dfc0f80.mp4",
-        "tags": ["bachata sensual", "bachata reference (recent)", "Samuel FunFlow", "Vanessa Lopes"],
+        "tags": ["bachata sensual", "learned bachata reference", "Samuel FunFlow", "Vanessa Lopes"],
         "level": 4,
         "source": "https://www.instagram.com/p/DAycCKdCOQ8/?img_index=4",
         "orientation": "portrait"
@@ -6547,7 +6547,7 @@
     {
         "id": "bbe6bd8",
         "filepath": "bachata/partnerwork/sensual/bbe6bd8.mp4",
-        "tags": ["bachata sensual", "bachata repertoire", "CORTE_EN_7", "Yo", "Isabella Zertuche"],
+        "tags": ["bachata sensual", "learned bachata reference", "CORTE_EN_7", "Yo", "Isabella Zertuche"],
         "level": 4,
         "source": "Ensayo - 18/11/2024",
         "orientation": "portrait",
@@ -6967,5 +6967,95 @@
         "level": 4,
         "source": "https://www.instagram.com/lokura.dance/reel/DEFqxWDsFf5/",
         "orientation": "portrait"
+    },
+    {
+        "id": "d5395ed",
+        "filepath": "bachata/partnerwork/sensual/d5395ed.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "REGGAETON", "Yo", "Tammy Gómez"],
+        "level": 4,
+        "source": "Ensayo - 27/12/2024",
+        "orientation": "portrait",
+        "comments": "Mejorar la l{inea de la mano en el tiempo 1 y bajarle a las caderas en el 5 y 7.",
+        "references": ["7f2a4e3"]
+    },
+    {
+        "id": "c534cdc",
+        "filepath": "bachata/partnerwork/sensual/c534cdc.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "PASITOS_SENSUALES", "Yo", "Tammy Gómez"],
+        "level": 4,
+        "source": "Ensayo - 27/12/2024",
+        "orientation": "portrait",
+        "comments": "Doblar rodilla al final para mejorar las l{ineas en vez de bajar en sentadilla.",
+        "references": ["563398d"]
+    },
+    {
+        "id": "07d26d0",
+        "filepath": "bachata/partnerwork/sensual/07d26d0.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "PASITOS_SENSUALES", "Yo", "Tammy Gómez"],
+        "level": 4,
+        "source": "Ensayo - 27/12/2024",
+        "orientation": "portrait",
+        "comments": "En el headroll, la mano derecha acompaña el cuello y el adorno de la mano izquierda viene desde el antebrazo, no solo desde la muñeca. EN el adorno del final, agarrar la mano con el puño cerrado, no solo 2 deditos.",
+        "references": ["dfc0f80"]
+    },
+    {
+        "id": "b79b55b",
+        "filepath": "bachata/partnerwork/sensual/b79b55b.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "CORTE_EN_7", "Yo", "Tammy Gómez"],
+        "level": 4,
+        "source": "Ensayo - 27/12/2024",
+        "orientation": "portrait",
+        "comments": "El giro en 5 tiene que ser rápido para que se note más el giro en 7 y 8. En eso también recordar que son pasos cortos en 5 y 6 y pasos largos en 7 y 8. Además, el adorno de la peinada se ve poco natural. Mirada al frente en el rompe (1). Mirada a la chica en el 2+.",
+        "references": ["bbe6bd8", "f80e1bd"]
+    },
+    {
+        "id": "a8d8030",
+        "filepath": "bachata/partnerwork/sensual/a8d8030.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "PASITOS_SENSUALES", "ALARGADO_5_7", "Yo", "Tammy Gómez"],
+        "level": 4,
+        "source": "Ensayo - 27/12/2024",
+        "orientation": "portrait",
+        "comments": "Mano en el pantalón en 4.",
+        "references": ["bc920dc"]
+    },
+    {
+        "id": "8cf3fa3",
+        "filepath": "bachata/partnerwork/sensual/8cf3fa3.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "PASITOS_SENSUALES", "Yo", "Tammy Gómez"],
+        "level": 4,
+        "source": "Ensayo - 27/12/2024",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["10015e0"]
+    },
+    {
+        "id": "dd649eb",
+        "filepath": "bachata/partnerwork/sensual/dd649eb.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "CORTE_EN_5", "Yo", "Tammy Gómez"],
+        "level": 4,
+        "source": "Ensayo - 27/12/2024",
+        "orientation": "portrait",
+        "comments": "El corte en 5 del final tiene que ser más en stacatto",
+        "references": ["59ede8f", "3e73332"]
+    },
+    {
+        "id": "4ae0287",
+        "filepath": "bachata/partnerwork/sensual/4ae0287.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "SINCOPADO_EN_5", "Yo", "Tammy Gómez"],
+        "level": 4,
+        "source": "Ensayo - 27/12/2024",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["f97f357"]
+    },
+    {
+        "id": "fc54853",
+        "filepath": "bachata/partnerwork/sensual/fc54853.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "Yo", "Tammy Gómez"],
+        "level": 4,
+        "source": "Ensayo - 27/12/2024",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["866e7fb"]
     }
 ]
