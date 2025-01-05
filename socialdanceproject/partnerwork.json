@@ -7057,5 +7057,21 @@
         "orientation": "portrait",
         "comments": "",
         "references": ["866e7fb"]
+    },
+    {
+        "id": "410264b",
+        "filepath": "salsa/partnerwork/on2/410264b.mp4",
+        "tags": ["on2", "salsa candidate", "David Maries", "Katja Gartner Drofenik"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DEFqOG7itHz/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "fac4ab3",
+        "filepath": "salsa/partnerwork/on2/fac4ab3.mp4",
+        "tags": ["on2", "salsa candidate", "SALSA_CORTES_5_6_7", "Cortiso Bailarte", "Sandra Turcinovic"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DEFsuTKCsLE/",
+        "orientation": "portrait"
     }
 ]
