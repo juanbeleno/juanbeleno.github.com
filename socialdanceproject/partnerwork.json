@@ -3491,7 +3491,7 @@
     {
         "id": "276cd62",
         "filepath": "bachata/partnerwork/moderna/276cd62.gif",
-        "tags": ["combo", "bachata moderna", "bachata reference (recent)", "follow turn", "Fredy Ospina"],
+        "tags": ["combo", "bachata moderna", "learned bachata reference", "follow turn", "Fredy Ospina"],
         "level": 4,
         "orientation": "landscape"
     },
@@ -4022,7 +4022,7 @@
     {
         "id": "3aee1d7",
         "filepath": "bachata/partnerwork/sensual/3aee1d7.mp4",
-        "tags": ["combo", "bachata sensual", "bachata reference (recent)", "Cornel", "Rithika"],
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "Cornel", "Rithika"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=zyw3XBxxnoU",
         "orientation": "landscape"
@@ -4078,7 +4078,7 @@
     {
         "id": "a6046b1",
         "filepath": "bachata/partnerwork/sensual/a6046b1.mp4",
-        "tags": ["combo", "bachata sensual", "bachata reference (recent)", "Luis García", "Andrea Cobos"],
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "Luis García", "Andrea Cobos"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=Mp2m0TjcGUs",
         "orientation": "landscape"
@@ -4839,7 +4839,7 @@
     {
         "id": "09138c9",
         "filepath": "bachata/partnerwork/moderna/09138c9.mp4",
-        "tags": ["combo", "bachata moderna", "bachata reference (recent)", "Kike", "Nahir"],
+        "tags": ["combo", "bachata moderna", "learned bachata reference", "Kike", "Nahir"],
         "level": 4,
         "source": "https://youtu.be/Qc3yodAsptM",
         "orientation": "landscape"
@@ -5255,7 +5255,7 @@
     {
         "id": "fb8df5d",
         "filepath": "bachata/partnerwork/sensual/fb8df5d.mp4",
-        "tags": ["combo", "bachata sensual", "bachata reference (recent)", "Gero", "Migle"],
+        "tags": ["combo", "bachata sensual", "bachata reference (díficil)", "Gero", "Migle"],
         "level": 4,
         "source": "https://youtu.be/B1sFXP6n7Zg?si=H_QwzmvEYBng6rNc&t=160",
         "orientation": "landscape"
@@ -6388,7 +6388,7 @@
     {
         "id": "71d7bf6",
         "filepath": "bachata/partnerwork/sensual/71d7bf6.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Samuel FunFlow", "Vanessa Lopes"],
+        "tags": ["bachata sensual", "learned bachata reference", "Samuel FunFlow", "Vanessa Lopes"],
         "level": 4,
         "source": "https://www.instagram.com/p/DAycCKdCOQ8/?img_index=2",
         "orientation": "portrait"
@@ -7273,5 +7273,45 @@
         "level": 4,
         "source": "https://www.instagram.com/p/DFQcPj2ibES/",
         "orientation": "portrait"
+    },
+    {
+        "id": "0c95a01",
+        "filepath": "bachata/partnerwork/sensual/0c95a01.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "SINCOPADO_EN_5", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 27/01/2025",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["09138c9"]
+    },
+    {
+        "id": "8d086b6",
+        "filepath": "bachata/partnerwork/sensual/8d086b6.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 27/01/2025",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["99088fc"]
+    },
+    {
+        "id": "970c3a7",
+        "filepath": "bachata/partnerwork/sensual/970c3a7.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 27/01/2025",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["71d7bf6"]
+    },
+    {
+        "id": "fb59d4b",
+        "filepath": "bachata/partnerwork/sensual/fb59d4b.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 27/01/2025",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["21cb726"]
     }
 ]
