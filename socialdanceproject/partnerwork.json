@@ -7070,7 +7070,7 @@
     {
         "id": "fac4ab3",
         "filepath": "salsa/partnerwork/on2/fac4ab3.mp4",
-        "tags": ["on2", "salsa candidate", "SALSA_CORTES_5_6_7", "Cortiso Bailarte", "Sandra Turcinovic"],
+        "tags": ["on2", "learned salsa reference", "SALSA_CORTES_5_6_7", "Cortiso Bailarte", "Sandra Turcinovic"],
         "level": 4,
         "source": "https://www.instagram.com/p/DEFsuTKCsLE/",
         "orientation": "portrait"
@@ -7313,5 +7313,115 @@
         "orientation": "portrait",
         "comments": "",
         "references": ["21cb726"]
+    },
+    {
+        "id": "d57376a",
+        "filepath": "bachata/partnerwork/sensual/d57376a.mp4",
+        "tags": ["bachata sensual", "bachata repertoire", "CORE_BEAT", "Yo", "Tammy Gómez"],
+        "level": 4,
+        "source": "Ensayo - 29/01/2025",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["https://www.youtube.com/watch?v=JqKJ9syNx0k&t=49s"]
+    },
+    {
+        "id": "bfcee1b",
+        "filepath": "salsa/partnerwork/on1/bfcee1b.mp4",
+        "tags": ["salsa repertoire", "ON1_CORTE_EN_1_3_5_6_7", "ON1_CORTE_EN_5_6_7", "Yo", "Tammy Gómez"],
+        "level": 4,
+        "source": "Ensayo - 29/01/2025",
+        "orientation": "portrait",
+        "comments": "",
+        "references": []
+    },
+    {
+        "id": "635fbaa",
+        "filepath": "salsa/partnerwork/on1/635fbaa.mp4",
+        "tags": ["salsa repertoire", "ON1_CORTE_EN_1", "Yo", "Tammy Gómez"],
+        "level": 4,
+        "source": "Ensayo - 29/01/2025",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["https://www.youtube.com/watch?v=cARF65rnDu8&t=85s"]
+    },
+    {
+        "id": "f242ebe",
+        "filepath": "salsa/partnerwork/on1/f242ebe.mp4",
+        "tags": ["salsa repertoire", "ON1_CORTE_EN_1", "Yo", "Tammy Gómez"],
+        "level": 4,
+        "source": "Ensayo - 29/01/2025",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["https://www.youtube.com/watch?v=hCpS5V_Bnkg&t=209s"]
+    },
+    {
+        "id": "202bbd1",
+        "filepath": "salsa/partnerwork/on1/202bbd1.mp4",
+        "tags": ["salsa repertoire", "ON1_CORTE_EN_1_2_3", "Yo", "Tammy Gómez"],
+        "level": 4,
+        "source": "Ensayo - 29/01/2025",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["Clase de Andrés Leiton en Ilé Danza"]
+    },
+    {
+        "id": "e86aca1",
+        "filepath": "salsa/partnerwork/on1/e86aca1.mp4",
+        "tags": ["salsa repertoire", "ON1_CORTE_EN_1_3_5", "Yo", "Tammy Gómez"],
+        "level": 4,
+        "source": "Ensayo - 29/01/2025",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["Clase de Evelyn y Guasa en Step Dance"]
+    },
+    {
+        "id": "9d2d041",
+        "filepath": "salsa/partnerwork/on1/9d2d041.mp4",
+        "tags": ["salsa repertoire", "ON1_CORTE_EN_1_3_5", "Yo", "Tammy Gómez"],
+        "level": 4,
+        "source": "Ensayo - 29/01/2025",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["Clase de Evelyn y Guasa en Step Dance"]
+    },
+    {
+        "id": "be1642c",
+        "filepath": "salsa/partnerwork/on2/be1642c.mp4",
+        "tags": ["salsa repertoire", "ON2_CORTE_EN_5_7_1", "Yo", "Tammy Gómez"],
+        "level": 4,
+        "source": "Ensayo - 29/01/2025",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["https://www.instagram.com/p/DEz1avQRcQ8/"]
+    },
+    {
+        "id": "8c5b820",
+        "filepath": "salsa/partnerwork/on1/8c5b820.mp4",
+        "tags": ["salsa repertoire", "ON1_CORTE_EN_5_6_7", "Yo", "Tammy Gómez"],
+        "level": 4,
+        "source": "Ensayo - 29/01/2025",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["Clase de Evelyn y Guasa en Step Dance"]
+    },
+    {
+        "id": "2437cb4",
+        "filepath": "salsa/partnerwork/on1/2437cb4.mp4",
+        "tags": ["salsa repertoire", "ON1_CORTE_EN_5_6_7", "Yo", "Tammy Gómez"],
+        "level": 4,
+        "source": "Ensayo - 29/01/2025",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["fac4ab3"]
+    },
+    {
+        "id": "6521a1b",
+        "filepath": "salsa/partnerwork/on1/6521a1b.mp4",
+        "tags": ["salsa repertoire", "ON2_CORTE_EN_1_3_5_7", "ON1_CORTE_EN_5_7", "Yo", "Tammy Gómez"],
+        "level": 4,
+        "source": "Ensayo - 29/01/2025",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["Clase de Evelyn y Guasa en Step Dance"]
     }
 ]
