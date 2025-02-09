@@ -6992,7 +6992,7 @@
     {
         "id": "07d26d0",
         "filepath": "bachata/partnerwork/sensual/07d26d0.mp4",
-        "tags": ["bachata sensual", "bachata repertoire", "PASITOS_SENSUALES", "Yo", "Tammy Gómez"],
+        "tags": ["bachata sensual", "bachata repertoire (practice)", "PASITOS_SENSUALES", "Yo", "Tammy Gómez"],
         "level": 4,
         "source": "Ensayo - 27/12/2024",
         "orientation": "portrait",
@@ -7439,5 +7439,35 @@
         "level": 4,
         "source": "https://www.youtube.com/watch?v=M_cQgT1amKg&t=123s",
         "orientation": "landscape"
+    },
+    {
+        "id": "b9e543c",
+        "filepath": "salsa/partnerwork/on1/b9e543c.mp4",
+        "tags": ["salsa repertoire", "ON1_CORTE_EN_7", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 09/02/2025",
+        "orientation": "portrait",
+        "comments": "",
+        "references": []
+    },
+    {
+        "id": "0c8f518",
+        "filepath": "salsa/partnerwork/on1/0c8f518.mp4",
+        "tags": ["salsa repertoire", "ON1_EXTENDIDO_EN_5", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 09/02/2025",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["94341d5.gif"]
+    },
+    {
+        "id": "bea016d",
+        "filepath": "salsa/partnerwork/on1/bea016d.mp4",
+        "tags": ["salsa repertoire", "ON1_EXTENDIDO_EN_5", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 09/02/2025",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["Clase de Evelyn y Guasa en Step Dance"]
     }
 ]
