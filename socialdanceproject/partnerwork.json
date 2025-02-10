@@ -7469,5 +7469,21 @@
         "orientation": "portrait",
         "comments": "",
         "references": ["Clase de Evelyn y Guasa en Step Dance"]
+    },
+    {
+        "id": "c7059d1",
+        "filepath": "bachata/partnerwork/sensual/c7059d1.mp4",
+        "tags": ["bachata sensual", "bachata reference", "Jorge Labrador", "Valentina Castilla"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DFxqvRtswj1/",
+        "orientation": "landscape"
+    },
+    {
+        "id": "c306e2f",
+        "filepath": "bachata/partnerwork/sensual/c306e2f.mp4",
+        "tags": ["bachata sensual", "bachata candidate", "Benjamin Merida"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DFxputpMWWf/",
+        "orientation": "landscape"
     }
 ]
