@@ -6630,7 +6630,7 @@
     {
         "id": "fac67c3",
         "filepath": "bachata/partnerwork/sensual/fac67c3.mp4",
-        "tags": ["bachata sensual", "bachata repertoire (practice)", "SINCOPADO_EN_5", "Yo", "Isabella Zertuche"],
+        "tags": ["bachata sensual", "bachata repertoire (practice)", "CORTE_EN_5", "SINCOPADO_EN_5", "Yo", "Isabella Zertuche"],
         "level": 4,
         "source": "Ensayo - 01/12/2024",
         "orientation": "portrait",
@@ -7539,5 +7539,29 @@
         "orientation": "portrait",
         "comments": "",
         "references": ["ee06c51"]
+    },
+    {
+        "id": "be8994b",
+        "filepath": "salsa/partnerwork/on2/be8994b.mp4",
+        "tags": ["on2", "salsa candidate", "Marvin Ramos Acosta", "Anastasia Susi"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DGeA5Q2iwTp/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "23856b5",
+        "filepath": "salsa/partnerwork/on2/23856b5.mp4",
+        "tags": ["on2", "salsa candidate", "Marvin Ramos Acosta", "Anastasia Susi"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DGeA5Q2iwTp/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "0a793b6",
+        "filepath": "salsa/partnerwork/on2/0a793b6.mp4",
+        "tags": ["on2", "salsa candidate", "Marvin Ramos Acosta", "Anastasia Susi"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DGeA5Q2iwTp/",
+        "orientation": "portrait"
     }
 ]
