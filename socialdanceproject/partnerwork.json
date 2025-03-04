@@ -7533,7 +7533,7 @@
     {
         "id": "8b07fd6",
         "filepath": "bachata/partnerwork/sensual/8b07fd6.mp4",
-        "tags": ["bachata repertoire", "Yo", "Isabella Zertuche"],
+        "tags": ["salsa reference (díficil)", "Yo", "Isabella Zertuche"],
         "level": 4,
         "source": "Ensayo - 19/02/2025",
         "orientation": "portrait",
@@ -7562,6 +7562,14 @@
         "tags": ["on2", "salsa candidate", "Marvin Ramos Acosta", "Anastasia Susi"],
         "level": 4,
         "source": "https://www.instagram.com/p/DGeA5Q2iwTp/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "69178c4",
+        "filepath": "bachata/partnerwork/sensual/69178c4.mp4",
+        "tags": ["bachata sensual", "bachata candidate", "EXTENDIDO_EN_5", "David Mendez"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DGv7W8gSAAO/?img_index=9",
         "orientation": "portrait"
     }
 ]
