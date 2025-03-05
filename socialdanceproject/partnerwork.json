@@ -7571,5 +7571,43 @@
         "level": 4,
         "source": "https://www.instagram.com/p/DGv7W8gSAAO/?img_index=9",
         "orientation": "portrait"
+    },
+    {
+        "id": "c1ec189",
+        "filepath": "bachata/partnerwork/sensual/c1ec189.mp4",
+        "tags": ["bachata sensual", "bachata candidate", "EXTENDIDO_EN_5", "Sara Saugar"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DGmwN9qtyK0/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "8bcf32e",
+        "filepath": "salsa/partnerwork/on1/8bcf32e.mp4",
+        "tags": ["salsa repertoire", "ON1_EXTENDIDO_EN_7","Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 04/03/2025",
+        "orientation": "landscape",
+        "comments": "",
+        "references": ["https://www.instagram.com/p/C-Ipu2Pi97f/"]
+    },
+    {
+        "id": "3e98a44",
+        "filepath": "salsa/partnerwork/on1/3e98a44.mp4",
+        "tags": ["salsa repertoire", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 04/03/2025",
+        "orientation": "landscape",
+        "comments": "",
+        "references": ["https://www.instagram.com/p/DEBd5Rpxzpr/"]
+    },
+    {
+        "id": "ebd00c5",
+        "filepath": "salsa/partnerwork/on1/ebd00c5.mp4",
+        "tags": ["salsa repertoire", "ON1_EXTENDIDO_EN_5", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 04/03/2025",
+        "orientation": "landscape",
+        "comments": "",
+        "references": ["Clase en Step Dance - Guasa y Daniela Rosero"]
     }
 ]
