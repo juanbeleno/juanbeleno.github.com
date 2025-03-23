@@ -7622,5 +7622,21 @@
         "level": 4,
         "source": "https://www.instagram.com/p/DGeA5Q2iwTp/",
         "orientation": "portrait"
+    },
+    {
+        "id": "a1c1e16",
+        "filepath": "salsa/partnerwork/on2/a1c1e16.mp4",
+        "tags": ["on2", "salsa candidate", "ON1_CORTE_EN_1", "David Maries", "Andreea Arion"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DHWr5jaCP_Z/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "fafb598",
+        "filepath": "salsa/partnerwork/on2/fafb598.mp4",
+        "tags": ["on2", "salsa candidate", "ON1_CORTE_EN_1", "Guasa", "Evelyn Laurido"],
+        "level": 4,
+        "source": "Clase Step Dance 2025-03-20",
+        "orientation": "portrait"
     }
 ]
