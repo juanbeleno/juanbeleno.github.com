@@ -7778,5 +7778,29 @@
         "orientation": "landscape",
         "comments": "",
         "references": ["1e877e9"]
+    },
+    {
+        "id": "359ecac",
+        "filepath": "salsa/partnerwork/on2/359ecac.mp4",
+        "tags": ["on2", "salsa candidate", "ON1_EXTENDIDO_EN_7", "Brandon Ayala", "Luky Chocolat"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DIE2GFtCX97/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "2407dee",
+        "filepath": "salsa/partnerwork/on2/2407dee.mp4",
+        "tags": ["on2", "salsa candidate", "Fred Dancefloor", "Val Levenez"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DICHWoEiIDr/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "3f90f33",
+        "filepath": "salsa/partnerwork/on2/3f90f33.mp4",
+        "tags": ["on2", "salsa candidate", "ON1_EXTENDIDO_EN_5", "Fred Dancefloor", "Val Levenez"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DICHWoEiIDr/",
+        "orientation": "portrait"
     }
 ]
