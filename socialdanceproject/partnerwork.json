@@ -7819,5 +7819,21 @@
         "level": 4,
         "source": "https://www.youtube.com/watch?v=qdzE2k0mXms&t=120s",
         "orientation": "landscape"
+    },
+    {
+        "id": "c9bd1e6",
+        "filepath": "salsa/partnerwork/on2/c9bd1e6.mp4",
+        "tags": ["on2", "salsa candidate", "ON1_EXTENDIDO_EN_5", "Mido Morkos", "Yulia Kiryakova"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DI3oKAOCGaS/",
+        "orientation": "landscape"
+    },
+    {
+        "id": "532f371",
+        "filepath": "salsa/partnerwork/on2/532f371.mp4",
+        "tags": ["on2", "salsa candidate", "ON1_EXTENDIDO_EN_5", "Bersy Cortez", "Abdati Laatigue"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DI3kSviCxls/",
+        "orientation": "landscape"
     }
 ]
