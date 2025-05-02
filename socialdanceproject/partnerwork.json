@@ -6829,7 +6829,7 @@
     {
         "id": "76d8b56",
         "filepath": "salsa/partnerwork/on2/76d8b56.mp4",
-        "tags": ["on2", "salsa candidate", "Manduc Stefan-Michael", "Katja Gartner Drofenik"],
+        "tags": ["on2", "learned salsa reference", "Manduc Stefan-Michael", "Katja Gartner Drofenik"],
         "level": 4,
         "source": "https://www.instagram.com/p/DD0E9Jvi-kE/",
         "orientation": "portrait"
@@ -7742,7 +7742,7 @@
     {
         "id": "5a200fe",
         "filepath": "salsa/partnerwork/on1/5a200fe.mp4",
-        "tags": ["salsa repertoire", "ON1_CORTE_EN_1", "ON1_EXTENDIDO_EN_5", "Yo", "Isabella Zertuche"],
+        "tags": ["learned salsa reference", "ON1_CORTE_EN_1", "ON1_EXTENDIDO_EN_5", "Yo", "Isabella Zertuche"],
         "level": 4,
         "source": "Ensayo - 24/03/2025",
         "orientation": "landscape",
@@ -7798,7 +7798,7 @@
     {
         "id": "3f90f33",
         "filepath": "salsa/partnerwork/on2/3f90f33.mp4",
-        "tags": ["on2", "salsa candidate", "ON1_EXTENDIDO_EN_5", "Fred Dancefloor", "Val Levenez"],
+        "tags": ["on2", "learned salsa reference", "ON1_EXTENDIDO_EN_5", "Fred Dancefloor", "Val Levenez"],
         "level": 4,
         "source": "https://www.instagram.com/p/DICHWoEiIDr/",
         "orientation": "portrait"
@@ -7815,7 +7815,7 @@
     {
         "id": "1420d76",
         "filepath": "salsa/partnerwork/on2/1420d76.mp4",
-        "tags": ["on2", "salsa candidate", "ON1_CORTE_EN_7_1_3", "Panagiotis Aglamisis", "Myrto Misyri"],
+        "tags": ["on2", "salsa reference (díficil)", "ON1_CORTE_EN_7_1_3", "Panagiotis Aglamisis", "Myrto Misyri"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=qdzE2k0mXms&t=120s",
         "orientation": "landscape"
@@ -7831,9 +7831,39 @@
     {
         "id": "532f371",
         "filepath": "salsa/partnerwork/on2/532f371.mp4",
-        "tags": ["on2", "salsa candidate", "ON1_EXTENDIDO_EN_5", "Bersy Cortez", "Abdati Laatigue"],
+        "tags": ["on2", "learned salsa reference", "ON1_EXTENDIDO_EN_5", "Bersy Cortez", "Abdati Laatigue"],
         "level": 4,
         "source": "https://www.instagram.com/p/DI3kSviCxls/",
         "orientation": "landscape"
+    },
+    {
+        "id": "dabac4c",
+        "filepath": "salsa/partnerwork/on1/dabac4c.mp4",
+        "tags": ["salsa repertoire", "ON1_CORTE_EN_5_7_1", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 01/05/2025",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["76d8b56"]
+    },
+    {
+        "id": "08b9795",
+        "filepath": "salsa/partnerwork/on1/08b9795.mp4",
+        "tags": ["salsa repertoire", "ON1_EXTENDIDO_EN_5", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 01/05/2025",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["3f90f33"]
+    },
+    {
+        "id": "d716d87",
+        "filepath": "salsa/partnerwork/on1/d716d87.mp4",
+        "tags": ["salsa repertoire", "ON1_CORTE_EN_1", "Yo", "Isabella Zertuche"],
+        "level": 4,
+        "source": "Ensayo - 01/05/2025",
+        "orientation": "portrait",
+        "comments": "",
+        "references": ["532f371"]
     }
 ]
