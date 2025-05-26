@@ -8069,7 +8069,7 @@
     {
         "id": "3d5792c",
         "filepath": "bachata/partnerwork/sensual/3d5792c.mp4",
-        "tags": ["bachata candidate (show)", "BS_EXTENDIDO_EN_5", "Gero", "Migle"],
+        "tags": ["learned bachata candidate (show)", "Gero", "Migle"],
         "level": 5,
         "source": "https://youtu.be/4JZ4jjI4ASU?si=GAdEnySvm9GnLXhv&t=69",
         "orientation": "landscape"
@@ -8077,7 +8077,7 @@
     {
         "id": "d9a1608",
         "filepath": "bachata/partnerwork/sensual/d9a1608.mp4",
-        "tags": ["bachata candidate (show)", "BS_EXTENDIDO_EN_5", "Ronald", "Alba"],
+        "tags": ["bachata candidate (show)", "BS_ACROBACIA", "BS_EXTENDIDO_EN_5", "Ronald", "Alba"],
         "level": 5,
         "source": "https://youtu.be/Fe-IapZZQr0?si=QRflLGkF7TEJ-u-U&t=158",
         "orientation": "landscape"
@@ -8125,7 +8125,7 @@
     {
         "id": "7e1d8b4",
         "filepath": "bachata/partnerwork/sensual/7e1d8b4.mp4",
-        "tags": ["bachata candidate (show)", "BS_CORTE_EN_7", "Braulio", "Valentina"],
+        "tags": ["learned bachata candidate (show)", "Braulio", "Valentina"],
         "level": 5,
         "source": "https://youtu.be/fy3KgXvcNLc?si=SUmeaLtrnCmPgiic&t=23",
         "orientation": "landscape"
@@ -8537,7 +8537,7 @@
     {
         "id": "812dce0",
         "filepath": "bachata/partnerwork/sensual/812dce0.mp4",
-        "tags": ["bachata candidate (show)", "BS_CORE_BEAT", "Esteban Peña", "Desireé Cruz"],
+        "tags": ["learned bachata candidate (show)", "Esteban Peña", "Desireé Cruz"],
         "level": 5,
         "source": "https://youtu.be/mQqQrCVfFfc?si=RyQtT-JGeymxqSSk&t=144",
         "orientation": "landscape"
@@ -8545,7 +8545,7 @@
     {
         "id": "7d20323",
         "filepath": "bachata/partnerwork/sensual/7d20323.mp4",
-        "tags": ["bachata candidate (show)", "BS_EXTENDIDO_EN_5", "Esteban Peña", "Desireé Cruz"],
+        "tags": ["discarded bachata candidate (show)", "Esteban Peña", "Desireé Cruz"],
         "level": 5,
         "source": "https://youtu.be/Vmwvtr7_6pM?si=5JpiuHHUB065pSfD&t=60",
         "orientation": "landscape"
@@ -8653,5 +8653,35 @@
         "level": 5,
         "source": "https://www.instagram.com/p/DG70J3jOLYq/",
         "orientation": "portrait"
+    },
+    {
+        "id": "fc79a3a",
+        "filepath": "bachata/partnerwork/sensual/fc79a3a.mp4",
+        "tags": ["bachata repertoire (show)", "BS_CORE_BEAT", "BS_CORTE_EN_5", "Yo", "Isabella Zertuche"],
+        "level": 5,
+        "source": "Ensayo - 25/05/2025",
+        "orientation": "landscape",
+        "comments": "Las ondas al final toca hacerlas en core beat, más lentas",
+        "references": ["812dce0", "8a999d9"]
+    },
+    {
+        "id": "0c610e2",
+        "filepath": "bachata/partnerwork/sensual/0c610e2.mp4",
+        "tags": ["bachata repertoire (show)", "BS_CORTE_EN_5", "Yo", "Isabella Zertuche"],
+        "level": 5,
+        "source": "Ensayo - 25/05/2025",
+        "orientation": "landscape",
+        "comments": "",
+        "references": ["7e1d8b4"]
+    },
+    {
+        "id": "bd813a5",
+        "filepath": "bachata/partnerwork/sensual/bd813a5.mp4",
+        "tags": ["bachata repertoire (show)", "BS_EXTENDIDO_EN_5", "Yo", "Isabella Zertuche"],
+        "level": 5,
+        "source": "Ensayo - 25/05/2025",
+        "orientation": "landscape",
+        "comments": "",
+        "references": ["3d5792c"]
     }
 ]
