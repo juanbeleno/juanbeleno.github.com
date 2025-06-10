@@ -8317,7 +8317,7 @@
     {
         "id": "a644470",
         "filepath": "bachata/partnerwork/sensual/a644470.mp4",
-        "tags": ["selected bachata candidate (show)", "BS_FOOTWORK", "Cristian Bernabé", "Sharyda Gomez Andrade"],
+        "tags": ["bachata candidate (show)", "BS_FOOTWORK", "Cristian Bernabé", "Sharyda Gomez Andrade"],
         "level": 5,
         "source": "https://www.instagram.com/p/DDqQkE1Rp7q/",
         "orientation": "portrait"
@@ -8683,5 +8683,37 @@
         "orientation": "landscape",
         "comments": "",
         "references": ["3d5792c"]
+    },
+    {
+        "id": "f289c96",
+        "filepath": "bachata/partnerwork/tradicional/f289c96.mp4",
+        "tags": ["selected bachata candidate (show)", "BS_TRADICIONAL", "Carlos Gomez", "Susan de Beras"],
+        "level": 5,
+        "source": "https://www.instagram.com/p/CvVcRtGs5Fv/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "d9c1ebb",
+        "filepath": "bachata/partnerwork/tradicional/d9c1ebb.mp4",
+        "tags": ["selected bachata candidate (show)", "BS_TRADICIONAL", "Candela Giron", "Leif Otto Gehrig Bjoernholt"],
+        "level": 5,
+        "source": "https://youtu.be/vAms90nqjNc?si=eGY0WiuSE45dhuZl&t=57",
+        "orientation": "landscape"
+    },
+    {
+        "id": "19d8e81",
+        "filepath": "bachata/partnerwork/sensual/19d8e81.mp4",
+        "tags": ["selected bachata candidate (show)", "BS_EXTENDIDO_EN_3", "Rafael Nardon Freire", "Giovana Brandi"],
+        "level": 5,
+        "source": "https://youtu.be/6FVUZFFs5eU?si=_fmFnI3iGJR3aFDu&t=48",
+        "orientation": "landscape"
+    },
+    {
+        "id": "a49fcf2",
+        "filepath": "bachata/partnerwork/tradicional/a49fcf2.mp4",
+        "tags": ["selected bachata candidate (show)", "BS_TRADICIONAL", "Micaela Calamante", "Francisco Moretto"],
+        "level": 5,
+        "source": "https://youtu.be/ix8ecrqVRNc?si=0_Gur60N5jM8ea4s&t=38",
+        "orientation": "landscape"
     }
 ]
