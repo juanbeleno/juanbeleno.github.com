@@ -8715,5 +8715,101 @@
         "level": 5,
         "source": "https://youtu.be/ix8ecrqVRNc?si=0_Gur60N5jM8ea4s&t=38",
         "orientation": "landscape"
+    },
+    {
+        "id": "f1571ac",
+        "filepath": "bachata/partnerwork/tradicional/f1571ac.mp4",
+        "tags": ["bachata candidate (show)", "BS_DESPLAZAMIENTO_DERECHO", "BS_TRADICIONAL", "Reyes Lemos", "Raúl Colorado"],
+        "level": 5,
+        "source": "https://youtu.be/lnB4JTZTYA0?si=jt6Z7P7C5oTdMwPQ&t=43",
+        "orientation": "landscape"
+    },
+    {
+        "id": "ef49876",
+        "filepath": "bachata/partnerwork/sensual/ef49876.mp4",
+        "tags": ["bachata candidate (show)", "BS_DESPLAZAMIENTO_DERECHO", "Vincenzo Amandonico", "Dalila Longo"],
+        "level": 5,
+        "source": "https://youtu.be/LaGJpjdqBa0?si=O7jQx4WGTYH0b9kA&t=52",
+        "orientation": "landscape"
+    },
+    {
+        "id": "5db13cd",
+        "filepath": "bachata/partnerwork/sensual/5db13cd.mp4",
+        "tags": ["bachata candidate (show)", "BS_DESPLAZAMIENTO_DERECHO", "BS_DESPLAZAMIENTO_IZQUIERDO", "Vincenzo Amandonico", "Dalila Longo"],
+        "level": 5,
+        "source": "https://youtu.be/LaGJpjdqBa0?si=GYWwTI3At0m7s0Ya&t=74",
+        "orientation": "landscape"
+    },
+    {
+        "id": "f58bf39",
+        "filepath": "bachata/partnerwork/sensual/f58bf39.mp4",
+        "tags": ["bachata candidate (show)", "BS_DESPLAZAMIENTO_DERECHO", "Antonio Gutiérrez", "Paula Lozano de Lemus"],
+        "level": 5,
+        "source": "https://youtu.be/CwzrIugRU8s?si=D0l3YGfpp7QWfQeN&t=45",
+        "orientation": "landscape"
+    },
+    {
+        "id": "8440066",
+        "filepath": "bachata/partnerwork/sensual/8440066.mp4",
+        "tags": ["bachata candidate (show)", "BS_CORTE_EN_1", "BS_DESPLAZAMIENTO_DERECHO", "Carlos Gomez", "Susan de Beras"],
+        "level": 5,
+        "source": "https://youtu.be/O5JgvyYsfUs?si=cDysIM2ix4bg6Zg5&t=74",
+        "orientation": "landscape"
+    },
+    {
+        "id": "e2a6a13",
+        "filepath": "bachata/partnerwork/tradicional/e2a6a13.mp4",
+        "tags": ["selected bachata candidate (show)", "BS_TRADICIONAL", "Carlos Gomez", "Susan de Beras"],
+        "level": 5,
+        "source": "https://youtu.be/01ND9jqNOc0?si=ztvVAbMx7v-bNo4A&t=28",
+        "orientation": "landscape"
+    },
+    {
+        "id": "296ddad",
+        "filepath": "bachata/partnerwork/tradicional/296ddad.mp4",
+        "tags": ["selected bachata candidate (show)", "BS_TRADICIONAL", "Carolina Rosa", "Sammy El Magico"],
+        "level": 5,
+        "source": "https://youtu.be/A6ypYCsnKx4?si=rZ4ypmzvxHRc96bI&t=87",
+        "orientation": "landscape"
+    },
+    {
+        "id": "67fb186",
+        "filepath": "bachata/partnerwork/tradicional/67fb186.mp4",
+        "tags": ["bachata candidate (show)", "BS_SINCOPADO_EN_5", "BS_TRADICIONAL", "Carolina Rosa", "Sammy El Magico"],
+        "level": 5,
+        "source": "https://youtu.be/A6ypYCsnKx4?si=1SnIKaIESW8T0cMi&t=109",
+        "orientation": "landscape"
+    },
+    {
+        "id": "2359b66",
+        "filepath": "bachata/partnerwork/tradicional/2359b66.mp4",
+        "tags": ["bachata candidate (show)", "BS_DESPLAZAMIENTO_IZQUIERDO", "BS_TRADICIONAL", "El Sueco", "Johanna Swing"],
+        "level": 5,
+        "source": "https://youtu.be/QTaXIs56LX0?si=Y7GzITMwc8skXXtP&t=97",
+        "orientation": "landscape"
+    },
+    {
+        "id": "fa70373",
+        "filepath": "bachata/partnerwork/tradicional/fa70373.mp4",
+        "tags": ["bachata candidate (show)", "BS_DESPLAZAMIENTO_DERECHO", "BS_TRADICIONAL", "Carolina Bustamante", "Junior Aquino"],
+        "level": 5,
+        "source": "https://youtu.be/DyiQr8eg7SM?si=Jgra_cB-j3MUeX-A&t=80",
+        "orientation": "landscape"
+    },
+    {
+        "id": "1c13513",
+        "filepath": "bachata/partnerwork/tradicional/1c13513.mp4",
+        "tags": ["bachata candidate (show)", "BS_TRADICIONAL", "Carolina Bustamante", "Junior Aquino"],
+        "level": 5,
+        "source": "https://youtu.be/DyiQr8eg7SM?si=RkbnEWswya5Hf6m_&t=138",
+        "orientation": "landscape"
+    },
+    {
+        "id": "0200823",
+        "filepath": "bachata/partnerwork/tradicional/0200823.mp4",
+        "tags": ["selected bachata candidate (show)", "BS_CORTE_EN_1", "Brenda Escobar", "Oswaldo Corzo"],
+        "level": 5,
+        "source": "https://youtu.be/kSrN6OxrTbI?si=axfk8zemrjQ8Bord&t=58",
+        "orientation": "landscape"
     }
 ]
