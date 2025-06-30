@@ -8157,10 +8157,11 @@
     {
         "id": "b5df07c",
         "filepath": "bachata/partnerwork/sensual/b5df07c.mp4",
-        "tags": ["selected bachata candidate (show)", "BS_EXTENDIDO_EN_7", "Braulio", "Valentina"],
+        "tags": ["discarded bachata candidate (show)", "BS_EXTENDIDO_EN_7", "Braulio", "Valentina"],
         "level": 5,
         "source": "https://youtu.be/fy3KgXvcNLc?si=eJ_pF9mayhjtHsXc&t=61",
-        "orientation": "landscape"
+        "orientation": "landscape",
+        "comments": "complicado de sacar"
     },
     {
         "id": "8bef9b3",
@@ -8357,10 +8358,11 @@
     {
         "id": "2a8f885",
         "filepath": "bachata/partnerwork/sensual/2a8f885.mp4",
-        "tags": ["selected bachata candidate (show)", "BS_CORTE_EN_1", "Brenda Jiménez", "Luis Ureña"],
+        "tags": ["discarded bachata candidate (show)", "BS_CORTE_EN_1", "Brenda Jiménez", "Luis Ureña"],
         "level": 5,
         "source": "https://www.instagram.com/p/DES7EFXBL71/",
-        "orientation": "portrait"
+        "orientation": "portrait",
+        "comments": "Las pisadas se salen del conteo de bachata"
     },
     {
         "id": "545f556",
@@ -8405,10 +8407,11 @@
     {
         "id": "31e806f",
         "filepath": "bachata/partnerwork/sensual/31e806f.mp4",
-        "tags": ["selected bachata candidate (show)", "BS_SINCOPADO_EN_5", "Jorge Velasco", "Dulce Hernandez"],
+        "tags": ["discarded bachata candidate (show)", "BS_SINCOPADO_EN_5", "Jorge Velasco", "Dulce Hernandez"],
         "level": 5,
         "source": "https://www.instagram.com/p/DES7EFXBL71/",
-        "orientation": "portrait"
+        "orientation": "portrait",
+        "comments": "Requiere buena técnica de giros"
     },
     {
         "id": "0004e8b",
@@ -8548,7 +8551,8 @@
         "tags": ["discarded bachata candidate (show)", "Esteban Peña", "Desireé Cruz"],
         "level": 5,
         "source": "https://youtu.be/Vmwvtr7_6pM?si=5JpiuHHUB065pSfD&t=60",
-        "orientation": "landscape"
+        "orientation": "landscape",
+        "comments": "No me gusta"
     },
     {
         "id": "5d80c9a",
@@ -8806,10 +8810,74 @@
     },
     {
         "id": "0200823",
-        "filepath": "bachata/partnerwork/tradicional/0200823.mp4",
+        "filepath": "bachata/partnerwork/sensual/0200823.mp4",
         "tags": ["selected bachata candidate (show)", "BS_CORTE_EN_1", "Brenda Escobar", "Oswaldo Corzo"],
         "level": 5,
         "source": "https://youtu.be/kSrN6OxrTbI?si=axfk8zemrjQ8Bord&t=58",
         "orientation": "landscape"
+    },
+    {
+        "id": "4070a1d",
+        "filepath": "bachata/partnerwork/sensual/4070a1d.mp4",
+        "tags": ["bachata candidate (show)", "BS_CORTE_EN_5", "BS_DESPLAZAMIENTO_IZQUIERDO", "Camilo Forero", "Sara Sandoval"],
+        "level": 5,
+        "source": "https://www.instagram.com/p/DK4zbLTO-Oe/",
+        "orientation": "landscape"
+    },
+    {
+        "id": "0446586",
+        "filepath": "bachata/partnerwork/sensual/0446586.mp4",
+        "tags": ["selected bachata candidate (show)", "Ronald Vanegas", "Maria Del Mar Umaña"],
+        "level": 5,
+        "source": "https://www.instagram.com/p/DENpy-0yKng/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "5f84352",
+        "filepath": "bachata/partnerwork/sensual/5f84352.mp4",
+        "tags": ["selected bachata candidate (show)", "BS_CORE_BEAT", "Ronald Vanegas", "Maria Del Mar Umaña"],
+        "level": 5,
+        "source": "https://www.instagram.com/p/DENpy-0yKng/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "913959e",
+        "filepath": "bachata/partnerwork/sensual/913959e.mp4",
+        "tags": ["selected bachata candidate (show)", "BS_CORTE_EN_7", "Ronald Vanegas", "Maria Del Mar Umaña"],
+        "level": 5,
+        "source": "https://www.instagram.com/p/DENpy-0yKng/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "3d0cebe",
+        "filepath": "bachata/partnerwork/sensual/3d0cebe.mp4",
+        "tags": ["selected bachata candidate (show)", "BS_CORTE_EN_1_2_3", "Zaid Salmeron", "Yanetzi Azua"],
+        "level": 5,
+        "source": "https://www.instagram.com/p/C5HrBVnr92S/?hl=es-la",
+        "orientation": "portrait"
+    },
+    {
+        "id": "4b8dada",
+        "filepath": "bachata/partnerwork/sensual/4b8dada.mp4",
+        "tags": ["selected bachata candidate (show)", "Zaid Salmeron", "Yanetzi Azua"],
+        "level": 5,
+        "source": "https://www.instagram.com/p/C5HrBVnr92S/?hl=es-la",
+        "orientation": "portrait"
+    },
+    {
+        "id": "7bdb94e",
+        "filepath": "bachata/partnerwork/sensual/7bdb94e.mp4",
+        "tags": ["selected bachata candidate (show)", "Natalia Solis", "Sebastian Corro"],
+        "level": 5,
+        "source": "https://www.instagram.com/p/DHOz0QgSBDo/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "75ca570",
+        "filepath": "bachata/partnerwork/sensual/75ca570.mp4",
+        "tags": ["bachata candidate (show)", "BS_DESPLAZAMIENTO_DERECHO", "Jeffry Cordero", "Brenda Jiménez"],
+        "level": 5,
+        "source": "https://www.instagram.com/p/DEQPZnevTrD/",
+        "orientation": "portrait"
     }
 ]
