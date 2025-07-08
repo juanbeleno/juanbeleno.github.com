@@ -6444,7 +6444,7 @@
     {
         "id": "895d749",
         "filepath": "bachata/partnerwork/sensual/895d749.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Edey Rodríguez", "Anna Барсукова"],
+        "tags": ["bachata sensual", "learned bachata reference", "Edey Rodríguez", "Anna Барсукова"],
         "level": 4,
         "source": "https://www.instagram.com/p/DBWYYS0CT3A/",
         "orientation": "portrait"
@@ -7573,7 +7573,7 @@
     {
         "id": "69178c4",
         "filepath": "bachata/partnerwork/sensual/69178c4.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "EXTENDIDO_EN_5", "David Mendez"],
+        "tags": ["bachata sensual", "learned bachata reference", "EXTENDIDO_EN_5", "David Mendez"],
         "level": 4,
         "source": "https://www.instagram.com/p/DGv7W8gSAAO/?img_index=9",
         "orientation": "portrait"
@@ -8898,14 +8898,6 @@
         "orientation": "portrait"
     },
     {
-        "id": "239e0c0",
-        "filepath": "bachata/partnerwork/sensual/239e0c0.mp4",
-        "tags": ["combo", "bachata sensual", "bachata candidate", "Jerem Dos Reis", "Sara Panero"],
-        "level": 4,
-        "source": "https://www.instagram.com/p/DLXPxdyiFrR/",
-        "orientation": "portrait"
-    },
-    {
         "id": "5b45d1c",
         "filepath": "bachata/partnerwork/sensual/5b45d1c.mp4",
         "tags": ["combo", "bachata sensual", "bachata candidate", "CORTE_EN_7", "Jerem Dos Reis", "Sara Panero"],
@@ -8916,7 +8908,7 @@
     {
         "id": "ab58a17",
         "filepath": "bachata/partnerwork/sensual/ab58a17.mp4",
-        "tags": ["combo", "bachata sensual", "bachata candidate", "Jerem Dos Reis", "Sara Panero"],
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "Jerem Dos Reis", "Sara Panero"],
         "level": 4,
         "source": "https://www.instagram.com/p/DLXPxdyiFrR/",
         "orientation": "portrait"
@@ -8924,7 +8916,7 @@
     {
         "id": "9c61f76",
         "filepath": "bachata/partnerwork/sensual/9c61f76.mp4",
-        "tags": ["combo", "bachata sensual", "bachata candidate", "CORTE_EN_5", "Jerem Dos Reis", "Ivana Aleksic"],
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "CORTE_EN_5", "Jerem Dos Reis", "Ivana Aleksic"],
         "level": 4,
         "source": "https://www.instagram.com/p/DH6cC2Zimxd/",
         "orientation": "portrait"
@@ -8932,7 +8924,7 @@
     {
         "id": "b0aa45d",
         "filepath": "bachata/partnerwork/sensual/b0aa45d.mp4",
-        "tags": ["combo", "bachata sensual", "bachata candidate", "Jerem Dos Reis", "Ivana Aleksic"],
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "Jerem Dos Reis", "Ivana Aleksic"],
         "level": 4,
         "source": "https://www.instagram.com/p/DH6cC2Zimxd/",
         "orientation": "portrait"
@@ -8980,7 +8972,7 @@
     {
         "id": "d2dea53",
         "filepath": "bachata/partnerwork/sensual/d2dea53.mp4",
-        "tags": ["combo", "bachata sensual", "bachata candidate", "CORE_BEAT", "Cesar Guerra", "Ivana Aleksic"],
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "CORE_BEAT", "Cesar Guerra", "Ivana Aleksic"],
         "level": 4,
         "source": "https://www.instagram.com/p/DIBW5RLC-Lx/",
         "orientation": "portrait"
@@ -9004,10 +8996,11 @@
     {
         "id": "f1593ab",
         "filepath": "bachata/partnerwork/sensual/f1593ab.mp4",
-        "tags": ["combo", "bachata sensual", "bachata candidate", "SINCOPADO_EN_5", "CORTE_EN_1", "Luis Gonzalo Guarnizo", "Isabela Nieto"],
+        "tags": ["combo", "bachata sensual", "discarded bachata reference", "SINCOPADO_EN_5", "CORTE_EN_1", "Luis Gonzalo Guarnizo", "Isabela Nieto"],
         "level": 4,
         "source": "Tardeo Bachatero - 28/06/2025",
-        "orientation": "portrait"
+        "orientation": "portrait",
+        "comments": "No sé la correcta técnica"
     },
     {
         "id": "67755c7",
@@ -9015,6 +9008,84 @@
         "tags": ["combo", "bachata sensual", "bachata candidate", "CORTE_EN_5_7", "CORTE_EN_1", "Isabella Zertuche", "Andrés Loaiza"],
         "level": 4,
         "source": "Tardeo Bachatero - 28/06/2025",
+        "orientation": "portrait"
+    },
+    {
+        "id": "b44012a",
+        "filepath": "bachata/partnerwork/sensual/b44012a.mp4",
+        "tags": ["combo", "bachata sensual", "bachata repertoire (practice)", "CORTE_EN_5_6_7", "Isabella Zertuche", "Yo"],
+        "level": 4,
+        "source": "Ensayo - 07/07/2025",
+        "orientation": "portrait",
+        "references": ["3d5792c"]
+    },
+    {
+        "id": "55726e1",
+        "filepath": "bachata/partnerwork/sensual/55726e1.mp4",
+        "tags": ["combo", "bachata sensual", "bachata repertoire (practice)", "Isabella Zertuche", "Yo"],
+        "level": 4,
+        "source": "Ensayo - 07/07/2025",
+        "orientation": "portrait",
+        "references": ["ab58a17"]
+    },
+    {
+        "id": "6902ecc",
+        "filepath": "bachata/partnerwork/sensual/6902ecc.mp4",
+        "tags": ["combo", "bachata sensual", "bachata repertoire (practice)", "EXTENDIDO_EN_5", "Isabella Zertuche", "Yo"],
+        "level": 4,
+        "source": "Ensayo - 07/07/2025",
+        "orientation": "portrait",
+        "references": ["69178c4"]
+    },
+    {
+        "id": "3eb30eb",
+        "filepath": "bachata/partnerwork/sensual/3eb30eb.mp4",
+        "tags": ["combo", "bachata sensual", "bachata repertoire (practice)", "CORE_BEAT", "Isabella Zertuche", "Yo"],
+        "level": 4,
+        "source": "Ensayo - 07/07/2025",
+        "orientation": "portrait",
+        "references": ["d2dea53"]
+    },
+    {
+        "id": "0eb3859",
+        "filepath": "bachata/partnerwork/sensual/0eb3859.mp4",
+        "tags": ["combo", "bachata sensual", "bachata repertoire (practice)", "Isabella Zertuche", "Yo"],
+        "level": 4,
+        "source": "Ensayo - 07/07/2025",
+        "orientation": "portrait",
+        "references": ["895d749"]
+    },
+    {
+        "id": "36d6a77",
+        "filepath": "bachata/partnerwork/sensual/36d6a77.mp4",
+        "tags": ["combo", "bachata sensual", "bachata repertoire (practice)", "CORTE_EN_5", "Isabella Zertuche", "Yo"],
+        "level": 4,
+        "source": "Ensayo - 07/07/2025",
+        "orientation": "portrait",
+        "references": ["9c61f76"]
+    },
+    {
+        "id": "fed35ba",
+        "filepath": "bachata/partnerwork/sensual/fed35ba.mp4",
+        "tags": ["combo", "bachata sensual", "bachata candidate", "CORTE_EN_7", "Gleb Naumkin"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DLr9Dn4i4tL/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "9e621b0",
+        "filepath": "bachata/partnerwork/sensual/9e621b0.mp4",
+        "tags": ["combo", "bachata sensual", "bachata candidate", "Gabriella Crist", "Cristian García"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DLfiPsqCeIn/?img_index=3",
+        "orientation": "portrait"
+    },
+    {
+        "id": "172b651",
+        "filepath": "bachata/partnerwork/sensual/172b651.mp4",
+        "tags": ["combo", "bachata sensual", "bachata candidate", "Andres", "Yessica Gil"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DIwNNKZM3uI/?img_index=1",
         "orientation": "portrait"
     }
 ]
