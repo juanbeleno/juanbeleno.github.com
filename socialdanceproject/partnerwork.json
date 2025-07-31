@@ -5981,7 +5981,7 @@
     {
         "id": "05fdbe4",
         "filepath": "bachata/partnerwork/sensual/05fdbe4.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Kike", "Nahir"],
+        "tags": ["bachata sensual", "learned bachata reference", "Kike", "Nahir"],
         "level": 4,
         "source": "https://youtu.be/qf3UpayqXys?si=JE3icg6FGnuUqRhl&t=91",
         "orientation": "landscape"
@@ -7581,7 +7581,7 @@
     {
         "id": "c1ec189",
         "filepath": "bachata/partnerwork/sensual/c1ec189.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "EXTENDIDO_EN_5", "Sara Saugar"],
+        "tags": ["bachata sensual", "learned bachata reference", "EXTENDIDO_EN_5", "Sara Saugar"],
         "level": 4,
         "source": "https://www.instagram.com/p/DGmwN9qtyK0/",
         "orientation": "portrait"
@@ -8900,7 +8900,7 @@
     {
         "id": "5b45d1c",
         "filepath": "bachata/partnerwork/sensual/5b45d1c.mp4",
-        "tags": ["combo", "bachata sensual", "bachata candidate", "CORTE_EN_7", "Jerem Dos Reis", "Sara Panero"],
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "CORTE_EN_7", "Jerem Dos Reis", "Sara Panero"],
         "level": 4,
         "source": "https://www.instagram.com/p/DLXPxdyiFrR/",
         "orientation": "portrait"
@@ -9086,6 +9086,65 @@
         "tags": ["combo", "bachata sensual", "bachata candidate", "Andres", "Yessica Gil"],
         "level": 4,
         "source": "https://www.instagram.com/p/DIwNNKZM3uI/?img_index=1",
+        "orientation": "portrait"
+    },
+    {
+        "id": "7bc3da2",
+        "filepath": "bachata/partnerwork/sensual/7bc3da2.mp4",
+        "tags": ["combo", "bachata sensual", "bachata repertoire (practice)", "Isabella Zertuche", "Yo"],
+        "level": 4,
+        "source": "Ensayo - 10/07/2025",
+        "orientation": "portrait",
+        "references": ["c1ec189"]
+    },
+    {
+        "id": "98b7b6b",
+        "filepath": "bachata/partnerwork/sensual/98b7b6b.mp4",
+        "tags": ["combo", "bachata sensual", "bachata repertoire (practice)", "CORE_BEAT", "Isabella Zertuche", "Yo"],
+        "level": 4,
+        "source": "Ensayo - 10/07/2025",
+        "orientation": "landscape",
+        "references": ["5b45d1c"]
+    },
+    {
+        "id": "d3a56c5",
+        "filepath": "bachata/partnerwork/sensual/d3a56c5.mp4",
+        "tags": ["combo", "bachata sensual", "bachata repertoire (practice)", "Isabella Zertuche", "Yo"],
+        "level": 4,
+        "source": "Ensayo - 10/07/2025",
+        "orientation": "landscape",
+        "references": ["05fdbe4"]
+    },
+    {
+        "id": "c264302",
+        "filepath": "bachata/partnerwork/sensual/c264302.mp4",
+        "tags": ["bachata candidate (show)", "BS_CORTE_EN_3", "Freddy Rivas", "Diana Laura AS"],
+        "level": 5,
+        "source": "https://www.instagram.com/p/DKGJy2Sxyzk/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "022dccf",
+        "filepath": "bachata/partnerwork/sensual/022dccf.mp4",
+        "tags": ["bachata candidate (show)", "BS_CORTE_EN_5", "Freddy Rivas", "Diana Laura AS"],
+        "level": 5,
+        "source": "https://www.instagram.com/p/DKGJy2Sxyzk/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "ea90f11",
+        "filepath": "bachata/partnerwork/sensual/ea90f11.mp4",
+        "tags": ["bachata candidate (show)", "BS_SINCOPADO_EN_5", "Freddy Rivas", "Diana Laura AS"],
+        "level": 5,
+        "source": "https://www.instagram.com/p/DKGJy2Sxyzk/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "8d483df",
+        "filepath": "bachata/partnerwork/sensual/8d483df.mp4",
+        "tags": ["bachata candidate (show)", "BS_ACROBACIA", "Freddy Rivas", "Diana Laura AS"],
+        "level": 5,
+        "source": "https://www.instagram.com/p/DKGJy2Sxyzk/",
         "orientation": "portrait"
     }
 ]
