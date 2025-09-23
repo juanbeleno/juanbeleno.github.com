@@ -4791,10 +4791,11 @@
     {
         "id": "14980aa",
         "filepath": "bachata/partnerwork/moderna/14980aa.mp4",
-        "tags": ["combo", "bachata moderna", "bachata candidate", "Antoni", "Belen"],
+        "tags": ["combo", "bachata moderna", "discarded bachata reference", "Antoni", "Belen"],
         "level": 4,
         "source": "https://youtu.be/gq9N3tSCPzg?t=93",
-        "orientation": "landscape"
+        "orientation": "landscape",
+        "comments":"A Isa no le gusta lo suficiente"
     },
     {
         "id": "788917c",
@@ -5320,10 +5321,11 @@
     {
         "id": "1ad69d2",
         "filepath": "bachata/partnerwork/sensual/1ad69d2.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Sindi Azael", "Azael"],
+        "tags": ["bachata sensual", "discarded bachata reference", "Sindi Azael", "Azael"],
         "level": 4,
         "source": "https://youtu.be/bfeE7DHVx0w?si=m5bhE8mNH__41gaR&t=132",
-        "orientation": "landscape"
+        "orientation": "landscape",
+        "comments":"A Isa no le gusta lo suficiente"
     },
     {
         "id": "6272baf",
@@ -5700,10 +5702,11 @@
     {
         "id": "24e2541",
         "filepath": "bachata/partnerwork/sensual/24e2541.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Gero", "Migle"],
+        "tags": ["bachata sensual", "discarded bachata reference", "Gero", "Migle"],
         "level": 4,
         "source": "https://youtu.be/rn5ZnDcJb6k?si=Pys6HInrJshbQNFi&t=882",
-        "orientation": "landscape"
+        "orientation": "landscape",
+        "comments":"A Isa no le gusta lo suficiente"
     },
     {
         "id": "3e73332",
@@ -6184,7 +6187,7 @@
     {
         "id": "67eb5f9",
         "filepath": "bachata/partnerwork/sensual/67eb5f9.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Jesús Tibaduiza", "Isabella Zertuche"],
+        "tags": ["bachata sensual", "discarded bachata reference", "Jesús Tibaduiza", "Isabella Zertuche"],
         "level": 4,
         "source": "Sabaki - 21/07/2024",
         "orientation": "portrait"
@@ -6602,10 +6605,11 @@
     {
         "id": "672373c",
         "filepath": "bachata/partnerwork/sensual/672373c.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Cami Anabalon"],
+        "tags": ["bachata sensual", "discarded bachata reference", "Cami Anabalon"],
         "level": 4,
         "source": "https://www.instagram.com/p/DC6octfIWOv/",
-        "orientation": "portrait"
+        "orientation": "portrait",
+        "comments":"A Isa no le gusta lo suficiente"
     },
     {
         "id": "db8d14e",
@@ -6713,7 +6717,7 @@
     {
         "id": "0af1d32",
         "filepath": "bachata/partnerwork/sensual/0af1d32.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Gero", "Migle"],
+        "tags": ["bachata sensual", "discarded bachata reference", "Gero", "Migle"],
         "level": 4,
         "source": "https://youtu.be/zNBAhuso_P8?si=Z1c7sUbJt4W-0I-M&t=121",
         "orientation": "portrait"
@@ -6729,7 +6733,7 @@
     {
         "id": "b183e0d",
         "filepath": "bachata/partnerwork/sensual/b183e0d.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Gero", "Migle"],
+        "tags": ["bachata sensual", "selected bachata candidate", "Gero", "Migle"],
         "level": 4,
         "source": "https://youtu.be/zNBAhuso_P8?si=0bNcEfTaXi-9fdKf&t=160",
         "orientation": "portrait"
@@ -6737,15 +6741,16 @@
     {
         "id": "7967ed3",
         "filepath": "bachata/partnerwork/sensual/7967ed3.mp4",
-        "tags": ["bachata sensual", "bachata candidate"],
+        "tags": ["bachata sensual", "discarded bachata reference"],
         "level": 4,
         "source": "https://www.instagram.com/p/DDUte27I7yh/",
-        "orientation": "portrait"
+        "orientation": "portrait",
+        "comments":"A Isa no le gusta lo suficiente"
     },
     {
         "id": "0e15fb5",
         "filepath": "bachata/partnerwork/sensual/0e15fb5.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Manu Exo", "Laura Castillo García"],
+        "tags": ["bachata sensual", "discarded bachata reference", "Manu Exo", "Laura Castillo García"],
         "level": 4,
         "source": "https://www.instagram.com/p/DDUtNP6o_eL/",
         "orientation": "portrait"
@@ -6753,15 +6758,16 @@
     {
         "id": "5fe2b2a",
         "filepath": "bachata/partnerwork/sensual/5fe2b2a.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Sara Peñalver Larios", "BANJO"],
+        "tags": ["bachata sensual", "discarded bachata reference", "Sara Peñalver Larios", "BANJO"],
         "level": 4,
         "source": "https://www.instagram.com/p/DDT_oXWIzJC/",
-        "orientation": "portrait"
+        "orientation": "portrait",
+        "comments": "A Isa no le gusta lo suficiente"
     },
     {
         "id": "1beda9f",
         "filepath": "bachata/partnerwork/sensual/1beda9f.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Adrian Ros", "Angela Mariano"],
+        "tags": ["bachata sensual", "selected bachata candidate", "Adrian Ros", "Angela Mariano"],
         "level": 4,
         "source": "https://www.instagram.com/reel/DDqF2K5iAqZ/",
         "orientation": "portrait"
@@ -6969,10 +6975,11 @@
     {
         "id": "49b1b6c",
         "filepath": "bachata/partnerwork/sensual/49b1b6c.mp4",
-        "tags": ["bachata sensual", "bachata candidate"],
+        "tags": ["bachata sensual", "discarded bachata reference"],
         "level": 4,
         "source": "https://www.instagram.com/lokura.dance/reel/DEFqxWDsFf5/",
-        "orientation": "portrait"
+        "orientation": "portrait",
+        "comments":"A Isa no le gusta lo suficiente"
     },
     {
         "id": "d5395ed",
@@ -7083,7 +7090,7 @@
     {
         "id": "eaf7cd1",
         "filepath": "bachata/partnerwork/sensual/eaf7cd1.mp4",
-        "tags": ["bachata sensual", "bachata candidate"],
+        "tags": ["bachata sensual", "selected bachata candidate"],
         "level": 4,
         "source": "https://www.instagram.com/p/DEXre5dsXkC/",
         "orientation": "portrait"
@@ -7115,10 +7122,11 @@
     {
         "id": "e0c5601",
         "filepath": "bachata/partnerwork/sensual/e0c5601.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Adri BDM", "Paloma Díaz"],
+        "tags": ["bachata sensual", "discarded bachata reference", "Adri BDM", "Paloma Díaz"],
         "level": 4,
         "source": "https://www.instagram.com/p/DE4oWm-im2g/",
-        "orientation": "portrait"
+        "orientation": "portrait",
+        "comments":"A Isa no le gusta lo suficiente"
     },
     {
         "id": "af438ba",
@@ -7132,14 +7140,15 @@
     {
         "id": "3ee95de",
         "filepath": "bachata/partnerwork/sensual/3ee95de.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Christian Camilo Moncada Ruiz", "Jeisy Salinas Bermudez"],
+        "tags": ["bachata sensual", "discarded bachata reference", "Christian Camilo Moncada Ruiz", "Jeisy Salinas Bermudez"],
         "level": 4,
         "source": "Story de Jeisy - 2025-01-15",
-        "orientation": "portrait"
+        "orientation": "portrait",
+        "comments":"A Isa no le gusta lo suficiente"
     },{
         "id": "47c8a40",
         "filepath": "bachata/partnerwork/sensual/47c8a40.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "SINCOPADO_EN_5", "Giovanny Marques", "Josy Bolívar"],
+        "tags": ["bachata sensual", "selected bachata candidate", "SINCOPADO_EN_5", "Giovanny Marques", "Josy Bolívar"],
         "level": 4,
         "source": "https://www.instagram.com/p/DE7EajJiuuQ/",
         "orientation": "portrait"
@@ -7442,10 +7451,11 @@
     {
         "id": "3bbbb05",
         "filepath": "bachata/partnerwork/sensual/3bbbb05.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "CORTE_EN_5", "Miguel", "Sunsi"],
+        "tags": ["bachata sensual", "discarded bachata reference", "CORTE_EN_5", "Miguel", "Sunsi"],
         "level": 4,
         "source": "https://www.youtube.com/watch?v=M_cQgT1amKg&t=123s",
-        "orientation": "landscape"
+        "orientation": "landscape",
+        "comments":"A Isa no le gusta lo suficiente"
     },
     {
         "id": "b9e543c",
@@ -7488,7 +7498,7 @@
     {
         "id": "c306e2f",
         "filepath": "bachata/partnerwork/sensual/c306e2f.mp4",
-        "tags": ["bachata sensual", "bachata candidate", "Benjamin Merida"],
+        "tags": ["bachata sensual", "discarded bachata reference", "Benjamin Merida"],
         "level": 4,
         "source": "https://www.instagram.com/p/DFxputpMWWf/",
         "orientation": "landscape"
@@ -8014,7 +8024,7 @@
     {
         "id": "1841f9d",
         "filepath": "bachata/partnerwork/sensual/1841f9d.mp4",
-        "tags": ["bachata choosen (show - desplazamiento)", "BS_SINCOPADO_EN_5", "BS_DESPLAZAMIENTO_DERECHO", "Ataca", "Alemana"],
+        "tags": ["learned bachata candidate (show)", "BS_SINCOPADO_EN_5", "BS_DESPLAZAMIENTO_DERECHO", "Ataca", "Alemana"],
         "level": 5,
         "source": "https://youtu.be/mH1VaLrDmCU?si=4GEDLVaSzM0EJPlL&t=143",
         "orientation": "landscape"
@@ -8582,7 +8592,7 @@
     {
         "id": "421df20",
         "filepath": "bachata/partnerwork/sensual/421df20.mp4",
-        "tags": ["bachata choosen (show - desplazamiento)", "BS_DESPLAZAMIENTO_DERECHO", "BS_EXTENDIDO_EN_5", "Adrian Cervera", "Andrea Millares"],
+        "tags": ["learned bachata candidate (show)", "BS_DESPLAZAMIENTO_DERECHO", "BS_EXTENDIDO_EN_5", "Adrian Cervera", "Andrea Millares"],
         "level": 5,
         "source": "https://www.instagram.com/p/DJkxg0kI-lN/",
         "orientation": "portrait"
@@ -8884,15 +8894,16 @@
     {
         "id": "b40b0fe",
         "filepath": "bachata/partnerwork/sensual/b40b0fe.mp4",
-        "tags": ["combo", "bachata sensual", "bachata candidate"],
+        "tags": ["combo", "discarded bachata reference"],
         "level": 4,
         "source": "https://www.instagram.com/p/DLXPxdyiFrR/",
-        "orientation": "portrait"
+        "orientation": "portrait",
+        "comments":"A Isa no le gusta lo suficiente"
     },
     {
         "id": "239e0c0",
         "filepath": "bachata/partnerwork/sensual/239e0c0.mp4",
-        "tags": ["combo", "bachata sensual", "bachata candidate", "Jerem Dos Reis", "Sara Panero"],
+        "tags": ["combo", "bachata sensual", "selected bachata candidate", "Jerem Dos Reis", "Sara Panero"],
         "level": 4,
         "source": "https://www.instagram.com/p/DLXPxdyiFrR/",
         "orientation": "portrait"
@@ -8932,7 +8943,7 @@
     {
         "id": "73f3dcc",
         "filepath": "bachata/partnerwork/sensual/73f3dcc.mp4",
-        "tags": ["combo", "bachata sensual", "bachata candidate", "Jerem Dos Reis", "Migle"],
+        "tags": ["combo", "bachata sensual", "selected bachata candidate", "Jerem Dos Reis", "Migle"],
         "level": 4,
         "source": "https://www.instagram.com/p/DH83L5Hiid6/",
         "orientation": "portrait"
@@ -8940,15 +8951,16 @@
     {
         "id": "021ab6e",
         "filepath": "bachata/partnerwork/sensual/021ab6e.mp4",
-        "tags": ["combo", "bachata sensual", "bachata candidate", "Jerem Dos Reis", "Jade"],
+        "tags": ["combo", "bachata sensual", "discarded bachata reference", "Jerem Dos Reis", "Jade"],
         "level": 4,
         "source": "https://www.instagram.com/p/DHlu-P7iWrX/",
-        "orientation": "portrait"
+        "orientation": "portrait",
+        "comments":"A Isa no le gusta lo suficiente"
     },
     {
         "id": "daefbc8",
         "filepath": "bachata/partnerwork/sensual/daefbc8.mp4",
-        "tags": ["combo", "bachata sensual", "bachata candidate", "Ashley Baldwin", "Gabby Cernova"],
+        "tags": ["combo", "bachata sensual", "discarded bachata reference", "Ashley Baldwin", "Gabby Cernova"],
         "level": 4,
         "source": "https://www.instagram.com/p/DKrfQMzCveS/",
         "orientation": "portrait"
@@ -8956,7 +8968,7 @@
     {
         "id": "28994f5",
         "filepath": "bachata/partnerwork/sensual/28994f5.mp4",
-        "tags": ["combo", "bachata sensual", "bachata candidate", "SINCOPADO_EN_5", "Klaudia Kundera", "Leo Flores"],
+        "tags": ["combo", "bachata sensual", "discarded bachata reference", "SINCOPADO_EN_5", "Klaudia Kundera", "Leo Flores"],
         "level": 4,
         "source": "https://www.instagram.com/p/DLB7-IViJAe/?img_index=8",
         "orientation": "portrait"
@@ -8964,7 +8976,7 @@
     {
         "id": "dfae591",
         "filepath": "bachata/partnerwork/sensual/dfae591.mp4",
-        "tags": ["combo", "bachata sensual", "bachata candidate", "Ashley Baldwin", "Klaudia Kundera"],
+        "tags": ["combo", "bachata sensual", "selected bachata candidate", "Ashley Baldwin", "Klaudia Kundera"],
         "level": 4,
         "source": "https://www.instagram.com/p/DH6OEK0C2yU/",
         "orientation": "portrait"
@@ -8980,7 +8992,7 @@
     {
         "id": "cb3ebb2",
         "filepath": "bachata/partnerwork/sensual/cb3ebb2.mp4",
-        "tags": ["combo", "bachata sensual", "bachata candidate", "CORTE_EN_1", "Adrian Ros", "Klaudia Kundera"],
+        "tags": ["combo", "bachata sensual", "selected bachata candidate", "CORTE_EN_1", "Adrian Ros", "Klaudia Kundera"],
         "level": 4,
         "source": "https://www.instagram.com/p/DBY_7ijCNCv/?img_index=1",
         "orientation": "portrait"
@@ -8988,7 +9000,7 @@
     {
         "id": "cc8e4e5",
         "filepath": "bachata/partnerwork/sensual/cc8e4e5.mp4",
-        "tags": ["combo", "bachata sensual", "bachata candidate", "CORTE_EN_1", "Isabella Zertuche", "Andrés Loaiza"],
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "CORTE_EN_1", "Isabella Zertuche", "Andrés Loaiza"],
         "level": 4,
         "source": "Tardeo Bachatero - 28/06/2025",
         "orientation": "portrait"
@@ -9005,10 +9017,11 @@
     {
         "id": "67755c7",
         "filepath": "bachata/partnerwork/sensual/67755c7.mp4",
-        "tags": ["combo", "bachata sensual", "bachata candidate", "CORTE_EN_5_7", "CORTE_EN_1", "Isabella Zertuche", "Andrés Loaiza"],
+        "tags": ["combo", "bachata sensual", "discarded bachata reference", "CORTE_EN_5_7", "CORTE_EN_1", "Isabella Zertuche", "Andrés Loaiza"],
         "level": 4,
         "source": "Tardeo Bachatero - 28/06/2025",
-        "orientation": "portrait"
+        "orientation": "portrait",
+        "comments":"A Isa no le gusta lo suficiente"
     },
     {
         "id": "b44012a",
@@ -9067,15 +9080,16 @@
     {
         "id": "fed35ba",
         "filepath": "bachata/partnerwork/sensual/fed35ba.mp4",
-        "tags": ["combo", "bachata sensual", "bachata candidate", "CORTE_EN_7", "Gleb Naumkin"],
+        "tags": ["combo", "bachata sensual", "discarded bachata reference", "CORTE_EN_7", "Gleb Naumkin"],
         "level": 4,
         "source": "https://www.instagram.com/p/DLr9Dn4i4tL/",
-        "orientation": "portrait"
+        "orientation": "portrait",
+        "comments":"A Isa no le gusta lo suficiente"
     },
     {
         "id": "9e621b0",
         "filepath": "bachata/partnerwork/sensual/9e621b0.mp4",
-        "tags": ["combo", "bachata sensual", "bachata candidate", "Gabriella Crist", "Cristian García"],
+        "tags": ["combo", "bachata sensual", "selected bachata candidate", "Gabriella Crist", "Cristian García"],
         "level": 4,
         "source": "https://www.instagram.com/p/DLfiPsqCeIn/?img_index=3",
         "orientation": "portrait"
@@ -9083,7 +9097,7 @@
     {
         "id": "172b651",
         "filepath": "bachata/partnerwork/sensual/172b651.mp4",
-        "tags": ["combo", "bachata sensual", "bachata candidate", "Andres", "Yessica Gil"],
+        "tags": ["combo", "bachata sensual", "selected bachata candidate", "Andres", "Yessica Gil"],
         "level": 4,
         "source": "https://www.instagram.com/p/DIwNNKZM3uI/?img_index=1",
         "orientation": "portrait"
@@ -9243,5 +9257,91 @@
         "level": 5,
         "source": "https://www.instagram.com/p/DCAaRc_Bt0U/",
         "orientation": "portrait"
+    },
+    {
+        "id": "8e1ba0d",
+        "filepath": "bachata/partnerwork/sensual/8e1ba0d.mp4",
+        "tags": ["combo", "bachata sensual", "discarded bachata reference", "CORTE_EN_5_6_7", "Edey Rodriguez", "Togzhan"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DOl-jH-DHP5/",
+        "orientation": "portrait",
+        "comments": "Aún no tengo la técnica para este paso"
+    },
+    {
+        "id": "a7ff57e",
+        "filepath": "bachata/partnerwork/sensual/a7ff57e.mp4",
+        "tags": ["combo", "bachata sensual", "learned bachata reference", "CORTE_EN_1", "Edey Rodriguez", "Togzhan"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DOl-jH-DHP5/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "4abd5aa",
+        "filepath": "bachata/partnerwork/sensual/4abd5aa.mp4",
+        "tags": ["combo", "bachata sensual", "selected bachata candidate", "SINCOPADO_EN_5", "Edey Rodriguez", "Togzhan"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DOl-jH-DHP5/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "294878e",
+        "filepath": "bachata/partnerwork/sensual/294878e.mp4",
+        "tags": ["combo", "bachata sensual", "discarded bachata reference", "CORTE_EN_5", "Bazil", "Natali Bachata"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DCcsq3BCerT/",
+        "orientation": "portrait",
+        "comments":"A Isa no le gusta lo suficiente"
+    },
+    {
+        "id": "3125e5d",
+        "filepath": "bachata/partnerwork/sensual/3125e5d.mp4",
+        "tags": ["combo", "bachata sensual", "selected bachata candidate", "SINCOPADO_EN_5", "Olaïde Grant", "Klaudia Kundera"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DFaNIwQiUDm/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "aebcede",
+        "filepath": "bachata/partnerwork/sensual/aebcede.mp4",
+        "tags": ["combo", "bachata sensual", "selected bachata candidate", "SINCOPADO_EN_5", "CORTE_EN_5_7", "Leandro Ruiz Boyle", "Klaudia Kundera"],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DMKpp-9iUz4/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "5d9189b",
+        "filepath": "bachata/partnerwork/sensual/5d9189b.mp4",
+        "tags": ["combo", "bachata sensual", "BS_SINCOPADO_EN_5", "bachata repertoire (show)", "Isabella Zertuche", "Yo"],
+        "level": 5,
+        "source": "Ensayo - 02/08/2025",
+        "orientation": "landscape",
+        "references": ["1841f9d"]
+    },
+    {
+        "id": "72a3310",
+        "filepath": "bachata/partnerwork/sensual/72a3310.mp4",
+        "tags": ["combo", "bachata sensual", "CORTE_EN_7", "bachata repertoire (practice)", "Isabella Zertuche", "Yo"],
+        "level": 4,
+        "source": "Ensayo - 20/09/2025",
+        "orientation": "landscape",
+        "references": ["cc8e4e5"]
+    },
+    {
+        "id": "6449a6b",
+        "filepath": "bachata/partnerwork/sensual/6449a6b.mp4",
+        "tags": ["combo", "bachata sensual", "BS_SINCOPADO_EN_7", "BS_EXTENDIDO_EN_6", "BS_DESPLAZAMIENTO_DERECHO",  "bachata repertoire (show)", "Isabella Zertuche", "Yo"],
+        "level": 5,
+        "source": "Ensayo - 20/09/2025",
+        "orientation": "landscape",
+        "references": ["421df20"]
+    },
+    {
+        "id": "9451e92",
+        "filepath": "bachata/partnerwork/sensual/9451e92.mp4",
+        "tags": ["combo", "bachata sensual", "CORTE_EN_7_8_1", "bachata repertoire (practice)", "Isabella Zertuche", "Yo"],
+        "level": 4,
+        "source": "Ensayo - 22/09/2025",
+        "orientation": "landscape",
+        "references": ["a7ff57e"]
     }
 ]
