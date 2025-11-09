@@ -9580,7 +9580,7 @@
         "tags": [
             "combo",
             "bachata sensual",
-            "selected bachata candidate",
+            "learned bachata reference",
             "SINCOPADO_EN_5",
             "CORTE_EN_5_7",
             "Leandro Ruiz Boyle",
@@ -10067,6 +10067,167 @@
         ],
         "level": 4,
         "source": "https://www.instagram.com/p/DO_O57ACNdZ/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "03df9a4",
+        "filepath": "bachata/partnerwork/sensual/03df9a4.mp4",
+        "tags": [
+            "learned bachata reference",
+            "Walter Rodes",
+            "Sara Panero"
+        ],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DO_O57ACNdZ/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "fb75a35",
+        "filepath": "bachata/partnerwork/sensual/fb75a35.mp4",
+        "tags": [
+            "learned bachata reference",
+            "CORTE_EN_7",
+            "Walter Rodes",
+            "Sara Panero"
+        ],
+        "level": 4,
+        "source": "https://www.instagram.com/p/DO_O57ACNdZ/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "e5fb59f",
+        "filepath": "bachata/partnerwork/sensual/e5fb59f.mp4",
+        "tags": [
+            "bachata repertoire (practice)",
+            "Isabella Zertuche",
+            "SINCOPADO_EN_7",
+            "CORTE_EN_5_7",
+            "Yo"
+        ],
+        "level": 4,
+        "source": "Ensayo - 03/11/2025",
+        "orientation": "portrait",
+        "references": [
+            "aebcede"
+        ]
+    },
+    {
+        "id": "b6c7f40",
+        "filepath": "bachata/partnerwork/sensual/b6c7f40.mp4",
+        "tags": [
+            "bachata repertoire (practice)",
+            "Isabella Zertuche",
+            "Yo"
+        ],
+        "level": 4,
+        "source": "Ensayo - 03/11/2025",
+        "orientation": "portrait",
+        "references": [
+            "03df9a4"
+        ]
+    },
+    {
+        "id": "4b985b4",
+        "filepath": "bachata/partnerwork/sensual/4b985b4.mp4",
+        "tags": [
+            "bachata repertoire (practice)",
+            "CORTE_EN_7",
+            "Isabella Zertuche",
+            "Yo"
+        ],
+        "level": 4,
+        "source": "Ensayo - 03/11/2025",
+        "orientation": "portrait",
+        "references": [
+            "fb75a35"
+        ]
+    },
+    {
+        "id": "d1a7860",
+        "filepath": "bachata/partnerwork/sensual/d1a7860.mp4",
+        "tags": [
+            "follow bachata candidate",
+            "Rafael Nardon Freire",
+            "Ivana Aleksic",
+            "CORTE_EN_5_6_7"
+        ],
+        "level": 4,
+        "source": "https://www.instagram.com/reel/DLQOAIYCLMA/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "e404657",
+        "filepath": "bachata/partnerwork/sensual/e404657.mp4",
+        "tags": [
+            "follow bachata candidate",
+            "Giovana Brandi",
+            "Gadir Al-Saadi",
+            "CORTE_EN_5_6_7"
+        ],
+        "level": 4,
+        "source": "https://www.instagram.com/reel/DMHvXtBiX8d/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "16113d9",
+        "filepath": "bachata/partnerwork/sensual/16113d9.mp4",
+        "tags": [
+            "follow bachata candidate",
+            "Giovana Brandi",
+            "Gadir Al-Saadi"
+        ],
+        "level": 4,
+        "source": "https://www.instagram.com/reel/DMHvXtBiX8d/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "61a4798",
+        "filepath": "bachata/partnerwork/sensual/61a4798.mp4",
+        "tags": [
+            "follow bachata candidate",
+            "Giovana Brandi",
+            "Gadir Al-Saadi",
+            "SINCOPADO_EN_5"
+        ],
+        "level": 4,
+        "source": "https://www.instagram.com/reel/DMHvXtBiX8d/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "a2f7f4b",
+        "filepath": "bachata/partnerwork/sensual/a2f7f4b.mp4",
+        "tags": [
+            "follow bachata candidate",
+            "Klaudia Kundera",
+            "Arkadiusz Krupa",
+            "EXTENDIDO_EN_1"
+        ],
+        "level": 4,
+        "source": "https://www.instagram.com/reel/DL8Nq42omSz/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "7183875",
+        "filepath": "bachata/partnerwork/sensual/7183875.mp4",
+        "tags": [
+            "follow bachata candidate",
+            "Klaudia Kundera",
+            "Arkadiusz Krupa"
+        ],
+        "level": 4,
+        "source": "https://www.instagram.com/reel/DL8Nq42omSz/",
+        "orientation": "portrait"
+    },
+    {
+        "id": "bbc23eb",
+        "filepath": "bachata/partnerwork/sensual/bbc23eb.mp4",
+        "tags": [
+            "follow bachata candidate",
+            "Yury Pikhun",
+            "Virginia Peidro"
+        ],
+        "level": 4,
+        "source": "https://www.instagram.com/reel/DKj58sFC1q5/",
         "orientation": "portrait"
     }
 ]
